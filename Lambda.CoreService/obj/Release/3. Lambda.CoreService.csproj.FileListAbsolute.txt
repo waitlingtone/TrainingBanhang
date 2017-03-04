@@ -1,0 +1,18 @@
+D:\tuantp@live.com\Dropbox\Cong nghe\LambdaFramework\CoreService\bin\Release\Lambda.CoreService.dll
+D:\tuantp@live.com\Dropbox\Cong nghe\LambdaFramework\CoreService\bin\Release\Lambda.CoreService.pdb
+D:\tuantp@live.com\Dropbox\Cong nghe\LambdaFramework\CoreService\bin\Release\Lambda.BusinessObject.dll
+D:\tuantp@live.com\Dropbox\Cong nghe\LambdaFramework\CoreService\bin\Release\AutoFramework.dll
+D:\tuantp@live.com\Dropbox\Cong nghe\LambdaFramework\CoreService\bin\Release\Lambda.BusinessObject.pdb
+D:\tuantp@live.com\Dropbox\Cong nghe\LambdaFramework\CoreService\bin\Release\AutoFramework.pdb
+D:\tuantp@live.com\Dropbox\Cong nghe\LambdaFramework\CoreService\obj\Release\3. Lambda.CoreService.csprojResolveAssemblyReference.cache
+D:\tuantp@live.com\Dropbox\Cong nghe\LambdaFramework\CoreService\obj\Release\Lambda.CoreService.dll
+D:\tuantp@live.com\Dropbox\Cong nghe\LambdaFramework\CoreService\obj\Release\Lambda.CoreService.pdb
+D:\tuantp@live.com\Dropbox\Cong nghe\LambdaFramework\Lambda.CoreService\bin\Release\Lambda.CoreService.dll
+D:\tuantp@live.com\Dropbox\Cong nghe\LambdaFramework\Lambda.CoreService\bin\Release\Lambda.CoreService.pdb
+D:\tuantp@live.com\Dropbox\Cong nghe\LambdaFramework\Lambda.CoreService\bin\Release\Lambda.BusinessObject.dll
+D:\tuantp@live.com\Dropbox\Cong nghe\LambdaFramework\Lambda.CoreService\bin\Release\Lambda.Framework.dll
+D:\tuantp@live.com\Dropbox\Cong nghe\LambdaFramework\Lambda.CoreService\bin\Release\Lambda.BusinessObject.pdb
+D:\tuantp@live.com\Dropbox\Cong nghe\LambdaFramework\Lambda.CoreService\bin\Release\Lambda.Framework.pdb
+D:\tuantp@live.com\Dropbox\Cong nghe\LambdaFramework\Lambda.CoreService\obj\Release\3. Lambda.CoreService.csprojResolveAssemblyReference.cache
+D:\tuantp@live.com\Dropbox\Cong nghe\LambdaFramework\Lambda.CoreService\obj\Release\Lambda.CoreService.dll
+D:\tuantp@live.com\Dropbox\Cong nghe\LambdaFramework\Lambda.CoreService\obj\Release\Lambda.CoreService.pdb

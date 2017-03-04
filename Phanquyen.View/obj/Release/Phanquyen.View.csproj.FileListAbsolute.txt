@@ -1,0 +1,28 @@
+D:\Dropbox\QL DAY & HOC\Phanquyen.Solution\Phanquyen.View\bin\Release\Phanquyen.View.dll
+D:\Dropbox\QL DAY & HOC\Phanquyen.Solution\Phanquyen.View\bin\Release\Phanquyen.View.pdb
+D:\Dropbox\QL DAY & HOC\Phanquyen.Solution\Phanquyen.View\bin\Release\Lambda.BusinessObject.dll
+D:\Dropbox\QL DAY & HOC\Phanquyen.Solution\Phanquyen.View\bin\Release\Lambda.ClientModel.dll
+D:\Dropbox\QL DAY & HOC\Phanquyen.Solution\Phanquyen.View\bin\Release\Phanquyen.Model.dll
+D:\Dropbox\QL DAY & HOC\Phanquyen.Solution\Phanquyen.View\bin\Release\Lambda.Framework.dll
+D:\Dropbox\QL DAY & HOC\Phanquyen.Solution\Phanquyen.View\bin\Release\Lambda.CoreService.dll
+D:\Dropbox\QL DAY & HOC\Phanquyen.Solution\Phanquyen.View\bin\Release\Lambda.AutoService.dll
+D:\Dropbox\QL DAY & HOC\Phanquyen.Solution\Phanquyen.View\bin\Release\Lambda.DataObject.dll
+D:\Dropbox\QL DAY & HOC\Phanquyen.Solution\Phanquyen.View\bin\Release\Lambda.DynamicLoad.dll
+D:\Dropbox\QL DAY & HOC\Phanquyen.Solution\Phanquyen.View\bin\Release\Phanquyen.Model.pdb
+D:\Dropbox\QL DAY & HOC\Phanquyen.Solution\Phanquyen.View\obj\Release\Phanquyen.View.csprojResolveAssemblyReference.cache
+D:\Dropbox\QL DAY & HOC\Phanquyen.Solution\Phanquyen.View\obj\Release\Phanquyen.View.dll
+D:\Dropbox\QL DAY & HOC\Phanquyen.Solution\Phanquyen.View\obj\Release\Phanquyen.View.pdb
+E:\____Downloads\20170117_trainingaccount\SourceCode\Phanquyen.Solution\Phanquyen.View\bin\Release\Phanquyen.View.dll
+E:\____Downloads\20170117_trainingaccount\SourceCode\Phanquyen.Solution\Phanquyen.View\bin\Release\Phanquyen.View.pdb
+E:\____Downloads\20170117_trainingaccount\SourceCode\Phanquyen.Solution\Phanquyen.View\bin\Release\Lambda.BusinessObject.dll
+E:\____Downloads\20170117_trainingaccount\SourceCode\Phanquyen.Solution\Phanquyen.View\bin\Release\Lambda.ClientModel.dll
+E:\____Downloads\20170117_trainingaccount\SourceCode\Phanquyen.Solution\Phanquyen.View\bin\Release\Phanquyen.Model.dll
+E:\____Downloads\20170117_trainingaccount\SourceCode\Phanquyen.Solution\Phanquyen.View\bin\Release\Lambda.Framework.dll
+E:\____Downloads\20170117_trainingaccount\SourceCode\Phanquyen.Solution\Phanquyen.View\bin\Release\Lambda.CoreService.dll
+E:\____Downloads\20170117_trainingaccount\SourceCode\Phanquyen.Solution\Phanquyen.View\bin\Release\Lambda.AutoService.dll
+E:\____Downloads\20170117_trainingaccount\SourceCode\Phanquyen.Solution\Phanquyen.View\bin\Release\Lambda.DataObject.dll
+E:\____Downloads\20170117_trainingaccount\SourceCode\Phanquyen.Solution\Phanquyen.View\bin\Release\Lambda.DynamicLoad.dll
+E:\____Downloads\20170117_trainingaccount\SourceCode\Phanquyen.Solution\Phanquyen.View\bin\Release\Phanquyen.Model.pdb
+E:\____Downloads\20170117_trainingaccount\SourceCode\Phanquyen.Solution\Phanquyen.View\obj\Release\Phanquyen.View.csprojResolveAssemblyReference.cache
+E:\____Downloads\20170117_trainingaccount\SourceCode\Phanquyen.Solution\Phanquyen.View\obj\Release\Phanquyen.View.dll
+E:\____Downloads\20170117_trainingaccount\SourceCode\Phanquyen.Solution\Phanquyen.View\obj\Release\Phanquyen.View.pdb

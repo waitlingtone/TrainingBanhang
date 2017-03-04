@@ -1,0 +1,7 @@
+D:\tuantp@live.com\Dropbox\Cong nghe\BMIFramework\BusinessObject\bin\Release\BusinessObject.dll
+D:\tuantp@live.com\Dropbox\Cong nghe\BMIFramework\BusinessObject\bin\Release\BusinessObject.pdb
+D:\tuantp@live.com\Dropbox\Cong nghe\BMIFramework\BusinessObject\bin\Release\AutoFramework.dll
+D:\tuantp@live.com\Dropbox\Cong nghe\BMIFramework\BusinessObject\bin\Release\AutoFramework.pdb
+D:\tuantp@live.com\Dropbox\Cong nghe\BMIFramework\BusinessObject\obj\Release\4. BusinessObject.csprojResolveAssemblyReference.cache
+D:\tuantp@live.com\Dropbox\Cong nghe\BMIFramework\BusinessObject\obj\Release\BusinessObject.dll
+D:\tuantp@live.com\Dropbox\Cong nghe\BMIFramework\BusinessObject\obj\Release\BusinessObject.pdb

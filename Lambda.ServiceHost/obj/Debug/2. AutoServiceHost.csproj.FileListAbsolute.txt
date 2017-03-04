@@ -1,0 +1,21 @@
+D:\tuantp@live.com\Dropbox\Cong nghe\BMIFramework\AutoServiceHost\bin\Debug\ServiceInstall\ServiceInstall.cmd
+D:\tuantp@live.com\Dropbox\Cong nghe\BMIFramework\AutoServiceHost\bin\Debug\ServiceInstall\ServiceUninstall.cmd
+D:\tuantp@live.com\Dropbox\Cong nghe\BMIFramework\AutoServiceHost\bin\Debug\ServiceInstall\InstallUtil.exe
+D:\tuantp@live.com\Dropbox\Cong nghe\BMIFramework\AutoServiceHost\bin\Debug\AutoServiceHost.exe.config
+D:\tuantp@live.com\Dropbox\Cong nghe\BMIFramework\AutoServiceHost\bin\Debug\AutoServiceHost.exe
+D:\tuantp@live.com\Dropbox\Cong nghe\BMIFramework\AutoServiceHost\bin\Debug\AutoServiceHost.pdb
+D:\tuantp@live.com\Dropbox\Cong nghe\BMIFramework\AutoServiceHost\bin\Debug\AutoService.dll
+D:\tuantp@live.com\Dropbox\Cong nghe\BMIFramework\AutoServiceHost\bin\Debug\CoreService.dll
+D:\tuantp@live.com\Dropbox\Cong nghe\BMIFramework\AutoServiceHost\bin\Debug\DataObject.dll
+D:\tuantp@live.com\Dropbox\Cong nghe\BMIFramework\AutoServiceHost\bin\Debug\AutoFramework.dll
+D:\tuantp@live.com\Dropbox\Cong nghe\BMIFramework\AutoServiceHost\bin\Debug\BusinessObject.dll
+D:\tuantp@live.com\Dropbox\Cong nghe\BMIFramework\AutoServiceHost\bin\Debug\AutoService.pdb
+D:\tuantp@live.com\Dropbox\Cong nghe\BMIFramework\AutoServiceHost\bin\Debug\CoreService.pdb
+D:\tuantp@live.com\Dropbox\Cong nghe\BMIFramework\AutoServiceHost\bin\Debug\DataObject.pdb
+D:\tuantp@live.com\Dropbox\Cong nghe\BMIFramework\AutoServiceHost\bin\Debug\AutoFramework.pdb
+D:\tuantp@live.com\Dropbox\Cong nghe\BMIFramework\AutoServiceHost\bin\Debug\BusinessObject.pdb
+D:\tuantp@live.com\Dropbox\Cong nghe\BMIFramework\AutoServiceHost\obj\Debug\2. AutoServiceHost.csprojResolveAssemblyReference.cache
+D:\tuantp@live.com\Dropbox\Cong nghe\BMIFramework\AutoServiceHost\obj\Debug\AutoServiceHost.ProjectInstaller.resources
+D:\tuantp@live.com\Dropbox\Cong nghe\BMIFramework\AutoServiceHost\obj\Debug\2. AutoServiceHost.csproj.GenerateResource.Cache
+D:\tuantp@live.com\Dropbox\Cong nghe\BMIFramework\AutoServiceHost\obj\Debug\AutoServiceHost.exe
+D:\tuantp@live.com\Dropbox\Cong nghe\BMIFramework\AutoServiceHost\obj\Debug\AutoServiceHost.pdb

@@ -1,0 +1,9 @@
+E:\____Downloads\20170117_trainingaccount\SourceCode\Lambda.Solution\Lambda.DynamicLoad\bin\Debug\Lambda.DynamicLoad.dll
+E:\____Downloads\20170117_trainingaccount\SourceCode\Lambda.Solution\Lambda.DynamicLoad\bin\Debug\Lambda.DynamicLoad.pdb
+E:\____Downloads\20170117_trainingaccount\SourceCode\Lambda.Solution\Lambda.DynamicLoad\obj\Debug\5. Lambda.DynamicLoad.csprojResolveAssemblyReference.cache
+E:\____Downloads\20170117_trainingaccount\SourceCode\Lambda.Solution\Lambda.DynamicLoad\obj\Debug\Lambda.DynamicLoad.dll
+E:\____Downloads\20170117_trainingaccount\SourceCode\Lambda.Solution\Lambda.DynamicLoad\obj\Debug\Lambda.DynamicLoad.pdb
+D:\01.DH_SuPham\Lambda.Solution\Lambda.DynamicLoad\bin\Debug\Lambda.DynamicLoad.dll
+D:\01.DH_SuPham\Lambda.Solution\Lambda.DynamicLoad\bin\Debug\Lambda.DynamicLoad.pdb
+D:\01.DH_SuPham\Lambda.Solution\Lambda.DynamicLoad\obj\Debug\Lambda.DynamicLoad.dll
+D:\01.DH_SuPham\Lambda.Solution\Lambda.DynamicLoad\obj\Debug\Lambda.DynamicLoad.pdb

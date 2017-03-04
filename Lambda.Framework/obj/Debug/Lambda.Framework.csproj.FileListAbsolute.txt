@@ -1,0 +1,14 @@
+D:\tuantp@live.com\Dropbox\Cong nghe\LambdaFramework\Lambda.Framework\bin\Debug\Lambda.Framework.dll
+D:\tuantp@live.com\Dropbox\Cong nghe\LambdaFramework\Lambda.Framework\bin\Debug\Lambda.Framework.pdb
+D:\tuantp@live.com\Dropbox\Cong nghe\LambdaFramework\Lambda.Framework\obj\Debug\Lambda.Framework.dll
+D:\tuantp@live.com\Dropbox\Cong nghe\LambdaFramework\Lambda.Framework\obj\Debug\Lambda.Framework.pdb
+D:\tuantp@live.com\Dropbox\Cong nghe\LambdaFramework\Lambda.Framework\obj\Debug\Lambda.Framework.csprojResolveAssemblyReference.cache
+E:\____Downloads\20170117_trainingaccount\SourceCode\Lambda.Solution\Lambda.Framework\bin\Debug\Lambda.Framework.dll
+E:\____Downloads\20170117_trainingaccount\SourceCode\Lambda.Solution\Lambda.Framework\bin\Debug\Lambda.Framework.pdb
+E:\____Downloads\20170117_trainingaccount\SourceCode\Lambda.Solution\Lambda.Framework\obj\Debug\Lambda.Framework.csprojResolveAssemblyReference.cache
+E:\____Downloads\20170117_trainingaccount\SourceCode\Lambda.Solution\Lambda.Framework\obj\Debug\Lambda.Framework.dll
+E:\____Downloads\20170117_trainingaccount\SourceCode\Lambda.Solution\Lambda.Framework\obj\Debug\Lambda.Framework.pdb
+D:\01.DH_SuPham\Lambda.Solution\Lambda.Framework\bin\Debug\Lambda.Framework.dll
+D:\01.DH_SuPham\Lambda.Solution\Lambda.Framework\bin\Debug\Lambda.Framework.pdb
+D:\01.DH_SuPham\Lambda.Solution\Lambda.Framework\obj\Debug\Lambda.Framework.dll
+D:\01.DH_SuPham\Lambda.Solution\Lambda.Framework\obj\Debug\Lambda.Framework.pdb

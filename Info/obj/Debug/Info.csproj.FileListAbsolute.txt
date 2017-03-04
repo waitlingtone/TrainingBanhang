@@ -1,0 +1,48 @@
+D:\Dropbox\QL DAY & HOC\TrainingAccounting.Solution\Info\obj\Debug\Info.csprojResolveAssemblyReference.cache
+D:\Dropbox\QL DAY & HOC\TrainingAccounting.Solution\Info\bin\Debug\Info.dll
+D:\Dropbox\QL DAY & HOC\TrainingAccounting.Solution\Info\bin\Debug\Info.pdb
+D:\Dropbox\QL DAY & HOC\TrainingAccounting.Solution\Info\bin\Debug\Lambda.BusinessObject.dll
+D:\Dropbox\QL DAY & HOC\TrainingAccounting.Solution\Info\bin\Debug\Lambda.ClientModel.dll
+D:\Dropbox\QL DAY & HOC\TrainingAccounting.Solution\Info\bin\Debug\TrainingAccounting.Model.dll
+D:\Dropbox\QL DAY & HOC\TrainingAccounting.Solution\Info\bin\Debug\Lambda.Framework.dll
+D:\Dropbox\QL DAY & HOC\TrainingAccounting.Solution\Info\bin\Debug\Lambda.CoreService.dll
+D:\Dropbox\QL DAY & HOC\TrainingAccounting.Solution\Info\bin\Debug\Lambda.AutoService.dll
+D:\Dropbox\QL DAY & HOC\TrainingAccounting.Solution\Info\bin\Debug\Lambda.DataObject.dll
+D:\Dropbox\QL DAY & HOC\TrainingAccounting.Solution\Info\bin\Debug\Lambda.DynamicLoad.dll
+D:\Dropbox\QL DAY & HOC\TrainingAccounting.Solution\Info\bin\Debug\TrainingAccounting.Model.pdb
+D:\Dropbox\QL DAY & HOC\TrainingAccounting.Solution\Info\obj\Debug\Info.dll
+D:\Dropbox\QL DAY & HOC\TrainingAccounting.Solution\Info\obj\Debug\Info.pdb
+E:\____Downloads\20170117_trainingaccount\SourceCode\Lambda.Solution\Info\bin\Debug\Info.dll
+E:\____Downloads\20170117_trainingaccount\SourceCode\Lambda.Solution\Info\bin\Debug\Info.pdb
+E:\____Downloads\20170117_trainingaccount\SourceCode\Lambda.Solution\Info\bin\Debug\Lambda.BusinessObject.dll
+E:\____Downloads\20170117_trainingaccount\SourceCode\Lambda.Solution\Info\bin\Debug\Lambda.ClientModel.dll
+E:\____Downloads\20170117_trainingaccount\SourceCode\Lambda.Solution\Info\bin\Debug\TrainingAccounting.Model.dll
+E:\____Downloads\20170117_trainingaccount\SourceCode\Lambda.Solution\Info\bin\Debug\Lambda.Framework.dll
+E:\____Downloads\20170117_trainingaccount\SourceCode\Lambda.Solution\Info\bin\Debug\Lambda.CoreService.dll
+E:\____Downloads\20170117_trainingaccount\SourceCode\Lambda.Solution\Info\bin\Debug\Lambda.DynamicLoad.dll
+E:\____Downloads\20170117_trainingaccount\SourceCode\Lambda.Solution\Info\bin\Debug\TrainingAccounting.Model.pdb
+E:\____Downloads\20170117_trainingaccount\SourceCode\Lambda.Solution\Info\obj\Debug\Info.csprojResolveAssemblyReference.cache
+E:\____Downloads\20170117_trainingaccount\SourceCode\Lambda.Solution\Info\obj\Debug\Info.dll
+E:\____Downloads\20170117_trainingaccount\SourceCode\Lambda.Solution\Info\obj\Debug\Info.pdb
+E:\____Downloads\20170117_trainingaccount\SourceCode\Lambda.Solution\Info\bin\Debug\Lambda.BusinessObject.pdb
+E:\____Downloads\20170117_trainingaccount\SourceCode\Lambda.Solution\Info\bin\Debug\Lambda.ClientModel.pdb
+E:\____Downloads\20170117_trainingaccount\SourceCode\Lambda.Solution\Info\bin\Debug\Lambda.Framework.pdb
+E:\____Downloads\20170117_trainingaccount\SourceCode\Lambda.Solution\Info\bin\Debug\Lambda.CoreService.pdb
+E:\____Downloads\20170117_trainingaccount\SourceCode\Lambda.Solution\Info\bin\Debug\Lambda.DynamicLoad.pdb
+D:\01.DH_SuPham\Lambda.Solution\Info\bin\Debug\Info.dll
+D:\01.DH_SuPham\Lambda.Solution\Info\bin\Debug\Info.pdb
+D:\01.DH_SuPham\Lambda.Solution\Info\bin\Debug\Lambda.BusinessObject.dll
+D:\01.DH_SuPham\Lambda.Solution\Info\bin\Debug\Lambda.ClientModel.dll
+D:\01.DH_SuPham\Lambda.Solution\Info\bin\Debug\TrainingAccounting.Model.dll
+D:\01.DH_SuPham\Lambda.Solution\Info\bin\Debug\Lambda.Framework.dll
+D:\01.DH_SuPham\Lambda.Solution\Info\bin\Debug\Lambda.CoreService.dll
+D:\01.DH_SuPham\Lambda.Solution\Info\bin\Debug\Lambda.DynamicLoad.dll
+D:\01.DH_SuPham\Lambda.Solution\Info\bin\Debug\Lambda.BusinessObject.pdb
+D:\01.DH_SuPham\Lambda.Solution\Info\bin\Debug\Lambda.ClientModel.pdb
+D:\01.DH_SuPham\Lambda.Solution\Info\bin\Debug\TrainingAccounting.Model.pdb
+D:\01.DH_SuPham\Lambda.Solution\Info\bin\Debug\Lambda.Framework.pdb
+D:\01.DH_SuPham\Lambda.Solution\Info\bin\Debug\Lambda.CoreService.pdb
+D:\01.DH_SuPham\Lambda.Solution\Info\bin\Debug\Lambda.DynamicLoad.pdb
+D:\01.DH_SuPham\Lambda.Solution\Info\obj\Debug\Info.csprojResolveAssemblyReference.cache
+D:\01.DH_SuPham\Lambda.Solution\Info\obj\Debug\Info.dll
+D:\01.DH_SuPham\Lambda.Solution\Info\obj\Debug\Info.pdb

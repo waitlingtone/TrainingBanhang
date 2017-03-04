@@ -1,0 +1,30 @@
+Insufficient winsock resources available to complete socket connection initiation.
+
+
+An operation on a socket could not be performed because the system lacked sufficient buffer space or because a queue was full 127.0.0.1:9998
+
+System.Net.Sockets.SocketError.NoBufferSpaceAvailable
+
+----------------------------
+
+System.InsufficientMemoryException: Insufficient winsock resources available to complete socket connection initiation. ---> System.Net.Sockets.SocketException: An operation on a socket could not be performed because the system lacked sufficient buffer space or because a queue was full 127.0.0.1:9998
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.ServiceModel.Channels.SocketConnectionInitiator.Connect(Uri uri, TimeSpan timeout)
+   --- End of inner exception stack trace ---
+
+Server stack trace: 
+   at System.ServiceModel.Channels.SocketConnectionInitiator.Connect(Uri uri, TimeSpan timeout)
+   at System.ServiceModel.Channels.BufferedConnectionInitiator.Connect(Uri uri, TimeSpan timeout)
+   at System.ServiceModel.Channels.ConnectionPoolHelper.EstablishConnection(TimeSpan timeout)
+   at System.ServiceModel.Channels.ClientFramingDuplexSessionChannel.OnOpen(TimeSpan timeout)
+   at System.ServiceModel.Channels.CommunicationObject.Open(TimeSpan timeout)
+   at System.ServiceModel.Channels.ServiceChannel.OnOpen(TimeSpan timeout)
+   at System.ServiceModel.Channels.CommunicationObject.Open(TimeSpan timeout)
+   at System.ServiceModel.Channels.CommunicationObject.Open()
+
+Exception rethrown at [0]: 
+   at System.Runtime.Remoting.Proxies.RealProxy.HandleReturnMessage(IMessage reqMsg, IMessage retMsg)
+   at System.Runtime.Remoting.Proxies.RealProxy.PrivateInvoke(MessageData& msgData, Int32 type)
+   at System.ServiceModel.ICommunicationObject.Open()
+   at Lambda.ClientModel.FactoryService.CreateProxy() in d:\tuantp@live.com\Dropbox\Cong nghe\LambdaFramework\Lambda.ClientModel\FactoryService.cs:line 43

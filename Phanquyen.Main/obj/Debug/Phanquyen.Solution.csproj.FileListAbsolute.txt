@@ -1,0 +1,9 @@
+D:\Dropbox\UIS_HCMUP\Phanquyen.Solution\Phanquyen.Solution\bin\Debug\Phanquyen.Solution.exe
+D:\Dropbox\UIS_HCMUP\Phanquyen.Solution\Phanquyen.Solution\bin\Debug\Phanquyen.Solution.pdb
+D:\Dropbox\UIS_HCMUP\Phanquyen.Solution\Phanquyen.Solution\obj\Debug\Phanquyen.Solution.csprojResolveAssemblyReference.cache
+D:\Dropbox\UIS_HCMUP\Phanquyen.Solution\Phanquyen.Solution\obj\Debug\Phanquyen.Solution.Form1.resources
+D:\Dropbox\UIS_HCMUP\Phanquyen.Solution\Phanquyen.Solution\obj\Debug\Phanquyen.Solution.Properties.Resources.resources
+D:\Dropbox\UIS_HCMUP\Phanquyen.Solution\Phanquyen.Solution\obj\Debug\Phanquyen.Solution.csproj.GenerateResource.Cache
+D:\Dropbox\UIS_HCMUP\Phanquyen.Solution\Phanquyen.Solution\obj\Debug\Phanquyen.Solution.exe.licenses
+D:\Dropbox\UIS_HCMUP\Phanquyen.Solution\Phanquyen.Solution\obj\Debug\Phanquyen.Solution.exe
+D:\Dropbox\UIS_HCMUP\Phanquyen.Solution\Phanquyen.Solution\obj\Debug\Phanquyen.Solution.pdb

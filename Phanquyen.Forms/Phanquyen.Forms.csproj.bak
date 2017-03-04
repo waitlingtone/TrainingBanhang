@@ -1,0 +1,199 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{EB26C8EE-479F-4F8D-BA5F-88D19034AF91}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Phanquyen.Forms</RootNamespace>
+    <AssemblyName>Phanquyen.Forms</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="DevExpress.Data.v12.2, Version=12.2.8.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="DevExpress.Printing.v12.2.Core, Version=12.2.8.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="DevExpress.Utils.v12.2, Version=12.2.8.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="DevExpress.XtraBars.v12.2, Version=12.2.8.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="DevExpress.XtraEditors.v12.2, Version=12.2.8.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="DevExpress.XtraGrid.v12.2, Version=12.2.8.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="DevExpress.XtraLayout.v12.2, Version=12.2.8.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="DevExpress.XtraTreeList.v12.2, Version=12.2.8.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.Core">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.Drawing">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.Windows.Forms">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.Xml.Linq">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.Data.DataSetExtensions">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="Microsoft.CSharp">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.Data">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.Xml">
+      <Private>True</Private>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="ChucnangForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ChucnangForm.Designer.cs">
+      <DependentUpon>ChucnangForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MenuObject.cs" />
+    <Compile Include="NhomChucnangForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="NhomChucnangForm.Designer.cs">
+      <DependentUpon>NhomChucnangForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PhanquyenChucnangChoVaitroForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PhanquyenChucnangChoVaitroForm.Designer.cs">
+      <DependentUpon>PhanquyenChucnangChoVaitroForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PhanquyenNguoidungForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PhanquyenNguoidungForm.Designer.cs">
+      <DependentUpon>PhanquyenNguoidungForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="TaikhoanForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TaikhoanForm.Designer.cs">
+      <DependentUpon>TaikhoanForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="VaitroForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="VaitroForm.Designer.cs">
+      <DependentUpon>VaitroForm.cs</DependentUpon>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Lambda.BusinessObject\4. Lambda.BusinessObject.csproj">
+      <Project>{8be13e65-df39-43b8-a857-f23e84da1c4e}</Project>
+      <Name>4. Lambda.BusinessObject</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Lambda.ClientModel\1. Lambda.ClientModel.csproj">
+      <Project>{c48d9079-14e5-4c74-94d5-023f497153fb}</Project>
+      <Name>1. Lambda.ClientModel</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Lambda.DynamicLoad\5. Lambda.DynamicLoad.csproj">
+      <Project>{cd4cbbc4-140b-43ce-8ec5-c61af0bf87eb}</Project>
+      <Name>5. Lambda.DynamicLoad</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Phanquyen.Model\Phanquyen.Model.csproj">
+      <Project>{413e8b55-5d73-4f7c-8734-a99cc0548cc7}</Project>
+      <Name>Phanquyen.Model</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Phanquyen.Presenter\Phanquyen.Presenter.csproj">
+      <Project>{8c6303a9-8282-4f67-9c03-17b937bf149e}</Project>
+      <Name>Phanquyen.Presenter</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Phanquyen.View\Phanquyen.View.csproj">
+      <Project>{c890ca61-ade2-49cd-98b0-5412ffa5fafe}</Project>
+      <Name>Phanquyen.View</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="ChucnangForm.resx">
+      <DependentUpon>ChucnangForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="NhomChucnangForm.resx">
+      <DependentUpon>NhomChucnangForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PhanquyenChucnangChoVaitroForm.resx">
+      <DependentUpon>PhanquyenChucnangChoVaitroForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PhanquyenNguoidungForm.resx">
+      <DependentUpon>PhanquyenNguoidungForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\licenses.licx" />
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TaikhoanForm.resx">
+      <DependentUpon>TaikhoanForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="VaitroForm.resx">
+      <DependentUpon>VaitroForm.cs</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Properties\DataSources\Phanquyen.Model.BusinessObject.CanboModel.datasource" />
+    <None Include="Properties\DataSources\Phanquyen.Model.BusinessObject.GroupItemModel.datasource" />
+    <None Include="Properties\DataSources\Phanquyen.Model.BusinessObject.ItemModel.datasource" />
+    <None Include="Properties\DataSources\Phanquyen.Model.BusinessObject.NguoidungModel.datasource" />
+    <None Include="Properties\DataSources\Phanquyen.Model.BusinessObject.RoleModel.datasource" />
+    <None Include="Properties\DataSources\Phanquyen.Model.BusinessObject.RoleRightModel.datasource" />
+    <None Include="Properties\DataSources\Phanquyen.Model.BusinessObject.UserRoleModel.datasource" />
+    <None Include="Properties\DataSources\Phanquyen.Model.BusinessObject._UserModel.datasource" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

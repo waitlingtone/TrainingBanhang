@@ -1,0 +1,61 @@
+﻿Uninstalling assembly 'G:\Dropbox\_____Banhang\___Project\Service\AutoService\AutoServiceHost\bin\Debug\AutoServiceHost.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = G:\Dropbox\_____Banhang\___Project\Service\AutoService\AutoServiceHost\bin\Debug\AutoServiceHost.InstallLog
+   assemblypath = G:\Dropbox\_____Banhang\___Project\Service\AutoService\AutoServiceHost\bin\Debug\AutoServiceHost.exe
+Removing EventLog source AutoService.
+Service AutoService is being removed from the system...
+Service AutoService was successfully removed from the system.
+Attempt to stop service AutoService.
+Installing assembly 'G:\Dropbox\_____Banhang\___Project\Service\AutoService\AutoServiceHost\bin\Debug\AutoServiceHost.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = G:\Dropbox\_____Banhang\___Project\Service\AutoService\AutoServiceHost\bin\Debug\AutoServiceHost.InstallLog
+   assemblypath = G:\Dropbox\_____Banhang\___Project\Service\AutoService\AutoServiceHost\bin\Debug\AutoServiceHost.exe
+Installing service AutoService...
+Service AutoService has been successfully installed.
+Creating EventLog source AutoService in log Application...
+Committing assembly 'G:\Dropbox\_____Banhang\___Project\Service\AutoService\AutoServiceHost\bin\Debug\AutoServiceHost.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = G:\Dropbox\_____Banhang\___Project\Service\AutoService\AutoServiceHost\bin\Debug\AutoServiceHost.InstallLog
+   assemblypath = G:\Dropbox\_____Banhang\___Project\Service\AutoService\AutoServiceHost\bin\Debug\AutoServiceHost.exe
+Installing assembly 'D:\Dropbox\_____Banhang\___Project\Service\AutoService\AutoServiceHost\bin\Debug\AutoServiceHost.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Dropbox\_____Banhang\___Project\Service\AutoService\AutoServiceHost\bin\Debug\AutoServiceHost.InstallLog
+   assemblypath = D:\Dropbox\_____Banhang\___Project\Service\AutoService\AutoServiceHost\bin\Debug\AutoServiceHost.exe
+Installing service AutoService...
+Service AutoService has been successfully installed.
+Creating EventLog source AutoService in log Application...
+Committing assembly 'D:\Dropbox\_____Banhang\___Project\Service\AutoService\AutoServiceHost\bin\Debug\AutoServiceHost.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Dropbox\_____Banhang\___Project\Service\AutoService\AutoServiceHost\bin\Debug\AutoServiceHost.InstallLog
+   assemblypath = D:\Dropbox\_____Banhang\___Project\Service\AutoService\AutoServiceHost\bin\Debug\AutoServiceHost.exe
+Installing assembly 'D:\Dropbox\______GenCode\__AutoService\AutoService\AutoServiceHost\bin\Debug\AutoServiceHost.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\Dropbox\______GenCode\__AutoService\AutoService\AutoServiceHost\bin\Debug\AutoServiceHost.exe
+   logfile = D:\Dropbox\______GenCode\__AutoService\AutoService\AutoServiceHost\bin\Debug\AutoServiceHost.InstallLog
+Installing service AutoService...
+Creating EventLog source AutoService in log Application...
+Rolling back assembly 'D:\Dropbox\______GenCode\__AutoService\AutoService\AutoServiceHost\bin\Debug\AutoServiceHost.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\Dropbox\______GenCode\__AutoService\AutoService\AutoServiceHost\bin\Debug\AutoServiceHost.exe
+   logfile = D:\Dropbox\______GenCode\__AutoService\AutoService\AutoServiceHost\bin\Debug\AutoServiceHost.InstallLog
+Restoring event log to previous state for source AutoService.
+Installing assembly 'D:\Dropbox\______GenCode\__AutoService\AutoService\AutoServiceHost\bin\Debug\AutoServiceHost.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\Dropbox\______GenCode\__AutoService\AutoService\AutoServiceHost\bin\Debug\AutoServiceHost.exe
+   logfile = D:\Dropbox\______GenCode\__AutoService\AutoService\AutoServiceHost\bin\Debug\AutoServiceHost.InstallLog
+Installing service AutoService...
+Service AutoService has been successfully installed.
+Creating EventLog source AutoService in log Application...
+Committing assembly 'D:\Dropbox\______GenCode\__AutoService\AutoService\AutoServiceHost\bin\Debug\AutoServiceHost.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\Dropbox\______GenCode\__AutoService\AutoService\AutoServiceHost\bin\Debug\AutoServiceHost.exe
+   logfile = D:\Dropbox\______GenCode\__AutoService\AutoService\AutoServiceHost\bin\Debug\AutoServiceHost.InstallLog

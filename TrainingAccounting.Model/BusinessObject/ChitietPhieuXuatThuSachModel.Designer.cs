@@ -1,0 +1,22 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace TrainingAccounting.Model.BusinessObject
+{
+    public partial class ChitietPhieuXuatThuSachModel
+    {
+        public int STT { get; set; }
+        public String TenSach { get; set; }
+        partial void OnSoluongChanged()
+        {
+            Thanhtien = Soluong * Dongia;
+        }
+        partial void OnDongiaChanged()
+        {
+            Thanhtien = Soluong * Dongia;
+        }
+    }
+}

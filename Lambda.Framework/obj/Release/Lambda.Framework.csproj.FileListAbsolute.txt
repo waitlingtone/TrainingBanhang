@@ -1,0 +1,9 @@
+D:\tuantp@live.com\Dropbox\Cong nghe\LambdaFramework\AutoFramework\bin\Release\Lambda.Framework.dll
+D:\tuantp@live.com\Dropbox\Cong nghe\LambdaFramework\AutoFramework\bin\Release\Lambda.Framework.pdb
+D:\tuantp@live.com\Dropbox\Cong nghe\LambdaFramework\AutoFramework\obj\Release\Lambda.Framework.dll
+D:\tuantp@live.com\Dropbox\Cong nghe\LambdaFramework\AutoFramework\obj\Release\Lambda.Framework.pdb
+D:\tuantp@live.com\Dropbox\Cong nghe\LambdaFramework\Lambda.Framework\bin\Release\Lambda.Framework.dll
+D:\tuantp@live.com\Dropbox\Cong nghe\LambdaFramework\Lambda.Framework\bin\Release\Lambda.Framework.pdb
+D:\tuantp@live.com\Dropbox\Cong nghe\LambdaFramework\Lambda.Framework\obj\Release\Lambda.Framework.dll
+D:\tuantp@live.com\Dropbox\Cong nghe\LambdaFramework\Lambda.Framework\obj\Release\Lambda.Framework.pdb
+D:\tuantp@live.com\Dropbox\Cong nghe\LambdaFramework\Lambda.Framework\obj\Release\Lambda.Framework.csprojResolveAssemblyReference.cache

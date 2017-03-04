@@ -1,0 +1,133 @@
+D:\tuantp@live.com\Dropbox\Cong nghe\LambdaTools\Lambda.MainProject\bin\Release\Lambda.MainProject.exe.config
+D:\tuantp@live.com\Dropbox\Cong nghe\LambdaTools\Lambda.MainProject\bin\Release\Lambda.MainProject.exe
+D:\tuantp@live.com\Dropbox\Cong nghe\LambdaTools\Lambda.MainProject\bin\Release\Lambda.MainProject.pdb
+D:\tuantp@live.com\Dropbox\Cong nghe\LambdaTools\Lambda.MainProject\bin\Release\Lambda.BusinessObject.dll
+D:\tuantp@live.com\Dropbox\Cong nghe\LambdaTools\Lambda.MainProject\bin\Release\Lambda.ClientModel.dll
+D:\tuantp@live.com\Dropbox\Cong nghe\LambdaTools\Lambda.MainProject\bin\Release\Lambda.Framework.dll
+D:\tuantp@live.com\Dropbox\Cong nghe\LambdaTools\Lambda.MainProject\bin\Release\Lambda.CoreService.dll
+D:\tuantp@live.com\Dropbox\Cong nghe\LambdaTools\Lambda.MainProject\bin\Release\Lambda.AutoService.dll
+D:\tuantp@live.com\Dropbox\Cong nghe\LambdaTools\Lambda.MainProject\bin\Release\Lambda.DataObject.dll
+D:\tuantp@live.com\Dropbox\Cong nghe\LambdaTools\Lambda.MainProject\obj\Release\Lambda.MainProject.MainForm.resources
+D:\tuantp@live.com\Dropbox\Cong nghe\LambdaTools\Lambda.MainProject\obj\Release\Lambda.MainProject.Properties.Resources.resources
+D:\tuantp@live.com\Dropbox\Cong nghe\LambdaTools\Lambda.MainProject\obj\Release\Lambda.MainProject.csproj.GenerateResource.Cache
+D:\tuantp@live.com\Dropbox\Cong nghe\LambdaTools\Lambda.MainProject\obj\Release\Lambda.MainProject.exe.licenses
+D:\tuantp@live.com\Dropbox\Cong nghe\LambdaTools\Lambda.MainProject\obj\Release\Lambda.MainProject.exe
+D:\tuantp@live.com\Dropbox\Cong nghe\LambdaTools\Lambda.MainProject\obj\Release\Lambda.MainProject.pdb
+D:\tuantp@live.com\Dropbox\Cong nghe\LambdaTools\Lambda.MainProject\bin\Release\Lib\TestLib.dll
+D:\tuantp@live.com\Dropbox\Cong nghe\LambdaTools\Lambda.MainProject\bin\Release\Lib\TestLib.dll.config
+D:\tuantp@live.com\Dropbox\Cong nghe\LambdaTools\Lambda.MainProject\obj\Release\Lambda.MainProject.csprojResolveAssemblyReference.cache
+D:\tuantp@live.com\Dropbox\Cong nghe\LambdaFramework\Lambda.MainProject\bin\Release\Lambda.MainProject.exe.config
+D:\tuantp@live.com\Dropbox\Cong nghe\LambdaFramework\Lambda.MainProject\obj\Release\Lambda.MainProject.exe
+D:\tuantp@live.com\Dropbox\Cong nghe\LambdaFramework\Lambda.MainProject\obj\Release\Lambda.MainProject.pdb
+D:\tuantp@live.com\Dropbox\Cong nghe\LambdaFramework\Lambda.MainProject\bin\Release\TestLib.dll
+D:\tuantp@live.com\Dropbox\Cong nghe\LambdaFramework\Lambda.MainProject\bin\Release\Lambda.MainProject.exe
+D:\tuantp@live.com\Dropbox\Cong nghe\LambdaFramework\Lambda.MainProject\bin\Release\Lambda.MainProject.pdb
+D:\tuantp@live.com\Dropbox\Cong nghe\LambdaFramework\Lambda.MainProject\bin\Release\Lambda.BusinessObject.dll
+D:\tuantp@live.com\Dropbox\Cong nghe\LambdaFramework\Lambda.MainProject\bin\Release\Lambda.ClientModel.dll
+D:\tuantp@live.com\Dropbox\Cong nghe\LambdaFramework\Lambda.MainProject\bin\Release\Lambda.Framework.dll
+D:\tuantp@live.com\Dropbox\Cong nghe\LambdaFramework\Lambda.MainProject\bin\Release\Lambda.CoreService.dll
+D:\tuantp@live.com\Dropbox\Cong nghe\LambdaFramework\Lambda.MainProject\bin\Release\Lambda.AutoService.dll
+D:\tuantp@live.com\Dropbox\Cong nghe\LambdaFramework\Lambda.MainProject\bin\Release\Lambda.DataObject.dll
+D:\tuantp@live.com\Dropbox\Cong nghe\LambdaFramework\Lambda.MainProject\bin\Release\Lambda.BusinessObject.pdb
+D:\tuantp@live.com\Dropbox\Cong nghe\LambdaFramework\Lambda.MainProject\bin\Release\Lambda.ClientModel.pdb
+D:\tuantp@live.com\Dropbox\Cong nghe\LambdaFramework\Lambda.MainProject\bin\Release\Lambda.Framework.pdb
+D:\tuantp@live.com\Dropbox\Cong nghe\LambdaFramework\Lambda.MainProject\bin\Release\Lambda.CoreService.pdb
+D:\tuantp@live.com\Dropbox\Cong nghe\LambdaFramework\Lambda.MainProject\bin\Release\Lambda.AutoService.pdb
+D:\tuantp@live.com\Dropbox\Cong nghe\LambdaFramework\Lambda.MainProject\bin\Release\Lambda.DataObject.pdb
+D:\tuantp@live.com\Dropbox\Cong nghe\LambdaFramework\Lambda.MainProject\obj\Release\Lambda.MainProject.csprojResolveAssemblyReference.cache
+D:\tuantp@live.com\Dropbox\Cong nghe\LambdaFramework\Lambda.MainProject\obj\Release\Lambda.MainProject.MainForm.resources
+D:\tuantp@live.com\Dropbox\Cong nghe\LambdaFramework\Lambda.MainProject\obj\Release\Lambda.MainProject.Properties.Resources.resources
+D:\tuantp@live.com\Dropbox\Cong nghe\LambdaFramework\Lambda.MainProject\obj\Release\Lambda.MainProject.csproj.GenerateResource.Cache
+D:\tuantp@live.com\Dropbox\Cong nghe\LambdaFramework\Lambda.MainProject\obj\Release\Lambda.MainProject.exe.licenses
+D:\tuantp@live.com\Dropbox\Cong nghe\LambdaFramework\Lambda.MainProject\bin\Release\Lambda.DynamicLoad.dll
+D:\tuantp@live.com\Dropbox\Cong nghe\LambdaFramework\Lambda.MainProject\bin\Release\Lambda.DynamicLoad.pdb
+D:\tuantp@live.com\Dropbox\Cong nghe\LambdaFramework\Lambda.MainProject\obj\Release\Lambda.MainProject.LoginForm.resources
+D:\Dropbox\QL DAY & HOC\MainProject\Lambda.MainProject\bin\Release\Lambda.MainProject.exe.config
+D:\Dropbox\QL DAY & HOC\MainProject\Lambda.MainProject\bin\Release\Lambda.MainProject.exe.manifest
+D:\Dropbox\QL DAY & HOC\MainProject\Lambda.MainProject\bin\Release\Lambda.MainProject.application
+D:\Dropbox\QL DAY & HOC\MainProject\Lambda.MainProject\bin\Release\Lambda.MainProject.exe
+D:\Dropbox\QL DAY & HOC\MainProject\Lambda.MainProject\bin\Release\Lambda.MainProject.pdb
+D:\Dropbox\QL DAY & HOC\MainProject\Lambda.MainProject\bin\Release\DevExpress.BonusSkins.v12.2.dll
+D:\Dropbox\QL DAY & HOC\MainProject\Lambda.MainProject\bin\Release\DevExpress.Data.v12.2.dll
+D:\Dropbox\QL DAY & HOC\MainProject\Lambda.MainProject\bin\Release\DevExpress.Printing.v12.2.Core.dll
+D:\Dropbox\QL DAY & HOC\MainProject\Lambda.MainProject\bin\Release\DevExpress.Utils.v12.2.dll
+D:\Dropbox\QL DAY & HOC\MainProject\Lambda.MainProject\bin\Release\DevExpress.XtraBars.v12.2.dll
+D:\Dropbox\QL DAY & HOC\MainProject\Lambda.MainProject\bin\Release\DevExpress.XtraEditors.v12.2.dll
+D:\Dropbox\QL DAY & HOC\MainProject\Lambda.MainProject\bin\Release\DevExpress.XtraGrid.v12.2.dll
+D:\Dropbox\QL DAY & HOC\MainProject\Lambda.MainProject\bin\Release\DevExpress.XtraLayout.v12.2.dll
+D:\Dropbox\QL DAY & HOC\MainProject\Lambda.MainProject\bin\Release\DevExpress.XtraTreeList.v12.2.dll
+D:\Dropbox\QL DAY & HOC\MainProject\Lambda.MainProject\bin\Release\Info.dll
+D:\Dropbox\QL DAY & HOC\MainProject\Lambda.MainProject\bin\Release\Lambda.BusinessObject.dll
+D:\Dropbox\QL DAY & HOC\MainProject\Lambda.MainProject\bin\Release\Lambda.ClientModel.dll
+D:\Dropbox\QL DAY & HOC\MainProject\Lambda.MainProject\bin\Release\Lambda.DynamicLoad.dll
+D:\Dropbox\QL DAY & HOC\MainProject\Lambda.MainProject\bin\Release\Microsoft.VisualBasic.dll
+D:\Dropbox\QL DAY & HOC\MainProject\Lambda.MainProject\bin\Release\Microsoft.VisualBasic.PowerPacks.Vs.dll
+D:\Dropbox\QL DAY & HOC\MainProject\Lambda.MainProject\bin\Release\System.Data.dll
+D:\Dropbox\QL DAY & HOC\MainProject\Lambda.MainProject\bin\Release\System.Deployment.dll
+D:\Dropbox\QL DAY & HOC\MainProject\Lambda.MainProject\bin\Release\System.dll
+D:\Dropbox\QL DAY & HOC\MainProject\Lambda.MainProject\bin\Release\System.Drawing.dll
+D:\Dropbox\QL DAY & HOC\MainProject\Lambda.MainProject\bin\Release\System.Windows.Forms.dll
+D:\Dropbox\QL DAY & HOC\MainProject\Lambda.MainProject\bin\Release\System.Xml.dll
+D:\Dropbox\QL DAY & HOC\MainProject\Lambda.MainProject\bin\Release\TrainingAccounting.Model.dll
+D:\Dropbox\QL DAY & HOC\MainProject\Lambda.MainProject\bin\Release\Lambda.Framework.dll
+D:\Dropbox\QL DAY & HOC\MainProject\Lambda.MainProject\bin\Release\Lambda.CoreService.dll
+D:\Dropbox\QL DAY & HOC\MainProject\Lambda.MainProject\bin\Release\Lambda.AutoService.dll
+D:\Dropbox\QL DAY & HOC\MainProject\Lambda.MainProject\bin\Release\Lambda.DataObject.dll
+D:\Dropbox\QL DAY & HOC\MainProject\Lambda.MainProject\bin\Release\DevExpress.Data.v12.2.xml
+D:\Dropbox\QL DAY & HOC\MainProject\Lambda.MainProject\bin\Release\DevExpress.Printing.v12.2.Core.xml
+D:\Dropbox\QL DAY & HOC\MainProject\Lambda.MainProject\bin\Release\DevExpress.Utils.v12.2.xml
+D:\Dropbox\QL DAY & HOC\MainProject\Lambda.MainProject\bin\Release\DevExpress.XtraBars.v12.2.xml
+D:\Dropbox\QL DAY & HOC\MainProject\Lambda.MainProject\bin\Release\DevExpress.XtraEditors.v12.2.xml
+D:\Dropbox\QL DAY & HOC\MainProject\Lambda.MainProject\bin\Release\DevExpress.XtraGrid.v12.2.xml
+D:\Dropbox\QL DAY & HOC\MainProject\Lambda.MainProject\bin\Release\DevExpress.XtraLayout.v12.2.xml
+D:\Dropbox\QL DAY & HOC\MainProject\Lambda.MainProject\bin\Release\DevExpress.XtraTreeList.v12.2.xml
+D:\Dropbox\QL DAY & HOC\MainProject\Lambda.MainProject\bin\Release\Info.pdb
+D:\Dropbox\QL DAY & HOC\MainProject\Lambda.MainProject\bin\Release\Microsoft.VisualBasic.PowerPacks.Vs.xml
+D:\Dropbox\QL DAY & HOC\MainProject\Lambda.MainProject\bin\Release\TrainingAccounting.Model.pdb
+D:\Dropbox\QL DAY & HOC\MainProject\Lambda.MainProject\bin\Release\de\DevExpress.Data.v12.2.resources.dll
+D:\Dropbox\QL DAY & HOC\MainProject\Lambda.MainProject\bin\Release\es\DevExpress.Data.v12.2.resources.dll
+D:\Dropbox\QL DAY & HOC\MainProject\Lambda.MainProject\bin\Release\ja\DevExpress.Data.v12.2.resources.dll
+D:\Dropbox\QL DAY & HOC\MainProject\Lambda.MainProject\bin\Release\ru\DevExpress.Data.v12.2.resources.dll
+D:\Dropbox\QL DAY & HOC\MainProject\Lambda.MainProject\bin\Release\de\DevExpress.Printing.v12.2.Core.resources.dll
+D:\Dropbox\QL DAY & HOC\MainProject\Lambda.MainProject\bin\Release\es\DevExpress.Printing.v12.2.Core.resources.dll
+D:\Dropbox\QL DAY & HOC\MainProject\Lambda.MainProject\bin\Release\ja\DevExpress.Printing.v12.2.Core.resources.dll
+D:\Dropbox\QL DAY & HOC\MainProject\Lambda.MainProject\bin\Release\ru\DevExpress.Printing.v12.2.Core.resources.dll
+D:\Dropbox\QL DAY & HOC\MainProject\Lambda.MainProject\bin\Release\de\DevExpress.Utils.v12.2.resources.dll
+D:\Dropbox\QL DAY & HOC\MainProject\Lambda.MainProject\bin\Release\es\DevExpress.Utils.v12.2.resources.dll
+D:\Dropbox\QL DAY & HOC\MainProject\Lambda.MainProject\bin\Release\ja\DevExpress.Utils.v12.2.resources.dll
+D:\Dropbox\QL DAY & HOC\MainProject\Lambda.MainProject\bin\Release\ru\DevExpress.Utils.v12.2.resources.dll
+D:\Dropbox\QL DAY & HOC\MainProject\Lambda.MainProject\bin\Release\de\DevExpress.XtraBars.v12.2.resources.dll
+D:\Dropbox\QL DAY & HOC\MainProject\Lambda.MainProject\bin\Release\es\DevExpress.XtraBars.v12.2.resources.dll
+D:\Dropbox\QL DAY & HOC\MainProject\Lambda.MainProject\bin\Release\ja\DevExpress.XtraBars.v12.2.resources.dll
+D:\Dropbox\QL DAY & HOC\MainProject\Lambda.MainProject\bin\Release\ru\DevExpress.XtraBars.v12.2.resources.dll
+D:\Dropbox\QL DAY & HOC\MainProject\Lambda.MainProject\bin\Release\de\DevExpress.XtraEditors.v12.2.resources.dll
+D:\Dropbox\QL DAY & HOC\MainProject\Lambda.MainProject\bin\Release\es\DevExpress.XtraEditors.v12.2.resources.dll
+D:\Dropbox\QL DAY & HOC\MainProject\Lambda.MainProject\bin\Release\ja\DevExpress.XtraEditors.v12.2.resources.dll
+D:\Dropbox\QL DAY & HOC\MainProject\Lambda.MainProject\bin\Release\ru\DevExpress.XtraEditors.v12.2.resources.dll
+D:\Dropbox\QL DAY & HOC\MainProject\Lambda.MainProject\bin\Release\de\DevExpress.XtraGrid.v12.2.resources.dll
+D:\Dropbox\QL DAY & HOC\MainProject\Lambda.MainProject\bin\Release\es\DevExpress.XtraGrid.v12.2.resources.dll
+D:\Dropbox\QL DAY & HOC\MainProject\Lambda.MainProject\bin\Release\ja\DevExpress.XtraGrid.v12.2.resources.dll
+D:\Dropbox\QL DAY & HOC\MainProject\Lambda.MainProject\bin\Release\ru\DevExpress.XtraGrid.v12.2.resources.dll
+D:\Dropbox\QL DAY & HOC\MainProject\Lambda.MainProject\bin\Release\de\DevExpress.XtraLayout.v12.2.resources.dll
+D:\Dropbox\QL DAY & HOC\MainProject\Lambda.MainProject\bin\Release\es\DevExpress.XtraLayout.v12.2.resources.dll
+D:\Dropbox\QL DAY & HOC\MainProject\Lambda.MainProject\bin\Release\ja\DevExpress.XtraLayout.v12.2.resources.dll
+D:\Dropbox\QL DAY & HOC\MainProject\Lambda.MainProject\bin\Release\ru\DevExpress.XtraLayout.v12.2.resources.dll
+D:\Dropbox\QL DAY & HOC\MainProject\Lambda.MainProject\bin\Release\de\DevExpress.XtraTreeList.v12.2.resources.dll
+D:\Dropbox\QL DAY & HOC\MainProject\Lambda.MainProject\bin\Release\es\DevExpress.XtraTreeList.v12.2.resources.dll
+D:\Dropbox\QL DAY & HOC\MainProject\Lambda.MainProject\bin\Release\ja\DevExpress.XtraTreeList.v12.2.resources.dll
+D:\Dropbox\QL DAY & HOC\MainProject\Lambda.MainProject\bin\Release\ru\DevExpress.XtraTreeList.v12.2.resources.dll
+D:\Dropbox\QL DAY & HOC\MainProject\Lambda.MainProject\obj\Release\Lambda.MainProject.csprojResolveAssemblyReference.cache
+D:\Dropbox\QL DAY & HOC\MainProject\Lambda.MainProject\obj\Release\Lambda.MainProject.DoiMatkhauForm.resources
+D:\Dropbox\QL DAY & HOC\MainProject\Lambda.MainProject\obj\Release\Lambda.MainProject.LoginForm.resources
+D:\Dropbox\QL DAY & HOC\MainProject\Lambda.MainProject\obj\Release\Lambda.MainProject.MainForm.resources
+D:\Dropbox\QL DAY & HOC\MainProject\Lambda.MainProject\obj\Release\Lambda.MainProject.Properties.Resources.resources
+D:\Dropbox\QL DAY & HOC\MainProject\Lambda.MainProject\obj\Release\Lambda.MainProject.csproj.GenerateResource.Cache
+D:\Dropbox\QL DAY & HOC\MainProject\Lambda.MainProject\obj\Release\Lambda.MainProject.exe.licenses
+D:\Dropbox\QL DAY & HOC\MainProject\Lambda.MainProject\obj\Release\Lambda.MainProject.TrustInfo.xml
+D:\Dropbox\QL DAY & HOC\MainProject\Lambda.MainProject\obj\Release\Lambda.MainProject.exe.manifest
+D:\Dropbox\QL DAY & HOC\MainProject\Lambda.MainProject\obj\Release\Lambda.MainProject.application
+D:\Dropbox\QL DAY & HOC\MainProject\Lambda.MainProject\obj\Release\Lambda.MainProject.exe
+D:\Dropbox\QL DAY & HOC\MainProject\Lambda.MainProject\obj\Release\Lambda.MainProject.pdb
+E:\____Downloads\20170117_trainingaccount\SourceCode\MainProject\Lambda.MainProject\bin\Release\Lambda.MainProject.exe.config
+E:\____Downloads\20170117_trainingaccount\SourceCode\MainProject\Lambda.MainProject\obj\Release\Lambda.MainProject.exe
+E:\____Downloads\20170117_trainingaccount\SourceCode\MainProject\Lambda.MainProject\obj\Release\Lambda.MainProject.pdb

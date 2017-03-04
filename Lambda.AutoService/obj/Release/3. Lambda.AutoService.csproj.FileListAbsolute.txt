@@ -1,0 +1,28 @@
+D:\tuantp@live.com\Dropbox\Cong nghe\LambdaFramework\AutoService\bin\Release\Lambda.AutoService.dll
+D:\tuantp@live.com\Dropbox\Cong nghe\LambdaFramework\AutoService\bin\Release\Lambda.AutoService.pdb
+D:\tuantp@live.com\Dropbox\Cong nghe\LambdaFramework\AutoService\bin\Release\AutoFramework.dll
+D:\tuantp@live.com\Dropbox\Cong nghe\LambdaFramework\AutoService\bin\Release\Lambda.BusinessObject.dll
+D:\tuantp@live.com\Dropbox\Cong nghe\LambdaFramework\AutoService\bin\Release\Lambda.CoreService.dll
+D:\tuantp@live.com\Dropbox\Cong nghe\LambdaFramework\AutoService\bin\Release\Lambda.DataObject.dll
+D:\tuantp@live.com\Dropbox\Cong nghe\LambdaFramework\AutoService\bin\Release\AutoFramework.pdb
+D:\tuantp@live.com\Dropbox\Cong nghe\LambdaFramework\AutoService\bin\Release\Lambda.BusinessObject.pdb
+D:\tuantp@live.com\Dropbox\Cong nghe\LambdaFramework\AutoService\bin\Release\Lambda.CoreService.pdb
+D:\tuantp@live.com\Dropbox\Cong nghe\LambdaFramework\AutoService\bin\Release\Lambda.DataObject.pdb
+D:\tuantp@live.com\Dropbox\Cong nghe\LambdaFramework\AutoService\obj\Release\3. Lambda.AutoService.csprojResolveAssemblyReference.cache
+D:\tuantp@live.com\Dropbox\Cong nghe\LambdaFramework\AutoService\obj\Release\Lambda.AutoService.dll
+D:\tuantp@live.com\Dropbox\Cong nghe\LambdaFramework\AutoService\obj\Release\Lambda.AutoService.pdb
+D:\tuantp@live.com\Dropbox\Cong nghe\LambdaFramework\Lambda.AutoService\bin\Release\Lambda.AutoService.dll
+D:\tuantp@live.com\Dropbox\Cong nghe\LambdaFramework\Lambda.AutoService\bin\Release\Lambda.AutoService.pdb
+D:\tuantp@live.com\Dropbox\Cong nghe\LambdaFramework\Lambda.AutoService\bin\Release\Lambda.BusinessObject.dll
+D:\tuantp@live.com\Dropbox\Cong nghe\LambdaFramework\Lambda.AutoService\bin\Release\Lambda.CoreService.dll
+D:\tuantp@live.com\Dropbox\Cong nghe\LambdaFramework\Lambda.AutoService\bin\Release\Lambda.DataObject.dll
+D:\tuantp@live.com\Dropbox\Cong nghe\LambdaFramework\Lambda.AutoService\bin\Release\Lambda.Framework.dll
+D:\tuantp@live.com\Dropbox\Cong nghe\LambdaFramework\Lambda.AutoService\bin\Release\Lambda.DynamicLoad.dll
+D:\tuantp@live.com\Dropbox\Cong nghe\LambdaFramework\Lambda.AutoService\bin\Release\Lambda.BusinessObject.pdb
+D:\tuantp@live.com\Dropbox\Cong nghe\LambdaFramework\Lambda.AutoService\bin\Release\Lambda.CoreService.pdb
+D:\tuantp@live.com\Dropbox\Cong nghe\LambdaFramework\Lambda.AutoService\bin\Release\Lambda.DataObject.pdb
+D:\tuantp@live.com\Dropbox\Cong nghe\LambdaFramework\Lambda.AutoService\bin\Release\Lambda.Framework.pdb
+D:\tuantp@live.com\Dropbox\Cong nghe\LambdaFramework\Lambda.AutoService\bin\Release\Lambda.DynamicLoad.pdb
+D:\tuantp@live.com\Dropbox\Cong nghe\LambdaFramework\Lambda.AutoService\obj\Release\3. Lambda.AutoService.csprojResolveAssemblyReference.cache
+D:\tuantp@live.com\Dropbox\Cong nghe\LambdaFramework\Lambda.AutoService\obj\Release\Lambda.AutoService.dll
+D:\tuantp@live.com\Dropbox\Cong nghe\LambdaFramework\Lambda.AutoService\obj\Release\Lambda.AutoService.pdb

@@ -1,0 +1,56 @@
+D:\Dropbox\Project\_____Banhang\___Project\Service\AutoService\AutoServiceHost\bin\Debug\AutoServiceHost.exe.config
+D:\Dropbox\Project\_____Banhang\___Project\Service\AutoService\AutoServiceHost\bin\Debug\AutoServiceHost.exe
+D:\Dropbox\Project\_____Banhang\___Project\Service\AutoService\AutoServiceHost\bin\Debug\AutoServiceHost.pdb
+D:\Dropbox\Project\_____Banhang\___Project\Service\AutoService\AutoServiceHost\bin\Debug\AutoService.dll
+D:\Dropbox\Project\_____Banhang\___Project\Service\AutoService\AutoServiceHost\bin\Debug\CoreService.dll
+D:\Dropbox\Project\_____Banhang\___Project\Service\AutoService\AutoServiceHost\bin\Debug\DataObject.dll
+D:\Dropbox\Project\_____Banhang\___Project\Service\AutoService\AutoServiceHost\bin\Debug\AutoFramework.dll
+D:\Dropbox\Project\_____Banhang\___Project\Service\AutoService\AutoServiceHost\bin\Debug\AutoService.pdb
+D:\Dropbox\Project\_____Banhang\___Project\Service\AutoService\AutoServiceHost\bin\Debug\CoreService.pdb
+D:\Dropbox\Project\_____Banhang\___Project\Service\AutoService\AutoServiceHost\bin\Debug\DataObject.pdb
+D:\Dropbox\Project\_____Banhang\___Project\Service\AutoService\AutoServiceHost\bin\Debug\AutoFramework.pdb
+D:\Dropbox\Project\_____Banhang\___Project\Service\AutoService\AutoServiceHost\obj\Debug\AutoServiceHost.csprojResolveAssemblyReference.cache
+D:\Dropbox\Project\_____Banhang\___Project\Service\AutoService\AutoServiceHost\obj\Debug\AutoServiceHost.ProjectInstaller.resources
+D:\Dropbox\Project\_____Banhang\___Project\Service\AutoService\AutoServiceHost\obj\Debug\AutoServiceHost.csproj.GenerateResource.Cache
+D:\Dropbox\Project\_____Banhang\___Project\Service\AutoService\AutoServiceHost\obj\Debug\AutoServiceHost.exe
+D:\Dropbox\Project\_____Banhang\___Project\Service\AutoService\AutoServiceHost\obj\Debug\AutoServiceHost.pdb
+G:\Dropbox\_____Banhang\___Project\Service\AutoService\AutoServiceHost\bin\Debug\AutoServiceHost.exe.config
+G:\Dropbox\_____Banhang\___Project\Service\AutoService\AutoServiceHost\obj\Debug\AutoServiceHost.exe
+G:\Dropbox\_____Banhang\___Project\Service\AutoService\AutoServiceHost\obj\Debug\AutoServiceHost.pdb
+D:\Dropbox\______GenCode\__AutoService\AutoService\AutoServiceHost\bin\Debug\AutoServiceHost.exe.config
+D:\Dropbox\______GenCode\__AutoService\AutoService\AutoServiceHost\bin\Debug\AutoServiceHost.exe
+D:\Dropbox\______GenCode\__AutoService\AutoService\AutoServiceHost\bin\Debug\AutoServiceHost.pdb
+D:\Dropbox\______GenCode\__AutoService\AutoService\AutoServiceHost\bin\Debug\AutoService.dll
+D:\Dropbox\______GenCode\__AutoService\AutoService\AutoServiceHost\bin\Debug\CoreService.dll
+D:\Dropbox\______GenCode\__AutoService\AutoService\AutoServiceHost\bin\Debug\DataObject.dll
+D:\Dropbox\______GenCode\__AutoService\AutoService\AutoServiceHost\bin\Debug\AutoFramework.dll
+D:\Dropbox\______GenCode\__AutoService\AutoService\AutoServiceHost\bin\Debug\AutoService.pdb
+D:\Dropbox\______GenCode\__AutoService\AutoService\AutoServiceHost\bin\Debug\CoreService.pdb
+D:\Dropbox\______GenCode\__AutoService\AutoService\AutoServiceHost\bin\Debug\DataObject.pdb
+D:\Dropbox\______GenCode\__AutoService\AutoService\AutoServiceHost\bin\Debug\AutoFramework.pdb
+D:\Dropbox\______GenCode\__AutoService\AutoService\AutoServiceHost\obj\Debug\AutoServiceHost.csprojResolveAssemblyReference.cache
+D:\Dropbox\______GenCode\__AutoService\AutoService\AutoServiceHost\obj\Debug\AutoServiceHost.ProjectInstaller.resources
+D:\Dropbox\______GenCode\__AutoService\AutoService\AutoServiceHost\obj\Debug\AutoServiceHost.csproj.GenerateResource.Cache
+D:\Dropbox\______GenCode\__AutoService\AutoService\AutoServiceHost\obj\Debug\AutoServiceHost.exe
+D:\Dropbox\______GenCode\__AutoService\AutoService\AutoServiceHost\obj\Debug\AutoServiceHost.pdb
+D:\tuantp@live.com\Dropbox\Cong nghe\BMIFramework\AutoServiceHost\bin\Debug\AutoServiceHost.exe.config
+D:\tuantp@live.com\Dropbox\Cong nghe\BMIFramework\AutoServiceHost\bin\Debug\AutoServiceHost.exe
+D:\tuantp@live.com\Dropbox\Cong nghe\BMIFramework\AutoServiceHost\bin\Debug\AutoServiceHost.pdb
+D:\tuantp@live.com\Dropbox\Cong nghe\BMIFramework\AutoServiceHost\bin\Debug\AutoService.dll
+D:\tuantp@live.com\Dropbox\Cong nghe\BMIFramework\AutoServiceHost\bin\Debug\CoreService.dll
+D:\tuantp@live.com\Dropbox\Cong nghe\BMIFramework\AutoServiceHost\bin\Debug\DataObject.dll
+D:\tuantp@live.com\Dropbox\Cong nghe\BMIFramework\AutoServiceHost\bin\Debug\AutoFramework.dll
+D:\tuantp@live.com\Dropbox\Cong nghe\BMIFramework\AutoServiceHost\bin\Debug\BusinessObject.dll
+D:\tuantp@live.com\Dropbox\Cong nghe\BMIFramework\AutoServiceHost\bin\Debug\AutoService.pdb
+D:\tuantp@live.com\Dropbox\Cong nghe\BMIFramework\AutoServiceHost\bin\Debug\CoreService.pdb
+D:\tuantp@live.com\Dropbox\Cong nghe\BMIFramework\AutoServiceHost\bin\Debug\DataObject.pdb
+D:\tuantp@live.com\Dropbox\Cong nghe\BMIFramework\AutoServiceHost\bin\Debug\AutoFramework.pdb
+D:\tuantp@live.com\Dropbox\Cong nghe\BMIFramework\AutoServiceHost\bin\Debug\BusinessObject.pdb
+D:\tuantp@live.com\Dropbox\Cong nghe\BMIFramework\AutoServiceHost\obj\Debug\AutoServiceHost.csprojResolveAssemblyReference.cache
+D:\tuantp@live.com\Dropbox\Cong nghe\BMIFramework\AutoServiceHost\obj\Debug\AutoServiceHost.ProjectInstaller.resources
+D:\tuantp@live.com\Dropbox\Cong nghe\BMIFramework\AutoServiceHost\obj\Debug\AutoServiceHost.csproj.GenerateResource.Cache
+D:\tuantp@live.com\Dropbox\Cong nghe\BMIFramework\AutoServiceHost\obj\Debug\AutoServiceHost.exe
+D:\tuantp@live.com\Dropbox\Cong nghe\BMIFramework\AutoServiceHost\obj\Debug\AutoServiceHost.pdb
+D:\tuantp@live.com\Dropbox\Cong nghe\BMIFramework\AutoServiceHost\bin\Debug\Item\ServiceInstall.cmd
+D:\tuantp@live.com\Dropbox\Cong nghe\BMIFramework\AutoServiceHost\bin\Debug\Item\ServiceUninstall.cmd
+D:\tuantp@live.com\Dropbox\Cong nghe\BMIFramework\AutoServiceHost\bin\Debug\Item\InstallUtil.exe

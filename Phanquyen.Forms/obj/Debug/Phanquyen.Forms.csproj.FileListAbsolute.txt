@@ -1,0 +1,259 @@
+D:\Dropbox\UIS_HCMUP\Phanquyen.Solution\Phanquyen.Forms\bin\Debug\Phanquyen.Forms.dll
+D:\Dropbox\UIS_HCMUP\Phanquyen.Solution\Phanquyen.Forms\bin\Debug\Phanquyen.Forms.pdb
+D:\Dropbox\UIS_HCMUP\Phanquyen.Solution\Phanquyen.Forms\obj\Debug\Phanquyen.Forms.csprojResolveAssemblyReference.cache
+D:\Dropbox\UIS_HCMUP\Phanquyen.Solution\Phanquyen.Forms\obj\Debug\Phanquyen.Forms.dll
+D:\Dropbox\UIS_HCMUP\Phanquyen.Solution\Phanquyen.Forms\obj\Debug\Phanquyen.Forms.pdb
+D:\Dropbox\UIS_HCMUP\Phanquyen.Solution\Phanquyen.Forms\bin\Debug\Lambda.BusinessObject.dll
+D:\Dropbox\UIS_HCMUP\Phanquyen.Solution\Phanquyen.Forms\bin\Debug\Lambda.ClientModel.dll
+D:\Dropbox\UIS_HCMUP\Phanquyen.Solution\Phanquyen.Forms\bin\Debug\Phanquyen.Model.dll
+D:\Dropbox\UIS_HCMUP\Phanquyen.Solution\Phanquyen.Forms\bin\Debug\Phanquyen.Presenter.dll
+D:\Dropbox\UIS_HCMUP\Phanquyen.Solution\Phanquyen.Forms\bin\Debug\Phanquyen.View.dll
+D:\Dropbox\UIS_HCMUP\Phanquyen.Solution\Phanquyen.Forms\bin\Debug\Lambda.Framework.dll
+D:\Dropbox\UIS_HCMUP\Phanquyen.Solution\Phanquyen.Forms\bin\Debug\Lambda.CoreService.dll
+D:\Dropbox\UIS_HCMUP\Phanquyen.Solution\Phanquyen.Forms\bin\Debug\Lambda.AutoService.dll
+D:\Dropbox\UIS_HCMUP\Phanquyen.Solution\Phanquyen.Forms\bin\Debug\Lambda.DataObject.dll
+D:\Dropbox\UIS_HCMUP\Phanquyen.Solution\Phanquyen.Forms\bin\Debug\Lambda.DynamicLoad.dll
+D:\Dropbox\UIS_HCMUP\Phanquyen.Solution\Phanquyen.Forms\bin\Debug\Phanquyen.Model.pdb
+D:\Dropbox\UIS_HCMUP\Phanquyen.Solution\Phanquyen.Forms\bin\Debug\Phanquyen.Presenter.pdb
+D:\Dropbox\UIS_HCMUP\Phanquyen.Solution\Phanquyen.Forms\bin\Debug\Phanquyen.View.pdb
+D:\Dropbox\UIS_HCMUP\Phanquyen.Solution\Phanquyen.Forms\obj\Debug\Phanquyen.Forms.VaitroForm.resources
+D:\Dropbox\UIS_HCMUP\Phanquyen.Solution\Phanquyen.Forms\obj\Debug\Phanquyen.Forms.csproj.GenerateResource.Cache
+D:\Dropbox\UIS_HCMUP\Phanquyen.Solution\Phanquyen.Forms\obj\Debug\Phanquyen.Forms.dll.licenses
+D:\Dropbox\UIS_HCMUP\Phanquyen.Solution\Phanquyen.Forms\obj\Debug\Phanquyen.Forms.Properties.Resources.resources
+D:\Dropbox\UIS_HCMUP\Phanquyen.Solution\Phanquyen.Forms\obj\Debug\Phanquyen.Forms.ChucnangForm.resources
+D:\Dropbox\UIS_HCMUP\Phanquyen.Solution\Phanquyen.Forms\obj\Debug\Phanquyen.Forms.TaikhoanForm.resources
+D:\Dropbox\UIS_HCMUP\Phanquyen.Solution\Phanquyen.Forms\obj\Debug\Phanquyen.Forms.PhanquyenChucnangChoVaitroForm.resources
+D:\Dropbox\UIS_HCMUP\Phanquyen.Solution\Phanquyen.Forms\obj\Debug\Phanquyen.Forms.PhanquyenNguoidungForm.resources
+D:\Dropbox\UIS_HCMUP\Phanquyen.Solution\Phanquyen.Forms\obj\Debug\Phanquyen.Forms.NhomChucnangForm.resources
+D:\Dropbox\LUIS\Phanquyen.Solution\Phanquyen.Forms\bin\Debug\Phanquyen.Forms.dll
+D:\Dropbox\LUIS\Phanquyen.Solution\Phanquyen.Forms\bin\Debug\Phanquyen.Forms.pdb
+D:\Dropbox\LUIS\Phanquyen.Solution\Phanquyen.Forms\bin\Debug\Lambda.BusinessObject.dll
+D:\Dropbox\LUIS\Phanquyen.Solution\Phanquyen.Forms\bin\Debug\Lambda.ClientModel.dll
+D:\Dropbox\LUIS\Phanquyen.Solution\Phanquyen.Forms\bin\Debug\Lambda.DynamicLoad.dll
+D:\Dropbox\LUIS\Phanquyen.Solution\Phanquyen.Forms\bin\Debug\Phanquyen.Model.dll
+D:\Dropbox\LUIS\Phanquyen.Solution\Phanquyen.Forms\bin\Debug\Phanquyen.Presenter.dll
+D:\Dropbox\LUIS\Phanquyen.Solution\Phanquyen.Forms\bin\Debug\Phanquyen.View.dll
+D:\Dropbox\LUIS\Phanquyen.Solution\Phanquyen.Forms\bin\Debug\Lambda.Framework.dll
+D:\Dropbox\LUIS\Phanquyen.Solution\Phanquyen.Forms\bin\Debug\Lambda.CoreService.dll
+D:\Dropbox\LUIS\Phanquyen.Solution\Phanquyen.Forms\bin\Debug\Lambda.AutoService.dll
+D:\Dropbox\LUIS\Phanquyen.Solution\Phanquyen.Forms\bin\Debug\Lambda.DataObject.dll
+D:\Dropbox\LUIS\Phanquyen.Solution\Phanquyen.Forms\bin\Debug\Phanquyen.Model.pdb
+D:\Dropbox\LUIS\Phanquyen.Solution\Phanquyen.Forms\bin\Debug\Phanquyen.Presenter.pdb
+D:\Dropbox\LUIS\Phanquyen.Solution\Phanquyen.Forms\bin\Debug\Phanquyen.View.pdb
+D:\Dropbox\LUIS\Phanquyen.Solution\Phanquyen.Forms\obj\Debug\Phanquyen.Forms.csprojResolveAssemblyReference.cache
+D:\Dropbox\LUIS\Phanquyen.Solution\Phanquyen.Forms\obj\Debug\Phanquyen.Forms.ChucnangForm.resources
+D:\Dropbox\LUIS\Phanquyen.Solution\Phanquyen.Forms\obj\Debug\Phanquyen.Forms.NhomChucnangForm.resources
+D:\Dropbox\LUIS\Phanquyen.Solution\Phanquyen.Forms\obj\Debug\Phanquyen.Forms.PhanquyenChucnangChoVaitroForm.resources
+D:\Dropbox\LUIS\Phanquyen.Solution\Phanquyen.Forms\obj\Debug\Phanquyen.Forms.PhanquyenNguoidungForm.resources
+D:\Dropbox\LUIS\Phanquyen.Solution\Phanquyen.Forms\obj\Debug\Phanquyen.Forms.Properties.Resources.resources
+D:\Dropbox\LUIS\Phanquyen.Solution\Phanquyen.Forms\obj\Debug\Phanquyen.Forms.TaikhoanForm.resources
+D:\Dropbox\LUIS\Phanquyen.Solution\Phanquyen.Forms\obj\Debug\Phanquyen.Forms.VaitroForm.resources
+D:\Dropbox\LUIS\Phanquyen.Solution\Phanquyen.Forms\obj\Debug\Phanquyen.Forms.csproj.GenerateResource.Cache
+D:\Dropbox\LUIS\Phanquyen.Solution\Phanquyen.Forms\obj\Debug\Phanquyen.Forms.dll.licenses
+D:\Dropbox\LUIS\Phanquyen.Solution\Phanquyen.Forms\obj\Debug\Phanquyen.Forms.dll
+D:\Dropbox\LUIS\Phanquyen.Solution\Phanquyen.Forms\obj\Debug\Phanquyen.Forms.pdb
+D:\Dropbox\QL DAY & HOC\Phanquyen.Solution\Phanquyen.Forms\bin\Debug\Phanquyen.Forms.dll
+D:\Dropbox\QL DAY & HOC\Phanquyen.Solution\Phanquyen.Forms\bin\Debug\Phanquyen.Forms.pdb
+D:\Dropbox\QL DAY & HOC\Phanquyen.Solution\Phanquyen.Forms\bin\Debug\Lambda.BusinessObject.dll
+D:\Dropbox\QL DAY & HOC\Phanquyen.Solution\Phanquyen.Forms\bin\Debug\Lambda.ClientModel.dll
+D:\Dropbox\QL DAY & HOC\Phanquyen.Solution\Phanquyen.Forms\bin\Debug\Lambda.DynamicLoad.dll
+D:\Dropbox\QL DAY & HOC\Phanquyen.Solution\Phanquyen.Forms\bin\Debug\Phanquyen.Model.dll
+D:\Dropbox\QL DAY & HOC\Phanquyen.Solution\Phanquyen.Forms\bin\Debug\Phanquyen.Presenter.dll
+D:\Dropbox\QL DAY & HOC\Phanquyen.Solution\Phanquyen.Forms\bin\Debug\Phanquyen.View.dll
+D:\Dropbox\QL DAY & HOC\Phanquyen.Solution\Phanquyen.Forms\bin\Debug\Lambda.Framework.dll
+D:\Dropbox\QL DAY & HOC\Phanquyen.Solution\Phanquyen.Forms\bin\Debug\Lambda.CoreService.dll
+D:\Dropbox\QL DAY & HOC\Phanquyen.Solution\Phanquyen.Forms\bin\Debug\Lambda.AutoService.dll
+D:\Dropbox\QL DAY & HOC\Phanquyen.Solution\Phanquyen.Forms\bin\Debug\Lambda.DataObject.dll
+D:\Dropbox\QL DAY & HOC\Phanquyen.Solution\Phanquyen.Forms\bin\Debug\Phanquyen.Model.pdb
+D:\Dropbox\QL DAY & HOC\Phanquyen.Solution\Phanquyen.Forms\bin\Debug\Phanquyen.Presenter.pdb
+D:\Dropbox\QL DAY & HOC\Phanquyen.Solution\Phanquyen.Forms\bin\Debug\Phanquyen.View.pdb
+D:\Dropbox\QL DAY & HOC\Phanquyen.Solution\Phanquyen.Forms\obj\Debug\Phanquyen.Forms.csprojResolveAssemblyReference.cache
+D:\Dropbox\QL DAY & HOC\Phanquyen.Solution\Phanquyen.Forms\obj\Debug\Phanquyen.Forms.ChucnangForm.resources
+D:\Dropbox\QL DAY & HOC\Phanquyen.Solution\Phanquyen.Forms\obj\Debug\Phanquyen.Forms.NhomChucnangForm.resources
+D:\Dropbox\QL DAY & HOC\Phanquyen.Solution\Phanquyen.Forms\obj\Debug\Phanquyen.Forms.PhanquyenChucnangChoVaitroForm.resources
+D:\Dropbox\QL DAY & HOC\Phanquyen.Solution\Phanquyen.Forms\obj\Debug\Phanquyen.Forms.PhanquyenNguoidungForm.resources
+D:\Dropbox\QL DAY & HOC\Phanquyen.Solution\Phanquyen.Forms\obj\Debug\Phanquyen.Forms.Properties.Resources.resources
+D:\Dropbox\QL DAY & HOC\Phanquyen.Solution\Phanquyen.Forms\obj\Debug\Phanquyen.Forms.TaikhoanForm.resources
+D:\Dropbox\QL DAY & HOC\Phanquyen.Solution\Phanquyen.Forms\obj\Debug\Phanquyen.Forms.VaitroForm.resources
+D:\Dropbox\QL DAY & HOC\Phanquyen.Solution\Phanquyen.Forms\obj\Debug\Phanquyen.Forms.csproj.GenerateResource.Cache
+D:\Dropbox\QL DAY & HOC\Phanquyen.Solution\Phanquyen.Forms\obj\Debug\Phanquyen.Forms.dll.licenses
+D:\Dropbox\QL DAY & HOC\Phanquyen.Solution\Phanquyen.Forms\obj\Debug\Phanquyen.Forms.dll
+D:\Dropbox\QL DAY & HOC\Phanquyen.Solution\Phanquyen.Forms\obj\Debug\Phanquyen.Forms.pdb
+E:\____Downloads\20170117_trainingaccount\SourceCode\Lambda.Solution\Phanquyen.Forms\bin\Debug\Phanquyen.Forms.dll
+E:\____Downloads\20170117_trainingaccount\SourceCode\Lambda.Solution\Phanquyen.Forms\bin\Debug\Phanquyen.Forms.pdb
+E:\____Downloads\20170117_trainingaccount\SourceCode\Lambda.Solution\Phanquyen.Forms\bin\Debug\DevExpress.Data.v12.2.dll
+E:\____Downloads\20170117_trainingaccount\SourceCode\Lambda.Solution\Phanquyen.Forms\bin\Debug\DevExpress.Printing.v12.2.Core.dll
+E:\____Downloads\20170117_trainingaccount\SourceCode\Lambda.Solution\Phanquyen.Forms\bin\Debug\DevExpress.Utils.v12.2.dll
+E:\____Downloads\20170117_trainingaccount\SourceCode\Lambda.Solution\Phanquyen.Forms\bin\Debug\DevExpress.XtraBars.v12.2.dll
+E:\____Downloads\20170117_trainingaccount\SourceCode\Lambda.Solution\Phanquyen.Forms\bin\Debug\DevExpress.XtraEditors.v12.2.dll
+E:\____Downloads\20170117_trainingaccount\SourceCode\Lambda.Solution\Phanquyen.Forms\bin\Debug\DevExpress.XtraGrid.v12.2.dll
+E:\____Downloads\20170117_trainingaccount\SourceCode\Lambda.Solution\Phanquyen.Forms\bin\Debug\DevExpress.XtraLayout.v12.2.dll
+E:\____Downloads\20170117_trainingaccount\SourceCode\Lambda.Solution\Phanquyen.Forms\bin\Debug\DevExpress.XtraTreeList.v12.2.dll
+E:\____Downloads\20170117_trainingaccount\SourceCode\Lambda.Solution\Phanquyen.Forms\bin\Debug\Microsoft.CSharp.dll
+E:\____Downloads\20170117_trainingaccount\SourceCode\Lambda.Solution\Phanquyen.Forms\bin\Debug\Phanquyen.Model.dll
+E:\____Downloads\20170117_trainingaccount\SourceCode\Lambda.Solution\Phanquyen.Forms\bin\Debug\Phanquyen.Presenter.dll
+E:\____Downloads\20170117_trainingaccount\SourceCode\Lambda.Solution\Phanquyen.Forms\bin\Debug\Phanquyen.View.dll
+E:\____Downloads\20170117_trainingaccount\SourceCode\Lambda.Solution\Phanquyen.Forms\bin\Debug\System.Data.DataSetExtensions.dll
+E:\____Downloads\20170117_trainingaccount\SourceCode\Lambda.Solution\Phanquyen.Forms\bin\Debug\System.Data.dll
+E:\____Downloads\20170117_trainingaccount\SourceCode\Lambda.Solution\Phanquyen.Forms\bin\Debug\System.dll
+E:\____Downloads\20170117_trainingaccount\SourceCode\Lambda.Solution\Phanquyen.Forms\bin\Debug\System.Drawing.dll
+E:\____Downloads\20170117_trainingaccount\SourceCode\Lambda.Solution\Phanquyen.Forms\bin\Debug\System.Windows.Forms.dll
+E:\____Downloads\20170117_trainingaccount\SourceCode\Lambda.Solution\Phanquyen.Forms\bin\Debug\System.Xml.dll
+E:\____Downloads\20170117_trainingaccount\SourceCode\Lambda.Solution\Phanquyen.Forms\bin\Debug\System.Xml.Linq.dll
+E:\____Downloads\20170117_trainingaccount\SourceCode\Lambda.Solution\Phanquyen.Forms\bin\Debug\Phanquyen.Model.pdb
+E:\____Downloads\20170117_trainingaccount\SourceCode\Lambda.Solution\Phanquyen.Forms\bin\Debug\Phanquyen.Presenter.pdb
+E:\____Downloads\20170117_trainingaccount\SourceCode\Lambda.Solution\Phanquyen.Forms\bin\Debug\Phanquyen.View.pdb
+E:\____Downloads\20170117_trainingaccount\SourceCode\Lambda.Solution\Phanquyen.Forms\bin\Debug\DevExpress.Data.v12.2.xml
+E:\____Downloads\20170117_trainingaccount\SourceCode\Lambda.Solution\Phanquyen.Forms\bin\Debug\DevExpress.Printing.v12.2.Core.xml
+E:\____Downloads\20170117_trainingaccount\SourceCode\Lambda.Solution\Phanquyen.Forms\bin\Debug\DevExpress.Utils.v12.2.xml
+E:\____Downloads\20170117_trainingaccount\SourceCode\Lambda.Solution\Phanquyen.Forms\bin\Debug\DevExpress.XtraBars.v12.2.xml
+E:\____Downloads\20170117_trainingaccount\SourceCode\Lambda.Solution\Phanquyen.Forms\bin\Debug\DevExpress.XtraEditors.v12.2.xml
+E:\____Downloads\20170117_trainingaccount\SourceCode\Lambda.Solution\Phanquyen.Forms\bin\Debug\DevExpress.XtraGrid.v12.2.xml
+E:\____Downloads\20170117_trainingaccount\SourceCode\Lambda.Solution\Phanquyen.Forms\bin\Debug\DevExpress.XtraLayout.v12.2.xml
+E:\____Downloads\20170117_trainingaccount\SourceCode\Lambda.Solution\Phanquyen.Forms\bin\Debug\DevExpress.XtraTreeList.v12.2.xml
+E:\____Downloads\20170117_trainingaccount\SourceCode\Lambda.Solution\Phanquyen.Forms\bin\Debug\de\DevExpress.Data.v12.2.resources.dll
+E:\____Downloads\20170117_trainingaccount\SourceCode\Lambda.Solution\Phanquyen.Forms\bin\Debug\es\DevExpress.Data.v12.2.resources.dll
+E:\____Downloads\20170117_trainingaccount\SourceCode\Lambda.Solution\Phanquyen.Forms\bin\Debug\ja\DevExpress.Data.v12.2.resources.dll
+E:\____Downloads\20170117_trainingaccount\SourceCode\Lambda.Solution\Phanquyen.Forms\bin\Debug\ru\DevExpress.Data.v12.2.resources.dll
+E:\____Downloads\20170117_trainingaccount\SourceCode\Lambda.Solution\Phanquyen.Forms\bin\Debug\de\DevExpress.Printing.v12.2.Core.resources.dll
+E:\____Downloads\20170117_trainingaccount\SourceCode\Lambda.Solution\Phanquyen.Forms\bin\Debug\es\DevExpress.Printing.v12.2.Core.resources.dll
+E:\____Downloads\20170117_trainingaccount\SourceCode\Lambda.Solution\Phanquyen.Forms\bin\Debug\ja\DevExpress.Printing.v12.2.Core.resources.dll
+E:\____Downloads\20170117_trainingaccount\SourceCode\Lambda.Solution\Phanquyen.Forms\bin\Debug\ru\DevExpress.Printing.v12.2.Core.resources.dll
+E:\____Downloads\20170117_trainingaccount\SourceCode\Lambda.Solution\Phanquyen.Forms\bin\Debug\de\DevExpress.Utils.v12.2.resources.dll
+E:\____Downloads\20170117_trainingaccount\SourceCode\Lambda.Solution\Phanquyen.Forms\bin\Debug\es\DevExpress.Utils.v12.2.resources.dll
+E:\____Downloads\20170117_trainingaccount\SourceCode\Lambda.Solution\Phanquyen.Forms\bin\Debug\ja\DevExpress.Utils.v12.2.resources.dll
+E:\____Downloads\20170117_trainingaccount\SourceCode\Lambda.Solution\Phanquyen.Forms\bin\Debug\ru\DevExpress.Utils.v12.2.resources.dll
+E:\____Downloads\20170117_trainingaccount\SourceCode\Lambda.Solution\Phanquyen.Forms\bin\Debug\de\DevExpress.XtraBars.v12.2.resources.dll
+E:\____Downloads\20170117_trainingaccount\SourceCode\Lambda.Solution\Phanquyen.Forms\bin\Debug\es\DevExpress.XtraBars.v12.2.resources.dll
+E:\____Downloads\20170117_trainingaccount\SourceCode\Lambda.Solution\Phanquyen.Forms\bin\Debug\ja\DevExpress.XtraBars.v12.2.resources.dll
+E:\____Downloads\20170117_trainingaccount\SourceCode\Lambda.Solution\Phanquyen.Forms\bin\Debug\ru\DevExpress.XtraBars.v12.2.resources.dll
+E:\____Downloads\20170117_trainingaccount\SourceCode\Lambda.Solution\Phanquyen.Forms\bin\Debug\de\DevExpress.XtraEditors.v12.2.resources.dll
+E:\____Downloads\20170117_trainingaccount\SourceCode\Lambda.Solution\Phanquyen.Forms\bin\Debug\es\DevExpress.XtraEditors.v12.2.resources.dll
+E:\____Downloads\20170117_trainingaccount\SourceCode\Lambda.Solution\Phanquyen.Forms\bin\Debug\ja\DevExpress.XtraEditors.v12.2.resources.dll
+E:\____Downloads\20170117_trainingaccount\SourceCode\Lambda.Solution\Phanquyen.Forms\bin\Debug\ru\DevExpress.XtraEditors.v12.2.resources.dll
+E:\____Downloads\20170117_trainingaccount\SourceCode\Lambda.Solution\Phanquyen.Forms\bin\Debug\de\DevExpress.XtraGrid.v12.2.resources.dll
+E:\____Downloads\20170117_trainingaccount\SourceCode\Lambda.Solution\Phanquyen.Forms\bin\Debug\es\DevExpress.XtraGrid.v12.2.resources.dll
+E:\____Downloads\20170117_trainingaccount\SourceCode\Lambda.Solution\Phanquyen.Forms\bin\Debug\ja\DevExpress.XtraGrid.v12.2.resources.dll
+E:\____Downloads\20170117_trainingaccount\SourceCode\Lambda.Solution\Phanquyen.Forms\bin\Debug\ru\DevExpress.XtraGrid.v12.2.resources.dll
+E:\____Downloads\20170117_trainingaccount\SourceCode\Lambda.Solution\Phanquyen.Forms\bin\Debug\de\DevExpress.XtraLayout.v12.2.resources.dll
+E:\____Downloads\20170117_trainingaccount\SourceCode\Lambda.Solution\Phanquyen.Forms\bin\Debug\es\DevExpress.XtraLayout.v12.2.resources.dll
+E:\____Downloads\20170117_trainingaccount\SourceCode\Lambda.Solution\Phanquyen.Forms\bin\Debug\ja\DevExpress.XtraLayout.v12.2.resources.dll
+E:\____Downloads\20170117_trainingaccount\SourceCode\Lambda.Solution\Phanquyen.Forms\bin\Debug\ru\DevExpress.XtraLayout.v12.2.resources.dll
+E:\____Downloads\20170117_trainingaccount\SourceCode\Lambda.Solution\Phanquyen.Forms\bin\Debug\de\DevExpress.XtraTreeList.v12.2.resources.dll
+E:\____Downloads\20170117_trainingaccount\SourceCode\Lambda.Solution\Phanquyen.Forms\bin\Debug\es\DevExpress.XtraTreeList.v12.2.resources.dll
+E:\____Downloads\20170117_trainingaccount\SourceCode\Lambda.Solution\Phanquyen.Forms\bin\Debug\ja\DevExpress.XtraTreeList.v12.2.resources.dll
+E:\____Downloads\20170117_trainingaccount\SourceCode\Lambda.Solution\Phanquyen.Forms\bin\Debug\ru\DevExpress.XtraTreeList.v12.2.resources.dll
+E:\____Downloads\20170117_trainingaccount\SourceCode\Lambda.Solution\Phanquyen.Forms\obj\Debug\Phanquyen.Forms.csprojResolveAssemblyReference.cache
+E:\____Downloads\20170117_trainingaccount\SourceCode\Lambda.Solution\Phanquyen.Forms\obj\Debug\Phanquyen.Forms.ChucnangForm.resources
+E:\____Downloads\20170117_trainingaccount\SourceCode\Lambda.Solution\Phanquyen.Forms\obj\Debug\Phanquyen.Forms.NhomChucnangForm.resources
+E:\____Downloads\20170117_trainingaccount\SourceCode\Lambda.Solution\Phanquyen.Forms\obj\Debug\Phanquyen.Forms.PhanquyenChucnangChoVaitroForm.resources
+E:\____Downloads\20170117_trainingaccount\SourceCode\Lambda.Solution\Phanquyen.Forms\obj\Debug\Phanquyen.Forms.PhanquyenNguoidungForm.resources
+E:\____Downloads\20170117_trainingaccount\SourceCode\Lambda.Solution\Phanquyen.Forms\obj\Debug\Phanquyen.Forms.Properties.Resources.resources
+E:\____Downloads\20170117_trainingaccount\SourceCode\Lambda.Solution\Phanquyen.Forms\obj\Debug\Phanquyen.Forms.TaikhoanForm.resources
+E:\____Downloads\20170117_trainingaccount\SourceCode\Lambda.Solution\Phanquyen.Forms\obj\Debug\Phanquyen.Forms.VaitroForm.resources
+E:\____Downloads\20170117_trainingaccount\SourceCode\Lambda.Solution\Phanquyen.Forms\obj\Debug\Phanquyen.Forms.csproj.GenerateResource.Cache
+E:\____Downloads\20170117_trainingaccount\SourceCode\Lambda.Solution\Phanquyen.Forms\obj\Debug\Phanquyen.Forms.dll.licenses
+E:\____Downloads\20170117_trainingaccount\SourceCode\Lambda.Solution\Phanquyen.Forms\obj\Debug\Phanquyen.Forms.dll
+E:\____Downloads\20170117_trainingaccount\SourceCode\Lambda.Solution\Phanquyen.Forms\obj\Debug\Phanquyen.Forms.pdb
+E:\____Downloads\20170117_trainingaccount\SourceCode\Lambda.Solution\Phanquyen.Forms\bin\Debug\Lambda.BusinessObject.dll
+E:\____Downloads\20170117_trainingaccount\SourceCode\Lambda.Solution\Phanquyen.Forms\bin\Debug\Lambda.ClientModel.dll
+E:\____Downloads\20170117_trainingaccount\SourceCode\Lambda.Solution\Phanquyen.Forms\bin\Debug\Lambda.DynamicLoad.dll
+E:\____Downloads\20170117_trainingaccount\SourceCode\Lambda.Solution\Phanquyen.Forms\bin\Debug\Lambda.Framework.dll
+E:\____Downloads\20170117_trainingaccount\SourceCode\Lambda.Solution\Phanquyen.Forms\bin\Debug\Lambda.CoreService.dll
+E:\____Downloads\20170117_trainingaccount\SourceCode\Lambda.Solution\Phanquyen.Forms\bin\Debug\Lambda.BusinessObject.pdb
+E:\____Downloads\20170117_trainingaccount\SourceCode\Lambda.Solution\Phanquyen.Forms\bin\Debug\Lambda.ClientModel.pdb
+E:\____Downloads\20170117_trainingaccount\SourceCode\Lambda.Solution\Phanquyen.Forms\bin\Debug\Lambda.DynamicLoad.pdb
+E:\____Downloads\20170117_trainingaccount\SourceCode\Lambda.Solution\Phanquyen.Forms\bin\Debug\Lambda.Framework.pdb
+E:\____Downloads\20170117_trainingaccount\SourceCode\Lambda.Solution\Phanquyen.Forms\bin\Debug\Lambda.CoreService.pdb
+D:\01.DH_SuPham\Lambda.Solution\Phanquyen.Forms\bin\Debug\Phanquyen.Forms.dll
+D:\01.DH_SuPham\Lambda.Solution\Phanquyen.Forms\bin\Debug\Phanquyen.Forms.pdb
+D:\01.DH_SuPham\Lambda.Solution\Phanquyen.Forms\bin\Debug\DevExpress.Data.v15.2.dll
+D:\01.DH_SuPham\Lambda.Solution\Phanquyen.Forms\bin\Debug\DevExpress.Printing.v15.2.Core.dll
+D:\01.DH_SuPham\Lambda.Solution\Phanquyen.Forms\bin\Debug\DevExpress.Utils.v15.2.dll
+D:\01.DH_SuPham\Lambda.Solution\Phanquyen.Forms\bin\Debug\DevExpress.XtraBars.v15.2.dll
+D:\01.DH_SuPham\Lambda.Solution\Phanquyen.Forms\bin\Debug\DevExpress.XtraEditors.v15.2.dll
+D:\01.DH_SuPham\Lambda.Solution\Phanquyen.Forms\bin\Debug\DevExpress.XtraGrid.v15.2.dll
+D:\01.DH_SuPham\Lambda.Solution\Phanquyen.Forms\bin\Debug\DevExpress.XtraLayout.v15.2.dll
+D:\01.DH_SuPham\Lambda.Solution\Phanquyen.Forms\bin\Debug\DevExpress.XtraPrinting.v15.2.dll
+D:\01.DH_SuPham\Lambda.Solution\Phanquyen.Forms\bin\Debug\DevExpress.XtraTreeList.v15.2.dll
+D:\01.DH_SuPham\Lambda.Solution\Phanquyen.Forms\bin\Debug\Lambda.BusinessObject.dll
+D:\01.DH_SuPham\Lambda.Solution\Phanquyen.Forms\bin\Debug\Lambda.ClientModel.dll
+D:\01.DH_SuPham\Lambda.Solution\Phanquyen.Forms\bin\Debug\Lambda.DynamicLoad.dll
+D:\01.DH_SuPham\Lambda.Solution\Phanquyen.Forms\bin\Debug\Microsoft.CSharp.dll
+D:\01.DH_SuPham\Lambda.Solution\Phanquyen.Forms\bin\Debug\Phanquyen.Model.dll
+D:\01.DH_SuPham\Lambda.Solution\Phanquyen.Forms\bin\Debug\Phanquyen.Presenter.dll
+D:\01.DH_SuPham\Lambda.Solution\Phanquyen.Forms\bin\Debug\Phanquyen.View.dll
+D:\01.DH_SuPham\Lambda.Solution\Phanquyen.Forms\bin\Debug\System.Data.DataSetExtensions.dll
+D:\01.DH_SuPham\Lambda.Solution\Phanquyen.Forms\bin\Debug\System.Data.dll
+D:\01.DH_SuPham\Lambda.Solution\Phanquyen.Forms\bin\Debug\System.dll
+D:\01.DH_SuPham\Lambda.Solution\Phanquyen.Forms\bin\Debug\System.Drawing.dll
+D:\01.DH_SuPham\Lambda.Solution\Phanquyen.Forms\bin\Debug\System.Windows.Forms.dll
+D:\01.DH_SuPham\Lambda.Solution\Phanquyen.Forms\bin\Debug\System.Xml.dll
+D:\01.DH_SuPham\Lambda.Solution\Phanquyen.Forms\bin\Debug\System.Xml.Linq.dll
+D:\01.DH_SuPham\Lambda.Solution\Phanquyen.Forms\bin\Debug\Lambda.Framework.dll
+D:\01.DH_SuPham\Lambda.Solution\Phanquyen.Forms\bin\Debug\Lambda.CoreService.dll
+D:\01.DH_SuPham\Lambda.Solution\Phanquyen.Forms\bin\Debug\Lambda.BusinessObject.pdb
+D:\01.DH_SuPham\Lambda.Solution\Phanquyen.Forms\bin\Debug\Lambda.ClientModel.pdb
+D:\01.DH_SuPham\Lambda.Solution\Phanquyen.Forms\bin\Debug\Lambda.DynamicLoad.pdb
+D:\01.DH_SuPham\Lambda.Solution\Phanquyen.Forms\bin\Debug\Phanquyen.Model.pdb
+D:\01.DH_SuPham\Lambda.Solution\Phanquyen.Forms\bin\Debug\Phanquyen.Presenter.pdb
+D:\01.DH_SuPham\Lambda.Solution\Phanquyen.Forms\bin\Debug\Phanquyen.View.pdb
+D:\01.DH_SuPham\Lambda.Solution\Phanquyen.Forms\bin\Debug\DevExpress.Data.v15.2.xml
+D:\01.DH_SuPham\Lambda.Solution\Phanquyen.Forms\bin\Debug\DevExpress.Printing.v15.2.Core.xml
+D:\01.DH_SuPham\Lambda.Solution\Phanquyen.Forms\bin\Debug\DevExpress.Utils.v15.2.xml
+D:\01.DH_SuPham\Lambda.Solution\Phanquyen.Forms\bin\Debug\DevExpress.XtraBars.v15.2.xml
+D:\01.DH_SuPham\Lambda.Solution\Phanquyen.Forms\bin\Debug\DevExpress.XtraEditors.v15.2.xml
+D:\01.DH_SuPham\Lambda.Solution\Phanquyen.Forms\bin\Debug\DevExpress.XtraPrinting.v15.2.xml
+D:\01.DH_SuPham\Lambda.Solution\Phanquyen.Forms\bin\Debug\DevExpress.XtraGrid.v15.2.xml
+D:\01.DH_SuPham\Lambda.Solution\Phanquyen.Forms\bin\Debug\DevExpress.XtraLayout.v15.2.xml
+D:\01.DH_SuPham\Lambda.Solution\Phanquyen.Forms\bin\Debug\DevExpress.XtraTreeList.v15.2.xml
+D:\01.DH_SuPham\Lambda.Solution\Phanquyen.Forms\bin\Debug\Lambda.Framework.pdb
+D:\01.DH_SuPham\Lambda.Solution\Phanquyen.Forms\bin\Debug\Lambda.CoreService.pdb
+D:\01.DH_SuPham\Lambda.Solution\Phanquyen.Forms\bin\Debug\de\DevExpress.Data.v15.2.resources.dll
+D:\01.DH_SuPham\Lambda.Solution\Phanquyen.Forms\bin\Debug\es\DevExpress.Data.v15.2.resources.dll
+D:\01.DH_SuPham\Lambda.Solution\Phanquyen.Forms\bin\Debug\ja\DevExpress.Data.v15.2.resources.dll
+D:\01.DH_SuPham\Lambda.Solution\Phanquyen.Forms\bin\Debug\ru\DevExpress.Data.v15.2.resources.dll
+D:\01.DH_SuPham\Lambda.Solution\Phanquyen.Forms\bin\Debug\de\DevExpress.Printing.v15.2.Core.resources.dll
+D:\01.DH_SuPham\Lambda.Solution\Phanquyen.Forms\bin\Debug\es\DevExpress.Printing.v15.2.Core.resources.dll
+D:\01.DH_SuPham\Lambda.Solution\Phanquyen.Forms\bin\Debug\ja\DevExpress.Printing.v15.2.Core.resources.dll
+D:\01.DH_SuPham\Lambda.Solution\Phanquyen.Forms\bin\Debug\ru\DevExpress.Printing.v15.2.Core.resources.dll
+D:\01.DH_SuPham\Lambda.Solution\Phanquyen.Forms\bin\Debug\de\DevExpress.Utils.v15.2.resources.dll
+D:\01.DH_SuPham\Lambda.Solution\Phanquyen.Forms\bin\Debug\es\DevExpress.Utils.v15.2.resources.dll
+D:\01.DH_SuPham\Lambda.Solution\Phanquyen.Forms\bin\Debug\ja\DevExpress.Utils.v15.2.resources.dll
+D:\01.DH_SuPham\Lambda.Solution\Phanquyen.Forms\bin\Debug\ru\DevExpress.Utils.v15.2.resources.dll
+D:\01.DH_SuPham\Lambda.Solution\Phanquyen.Forms\bin\Debug\de\DevExpress.XtraBars.v15.2.resources.dll
+D:\01.DH_SuPham\Lambda.Solution\Phanquyen.Forms\bin\Debug\es\DevExpress.XtraBars.v15.2.resources.dll
+D:\01.DH_SuPham\Lambda.Solution\Phanquyen.Forms\bin\Debug\ja\DevExpress.XtraBars.v15.2.resources.dll
+D:\01.DH_SuPham\Lambda.Solution\Phanquyen.Forms\bin\Debug\ru\DevExpress.XtraBars.v15.2.resources.dll
+D:\01.DH_SuPham\Lambda.Solution\Phanquyen.Forms\bin\Debug\de\DevExpress.XtraEditors.v15.2.resources.dll
+D:\01.DH_SuPham\Lambda.Solution\Phanquyen.Forms\bin\Debug\es\DevExpress.XtraEditors.v15.2.resources.dll
+D:\01.DH_SuPham\Lambda.Solution\Phanquyen.Forms\bin\Debug\ja\DevExpress.XtraEditors.v15.2.resources.dll
+D:\01.DH_SuPham\Lambda.Solution\Phanquyen.Forms\bin\Debug\ru\DevExpress.XtraEditors.v15.2.resources.dll
+D:\01.DH_SuPham\Lambda.Solution\Phanquyen.Forms\bin\Debug\de\DevExpress.XtraPrinting.v15.2.resources.dll
+D:\01.DH_SuPham\Lambda.Solution\Phanquyen.Forms\bin\Debug\es\DevExpress.XtraPrinting.v15.2.resources.dll
+D:\01.DH_SuPham\Lambda.Solution\Phanquyen.Forms\bin\Debug\ja\DevExpress.XtraPrinting.v15.2.resources.dll
+D:\01.DH_SuPham\Lambda.Solution\Phanquyen.Forms\bin\Debug\ru\DevExpress.XtraPrinting.v15.2.resources.dll
+D:\01.DH_SuPham\Lambda.Solution\Phanquyen.Forms\bin\Debug\de\DevExpress.XtraGrid.v15.2.resources.dll
+D:\01.DH_SuPham\Lambda.Solution\Phanquyen.Forms\bin\Debug\es\DevExpress.XtraGrid.v15.2.resources.dll
+D:\01.DH_SuPham\Lambda.Solution\Phanquyen.Forms\bin\Debug\ja\DevExpress.XtraGrid.v15.2.resources.dll
+D:\01.DH_SuPham\Lambda.Solution\Phanquyen.Forms\bin\Debug\ru\DevExpress.XtraGrid.v15.2.resources.dll
+D:\01.DH_SuPham\Lambda.Solution\Phanquyen.Forms\bin\Debug\de\DevExpress.XtraLayout.v15.2.resources.dll
+D:\01.DH_SuPham\Lambda.Solution\Phanquyen.Forms\bin\Debug\es\DevExpress.XtraLayout.v15.2.resources.dll
+D:\01.DH_SuPham\Lambda.Solution\Phanquyen.Forms\bin\Debug\ja\DevExpress.XtraLayout.v15.2.resources.dll
+D:\01.DH_SuPham\Lambda.Solution\Phanquyen.Forms\bin\Debug\ru\DevExpress.XtraLayout.v15.2.resources.dll
+D:\01.DH_SuPham\Lambda.Solution\Phanquyen.Forms\bin\Debug\de\DevExpress.XtraTreeList.v15.2.resources.dll
+D:\01.DH_SuPham\Lambda.Solution\Phanquyen.Forms\bin\Debug\es\DevExpress.XtraTreeList.v15.2.resources.dll
+D:\01.DH_SuPham\Lambda.Solution\Phanquyen.Forms\bin\Debug\ja\DevExpress.XtraTreeList.v15.2.resources.dll
+D:\01.DH_SuPham\Lambda.Solution\Phanquyen.Forms\bin\Debug\ru\DevExpress.XtraTreeList.v15.2.resources.dll
+D:\01.DH_SuPham\Lambda.Solution\Phanquyen.Forms\obj\Debug\Phanquyen.Forms.csprojResolveAssemblyReference.cache
+D:\01.DH_SuPham\Lambda.Solution\Phanquyen.Forms\obj\Debug\Phanquyen.Forms.ChucnangForm.resources
+D:\01.DH_SuPham\Lambda.Solution\Phanquyen.Forms\obj\Debug\Phanquyen.Forms.NhomChucnangForm.resources
+D:\01.DH_SuPham\Lambda.Solution\Phanquyen.Forms\obj\Debug\Phanquyen.Forms.PhanquyenChucnangChoVaitroForm.resources
+D:\01.DH_SuPham\Lambda.Solution\Phanquyen.Forms\obj\Debug\Phanquyen.Forms.PhanquyenNguoidungForm.resources
+D:\01.DH_SuPham\Lambda.Solution\Phanquyen.Forms\obj\Debug\Phanquyen.Forms.Properties.Resources.resources
+D:\01.DH_SuPham\Lambda.Solution\Phanquyen.Forms\obj\Debug\Phanquyen.Forms.TaikhoanForm.resources
+D:\01.DH_SuPham\Lambda.Solution\Phanquyen.Forms\obj\Debug\Phanquyen.Forms.VaitroForm.resources
+D:\01.DH_SuPham\Lambda.Solution\Phanquyen.Forms\obj\Debug\Phanquyen.Forms.csproj.GenerateResource.Cache
+D:\01.DH_SuPham\Lambda.Solution\Phanquyen.Forms\obj\Debug\Phanquyen.Forms.dll.licenses
+D:\01.DH_SuPham\Lambda.Solution\Phanquyen.Forms\obj\Debug\Phanquyen.Forms.dll
+D:\01.DH_SuPham\Lambda.Solution\Phanquyen.Forms\obj\Debug\Phanquyen.Forms.pdb

@@ -1,0 +1,15 @@
+D:\tuantp@live.com\Dropbox\Cong nghe\BMIFramework\BMIModel\bin\Release\BMIModel.dll
+D:\tuantp@live.com\Dropbox\Cong nghe\BMIFramework\BMIModel\bin\Release\BMIModel.pdb
+D:\tuantp@live.com\Dropbox\Cong nghe\BMIFramework\BMIModel\bin\Release\AutoFramework.dll
+D:\tuantp@live.com\Dropbox\Cong nghe\BMIFramework\BMIModel\bin\Release\AutoService.dll
+D:\tuantp@live.com\Dropbox\Cong nghe\BMIFramework\BMIModel\bin\Release\BusinessObject.dll
+D:\tuantp@live.com\Dropbox\Cong nghe\BMIFramework\BMIModel\bin\Release\CoreService.dll
+D:\tuantp@live.com\Dropbox\Cong nghe\BMIFramework\BMIModel\bin\Release\DataObject.dll
+D:\tuantp@live.com\Dropbox\Cong nghe\BMIFramework\BMIModel\bin\Release\AutoFramework.pdb
+D:\tuantp@live.com\Dropbox\Cong nghe\BMIFramework\BMIModel\bin\Release\AutoService.pdb
+D:\tuantp@live.com\Dropbox\Cong nghe\BMIFramework\BMIModel\bin\Release\BusinessObject.pdb
+D:\tuantp@live.com\Dropbox\Cong nghe\BMIFramework\BMIModel\bin\Release\CoreService.pdb
+D:\tuantp@live.com\Dropbox\Cong nghe\BMIFramework\BMIModel\bin\Release\DataObject.pdb
+D:\tuantp@live.com\Dropbox\Cong nghe\BMIFramework\BMIModel\obj\Release\1. BMIModel.csprojResolveAssemblyReference.cache
+D:\tuantp@live.com\Dropbox\Cong nghe\BMIFramework\BMIModel\obj\Release\BMIModel.dll
+D:\tuantp@live.com\Dropbox\Cong nghe\BMIFramework\BMIModel\obj\Release\BMIModel.pdb

@@ -1,0 +1,22 @@
+D:\tuantp@live.com\Dropbox\Cong nghe\LambdaFramework\DataObject\bin\Release\Lambda.DataObject.dll
+D:\tuantp@live.com\Dropbox\Cong nghe\LambdaFramework\DataObject\bin\Release\Lambda.DataObject.pdb
+D:\tuantp@live.com\Dropbox\Cong nghe\LambdaFramework\DataObject\bin\Release\AutoFramework.dll
+D:\tuantp@live.com\Dropbox\Cong nghe\LambdaFramework\DataObject\bin\Release\Lambda.BusinessObject.dll
+D:\tuantp@live.com\Dropbox\Cong nghe\LambdaFramework\DataObject\bin\Release\AutoFramework.pdb
+D:\tuantp@live.com\Dropbox\Cong nghe\LambdaFramework\DataObject\bin\Release\Lambda.BusinessObject.pdb
+D:\tuantp@live.com\Dropbox\Cong nghe\LambdaFramework\DataObject\obj\Release\5. Lambda.DataObject.csprojResolveAssemblyReference.cache
+D:\tuantp@live.com\Dropbox\Cong nghe\LambdaFramework\DataObject\obj\Release\Lambda.DataObject.dll
+D:\tuantp@live.com\Dropbox\Cong nghe\LambdaFramework\DataObject\obj\Release\Lambda.DataObject.pdb
+D:\tuantp@live.com\Dropbox\Cong nghe\LambdaFramework\Lambda.DataObject\bin\Release\Lambda.DataObject.dll
+D:\tuantp@live.com\Dropbox\Cong nghe\LambdaFramework\Lambda.DataObject\bin\Release\Lambda.DataObject.pdb
+D:\tuantp@live.com\Dropbox\Cong nghe\LambdaFramework\Lambda.DataObject\bin\Release\Lambda.BusinessObject.dll
+D:\tuantp@live.com\Dropbox\Cong nghe\LambdaFramework\Lambda.DataObject\bin\Release\Lambda.CoreService.dll
+D:\tuantp@live.com\Dropbox\Cong nghe\LambdaFramework\Lambda.DataObject\bin\Release\Lambda.DynamicLoad.dll
+D:\tuantp@live.com\Dropbox\Cong nghe\LambdaFramework\Lambda.DataObject\bin\Release\Lambda.Framework.dll
+D:\tuantp@live.com\Dropbox\Cong nghe\LambdaFramework\Lambda.DataObject\bin\Release\Lambda.BusinessObject.pdb
+D:\tuantp@live.com\Dropbox\Cong nghe\LambdaFramework\Lambda.DataObject\bin\Release\Lambda.CoreService.pdb
+D:\tuantp@live.com\Dropbox\Cong nghe\LambdaFramework\Lambda.DataObject\bin\Release\Lambda.DynamicLoad.pdb
+D:\tuantp@live.com\Dropbox\Cong nghe\LambdaFramework\Lambda.DataObject\bin\Release\Lambda.Framework.pdb
+D:\tuantp@live.com\Dropbox\Cong nghe\LambdaFramework\Lambda.DataObject\obj\Release\5. Lambda.DataObject.csprojResolveAssemblyReference.cache
+D:\tuantp@live.com\Dropbox\Cong nghe\LambdaFramework\Lambda.DataObject\obj\Release\Lambda.DataObject.dll
+D:\tuantp@live.com\Dropbox\Cong nghe\LambdaFramework\Lambda.DataObject\obj\Release\Lambda.DataObject.pdb

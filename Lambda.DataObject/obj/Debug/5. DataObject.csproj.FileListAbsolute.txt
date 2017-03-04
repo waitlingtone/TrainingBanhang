@@ -1,0 +1,9 @@
+D:\tuantp@live.com\Dropbox\Cong nghe\BMIFramework\DataObject\bin\Debug\DataObject.dll
+D:\tuantp@live.com\Dropbox\Cong nghe\BMIFramework\DataObject\bin\Debug\DataObject.pdb
+D:\tuantp@live.com\Dropbox\Cong nghe\BMIFramework\DataObject\bin\Debug\AutoFramework.dll
+D:\tuantp@live.com\Dropbox\Cong nghe\BMIFramework\DataObject\bin\Debug\BusinessObject.dll
+D:\tuantp@live.com\Dropbox\Cong nghe\BMIFramework\DataObject\bin\Debug\AutoFramework.pdb
+D:\tuantp@live.com\Dropbox\Cong nghe\BMIFramework\DataObject\bin\Debug\BusinessObject.pdb
+D:\tuantp@live.com\Dropbox\Cong nghe\BMIFramework\DataObject\obj\Debug\5. DataObject.csprojResolveAssemblyReference.cache
+D:\tuantp@live.com\Dropbox\Cong nghe\BMIFramework\DataObject\obj\Debug\DataObject.dll
+D:\tuantp@live.com\Dropbox\Cong nghe\BMIFramework\DataObject\obj\Debug\DataObject.pdb

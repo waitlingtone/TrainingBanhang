@@ -1,0 +1,1 @@
+installutil Lambda.ServiceHost.exe

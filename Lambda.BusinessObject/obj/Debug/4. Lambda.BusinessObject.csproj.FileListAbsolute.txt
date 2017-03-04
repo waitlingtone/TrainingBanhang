@@ -1,0 +1,21 @@
+D:\tuantp@live.com\Dropbox\Cong nghe\LambdaFramework\Lambda.BusinessObject\bin\Debug\Lambda.BusinessObject.dll
+D:\tuantp@live.com\Dropbox\Cong nghe\LambdaFramework\Lambda.BusinessObject\bin\Debug\Lambda.BusinessObject.pdb
+D:\tuantp@live.com\Dropbox\Cong nghe\LambdaFramework\Lambda.BusinessObject\bin\Debug\Lambda.Framework.dll
+D:\tuantp@live.com\Dropbox\Cong nghe\LambdaFramework\Lambda.BusinessObject\bin\Debug\Lambda.Framework.pdb
+D:\tuantp@live.com\Dropbox\Cong nghe\LambdaFramework\Lambda.BusinessObject\obj\Debug\4. Lambda.BusinessObject.csprojResolveAssemblyReference.cache
+D:\tuantp@live.com\Dropbox\Cong nghe\LambdaFramework\Lambda.BusinessObject\obj\Debug\Lambda.BusinessObject.dll
+D:\tuantp@live.com\Dropbox\Cong nghe\LambdaFramework\Lambda.BusinessObject\obj\Debug\Lambda.BusinessObject.pdb
+E:\____Downloads\20170117_trainingaccount\SourceCode\Lambda.Solution\Lambda.BusinessObject\bin\Debug\Lambda.BusinessObject.dll
+E:\____Downloads\20170117_trainingaccount\SourceCode\Lambda.Solution\Lambda.BusinessObject\bin\Debug\Lambda.BusinessObject.pdb
+E:\____Downloads\20170117_trainingaccount\SourceCode\Lambda.Solution\Lambda.BusinessObject\bin\Debug\Lambda.Framework.dll
+E:\____Downloads\20170117_trainingaccount\SourceCode\Lambda.Solution\Lambda.BusinessObject\bin\Debug\Lambda.Framework.pdb
+E:\____Downloads\20170117_trainingaccount\SourceCode\Lambda.Solution\Lambda.BusinessObject\obj\Debug\4. Lambda.BusinessObject.csprojResolveAssemblyReference.cache
+E:\____Downloads\20170117_trainingaccount\SourceCode\Lambda.Solution\Lambda.BusinessObject\obj\Debug\Lambda.BusinessObject.dll
+E:\____Downloads\20170117_trainingaccount\SourceCode\Lambda.Solution\Lambda.BusinessObject\obj\Debug\Lambda.BusinessObject.pdb
+D:\01.DH_SuPham\Lambda.Solution\Lambda.BusinessObject\bin\Debug\Lambda.BusinessObject.dll
+D:\01.DH_SuPham\Lambda.Solution\Lambda.BusinessObject\bin\Debug\Lambda.BusinessObject.pdb
+D:\01.DH_SuPham\Lambda.Solution\Lambda.BusinessObject\bin\Debug\Lambda.Framework.dll
+D:\01.DH_SuPham\Lambda.Solution\Lambda.BusinessObject\bin\Debug\Lambda.Framework.pdb
+D:\01.DH_SuPham\Lambda.Solution\Lambda.BusinessObject\obj\Debug\4. Lambda.BusinessObject.csprojResolveAssemblyReference.cache
+D:\01.DH_SuPham\Lambda.Solution\Lambda.BusinessObject\obj\Debug\Lambda.BusinessObject.dll
+D:\01.DH_SuPham\Lambda.Solution\Lambda.BusinessObject\obj\Debug\Lambda.BusinessObject.pdb

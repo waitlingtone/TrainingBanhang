@@ -1,0 +1,129 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{D86DA755-6BC1-44CE-AE40-A6714DBC91C2}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>TrainingAccounting.Presenter</RootNamespace>
+    <AssemblyName>TrainingAccounting.Presenter</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.Configuration">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.Core">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.Xml.Linq">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.Data.DataSetExtensions">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="Microsoft.CSharp">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.Data">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.Xml">
+      <Private>True</Private>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="BackupInfoPresenter.cs" />
+    <Compile Include="BangluongChuyenKhoanPresenter.cs" />
+    <Compile Include="BosungLichhocPresenter.cs" />
+    <Compile Include="BosungLuongNhanvienPresenter.cs" />
+    <Compile Include="CacPhieuThuChiPresenter.cs" />
+    <Compile Include="CahocPresenter.cs" />
+    <Compile Include="CapnhatDanhsachTreCoHocphiPresenter.cs" />
+    <Compile Include="ChitietHoadonPresenter.cs" />
+    <Compile Include="ChitietPhieubaoHocphiPresenter.cs" />
+    <Compile Include="ChonNoidungPresenter.cs" />
+    <Compile Include="DangkyLichdayPresenter.cs" />
+    <Compile Include="DangkyLichhocPresenter.cs" />
+    <Compile Include="DanhmucChiPresenter.cs" />
+    <Compile Include="DanhmucSachPresenter.cs" />
+    <Compile Include="DanhmucThuPresenter.cs" />
+    <Compile Include="DanhmucTraluongNhanvienPresenter.cs" />
+    <Compile Include="DantocPresenter.cs" />
+    <Compile Include="DaumucThuchiPresenter.cs" />
+    <Compile Include="DiemdanhTrongngayPresenter.cs" />
+    <Compile Include="DongiaHocphiPresenter.cs" />
+    <Compile Include="HanghoaPresenter.cs" />
+    <Compile Include="HesoNgaytinhluongPresenter.cs" />
+    <Compile Include="HoadonPresenter.cs" />
+    <Compile Include="LichhocDayhocAppointmentPresenter.cs" />
+    <Compile Include="LuongCanbanPresenter.cs" />
+    <Compile Include="NDGiangdayPresenter.cs" />
+    <Compile Include="NganhangPresenter.cs" />
+    <Compile Include="NhanvienPresenter.cs" />
+    <Compile Include="NhomtrePresenter.cs" />
+    <Compile Include="PhieubaoHocphiPresenter.cs" />
+    <Compile Include="PhieubaoLuongNhanvienPresenter.cs" />
+    <Compile Include="PhieuThuSachPresenter.cs" />
+    <Compile Include="PhieuXuatSachPresenter.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="QuanhuyenPresenter.cs" />
+    <Compile Include="ThoikhoabieuGiaovienPresenter.cs" />
+    <Compile Include="ThoikhoabieuTrePresenter.cs" />
+    <Compile Include="ThongtinPresenter.cs" />
+    <Compile Include="ThuChiPresenter.cs" />
+    <Compile Include="TinhthanhPresenter.cs" />
+    <Compile Include="TonghopDanhsachTreDangkyHocPresenter.cs" />
+    <Compile Include="TongiaoPresenter.cs" />
+    <Compile Include="TrePresenter.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Lambda.BusinessObject\4. Lambda.BusinessObject.csproj">
+      <Project>{8be13e65-df39-43b8-a857-f23e84da1c4e}</Project>
+      <Name>4. Lambda.BusinessObject</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Lambda.ClientModel\1. Lambda.ClientModel.csproj">
+      <Project>{c48d9079-14e5-4c74-94d5-023f497153fb}</Project>
+      <Name>1. Lambda.ClientModel</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\TrainingAccounting.Model\TrainingAccounting.Model.csproj">
+      <Project>{bb71418d-c06a-4e38-9295-551db7d30dab}</Project>
+      <Name>TrainingAccounting.Model</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\TrainingAccounting.View\TrainingAccounting.View.csproj">
+      <Project>{f3826d7c-e7dd-4fc1-a07b-5e224d6f3588}</Project>
+      <Name>TrainingAccounting.View</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

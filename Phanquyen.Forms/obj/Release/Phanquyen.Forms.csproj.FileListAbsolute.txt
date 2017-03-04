@@ -1,0 +1,166 @@
+D:\Dropbox\QL DAY & HOC\Phanquyen.Solution\Phanquyen.Forms\bin\Release\Phanquyen.Forms.dll
+D:\Dropbox\QL DAY & HOC\Phanquyen.Solution\Phanquyen.Forms\bin\Release\Phanquyen.Forms.pdb
+D:\Dropbox\QL DAY & HOC\Phanquyen.Solution\Phanquyen.Forms\bin\Release\Lambda.BusinessObject.dll
+D:\Dropbox\QL DAY & HOC\Phanquyen.Solution\Phanquyen.Forms\bin\Release\Lambda.ClientModel.dll
+D:\Dropbox\QL DAY & HOC\Phanquyen.Solution\Phanquyen.Forms\bin\Release\Lambda.DynamicLoad.dll
+D:\Dropbox\QL DAY & HOC\Phanquyen.Solution\Phanquyen.Forms\bin\Release\Phanquyen.Model.dll
+D:\Dropbox\QL DAY & HOC\Phanquyen.Solution\Phanquyen.Forms\bin\Release\Phanquyen.Presenter.dll
+D:\Dropbox\QL DAY & HOC\Phanquyen.Solution\Phanquyen.Forms\bin\Release\Phanquyen.View.dll
+D:\Dropbox\QL DAY & HOC\Phanquyen.Solution\Phanquyen.Forms\bin\Release\Lambda.Framework.dll
+D:\Dropbox\QL DAY & HOC\Phanquyen.Solution\Phanquyen.Forms\bin\Release\Lambda.CoreService.dll
+D:\Dropbox\QL DAY & HOC\Phanquyen.Solution\Phanquyen.Forms\bin\Release\Lambda.AutoService.dll
+D:\Dropbox\QL DAY & HOC\Phanquyen.Solution\Phanquyen.Forms\bin\Release\Lambda.DataObject.dll
+D:\Dropbox\QL DAY & HOC\Phanquyen.Solution\Phanquyen.Forms\bin\Release\Phanquyen.Model.pdb
+D:\Dropbox\QL DAY & HOC\Phanquyen.Solution\Phanquyen.Forms\bin\Release\Phanquyen.Presenter.pdb
+D:\Dropbox\QL DAY & HOC\Phanquyen.Solution\Phanquyen.Forms\bin\Release\Phanquyen.View.pdb
+D:\Dropbox\QL DAY & HOC\Phanquyen.Solution\Phanquyen.Forms\obj\Release\Phanquyen.Forms.csprojResolveAssemblyReference.cache
+D:\Dropbox\QL DAY & HOC\Phanquyen.Solution\Phanquyen.Forms\obj\Release\Phanquyen.Forms.ChucnangForm.resources
+D:\Dropbox\QL DAY & HOC\Phanquyen.Solution\Phanquyen.Forms\obj\Release\Phanquyen.Forms.NhomChucnangForm.resources
+D:\Dropbox\QL DAY & HOC\Phanquyen.Solution\Phanquyen.Forms\obj\Release\Phanquyen.Forms.PhanquyenChucnangChoVaitroForm.resources
+D:\Dropbox\QL DAY & HOC\Phanquyen.Solution\Phanquyen.Forms\obj\Release\Phanquyen.Forms.PhanquyenNguoidungForm.resources
+D:\Dropbox\QL DAY & HOC\Phanquyen.Solution\Phanquyen.Forms\obj\Release\Phanquyen.Forms.Properties.Resources.resources
+D:\Dropbox\QL DAY & HOC\Phanquyen.Solution\Phanquyen.Forms\obj\Release\Phanquyen.Forms.TaikhoanForm.resources
+D:\Dropbox\QL DAY & HOC\Phanquyen.Solution\Phanquyen.Forms\obj\Release\Phanquyen.Forms.VaitroForm.resources
+D:\Dropbox\QL DAY & HOC\Phanquyen.Solution\Phanquyen.Forms\obj\Release\Phanquyen.Forms.csproj.GenerateResource.Cache
+D:\Dropbox\QL DAY & HOC\Phanquyen.Solution\Phanquyen.Forms\obj\Release\Phanquyen.Forms.dll.licenses
+D:\Dropbox\QL DAY & HOC\Phanquyen.Solution\Phanquyen.Forms\obj\Release\Phanquyen.Forms.dll
+D:\Dropbox\QL DAY & HOC\Phanquyen.Solution\Phanquyen.Forms\obj\Release\Phanquyen.Forms.pdb
+D:\Dropbox\QL DAY & HOC\Phanquyen.Solution\Phanquyen.Forms\bin\Release\DevExpress.Data.v12.2.dll
+D:\Dropbox\QL DAY & HOC\Phanquyen.Solution\Phanquyen.Forms\bin\Release\DevExpress.Printing.v12.2.Core.dll
+D:\Dropbox\QL DAY & HOC\Phanquyen.Solution\Phanquyen.Forms\bin\Release\DevExpress.Utils.v12.2.dll
+D:\Dropbox\QL DAY & HOC\Phanquyen.Solution\Phanquyen.Forms\bin\Release\DevExpress.XtraBars.v12.2.dll
+D:\Dropbox\QL DAY & HOC\Phanquyen.Solution\Phanquyen.Forms\bin\Release\DevExpress.XtraEditors.v12.2.dll
+D:\Dropbox\QL DAY & HOC\Phanquyen.Solution\Phanquyen.Forms\bin\Release\DevExpress.XtraGrid.v12.2.dll
+D:\Dropbox\QL DAY & HOC\Phanquyen.Solution\Phanquyen.Forms\bin\Release\DevExpress.XtraLayout.v12.2.dll
+D:\Dropbox\QL DAY & HOC\Phanquyen.Solution\Phanquyen.Forms\bin\Release\DevExpress.XtraTreeList.v12.2.dll
+D:\Dropbox\QL DAY & HOC\Phanquyen.Solution\Phanquyen.Forms\bin\Release\Microsoft.CSharp.dll
+D:\Dropbox\QL DAY & HOC\Phanquyen.Solution\Phanquyen.Forms\bin\Release\System.Data.DataSetExtensions.dll
+D:\Dropbox\QL DAY & HOC\Phanquyen.Solution\Phanquyen.Forms\bin\Release\System.Data.dll
+D:\Dropbox\QL DAY & HOC\Phanquyen.Solution\Phanquyen.Forms\bin\Release\System.dll
+D:\Dropbox\QL DAY & HOC\Phanquyen.Solution\Phanquyen.Forms\bin\Release\System.Drawing.dll
+D:\Dropbox\QL DAY & HOC\Phanquyen.Solution\Phanquyen.Forms\bin\Release\System.Windows.Forms.dll
+D:\Dropbox\QL DAY & HOC\Phanquyen.Solution\Phanquyen.Forms\bin\Release\System.Xml.dll
+D:\Dropbox\QL DAY & HOC\Phanquyen.Solution\Phanquyen.Forms\bin\Release\System.Xml.Linq.dll
+D:\Dropbox\QL DAY & HOC\Phanquyen.Solution\Phanquyen.Forms\bin\Release\DevExpress.Data.v12.2.xml
+D:\Dropbox\QL DAY & HOC\Phanquyen.Solution\Phanquyen.Forms\bin\Release\DevExpress.Printing.v12.2.Core.xml
+D:\Dropbox\QL DAY & HOC\Phanquyen.Solution\Phanquyen.Forms\bin\Release\DevExpress.Utils.v12.2.xml
+D:\Dropbox\QL DAY & HOC\Phanquyen.Solution\Phanquyen.Forms\bin\Release\DevExpress.XtraBars.v12.2.xml
+D:\Dropbox\QL DAY & HOC\Phanquyen.Solution\Phanquyen.Forms\bin\Release\DevExpress.XtraEditors.v12.2.xml
+D:\Dropbox\QL DAY & HOC\Phanquyen.Solution\Phanquyen.Forms\bin\Release\DevExpress.XtraGrid.v12.2.xml
+D:\Dropbox\QL DAY & HOC\Phanquyen.Solution\Phanquyen.Forms\bin\Release\DevExpress.XtraLayout.v12.2.xml
+D:\Dropbox\QL DAY & HOC\Phanquyen.Solution\Phanquyen.Forms\bin\Release\DevExpress.XtraTreeList.v12.2.xml
+D:\Dropbox\QL DAY & HOC\Phanquyen.Solution\Phanquyen.Forms\bin\Release\de\DevExpress.Data.v12.2.resources.dll
+D:\Dropbox\QL DAY & HOC\Phanquyen.Solution\Phanquyen.Forms\bin\Release\es\DevExpress.Data.v12.2.resources.dll
+D:\Dropbox\QL DAY & HOC\Phanquyen.Solution\Phanquyen.Forms\bin\Release\ja\DevExpress.Data.v12.2.resources.dll
+D:\Dropbox\QL DAY & HOC\Phanquyen.Solution\Phanquyen.Forms\bin\Release\ru\DevExpress.Data.v12.2.resources.dll
+D:\Dropbox\QL DAY & HOC\Phanquyen.Solution\Phanquyen.Forms\bin\Release\de\DevExpress.Printing.v12.2.Core.resources.dll
+D:\Dropbox\QL DAY & HOC\Phanquyen.Solution\Phanquyen.Forms\bin\Release\es\DevExpress.Printing.v12.2.Core.resources.dll
+D:\Dropbox\QL DAY & HOC\Phanquyen.Solution\Phanquyen.Forms\bin\Release\ja\DevExpress.Printing.v12.2.Core.resources.dll
+D:\Dropbox\QL DAY & HOC\Phanquyen.Solution\Phanquyen.Forms\bin\Release\ru\DevExpress.Printing.v12.2.Core.resources.dll
+D:\Dropbox\QL DAY & HOC\Phanquyen.Solution\Phanquyen.Forms\bin\Release\de\DevExpress.Utils.v12.2.resources.dll
+D:\Dropbox\QL DAY & HOC\Phanquyen.Solution\Phanquyen.Forms\bin\Release\es\DevExpress.Utils.v12.2.resources.dll
+D:\Dropbox\QL DAY & HOC\Phanquyen.Solution\Phanquyen.Forms\bin\Release\ja\DevExpress.Utils.v12.2.resources.dll
+D:\Dropbox\QL DAY & HOC\Phanquyen.Solution\Phanquyen.Forms\bin\Release\ru\DevExpress.Utils.v12.2.resources.dll
+D:\Dropbox\QL DAY & HOC\Phanquyen.Solution\Phanquyen.Forms\bin\Release\de\DevExpress.XtraBars.v12.2.resources.dll
+D:\Dropbox\QL DAY & HOC\Phanquyen.Solution\Phanquyen.Forms\bin\Release\es\DevExpress.XtraBars.v12.2.resources.dll
+D:\Dropbox\QL DAY & HOC\Phanquyen.Solution\Phanquyen.Forms\bin\Release\ja\DevExpress.XtraBars.v12.2.resources.dll
+D:\Dropbox\QL DAY & HOC\Phanquyen.Solution\Phanquyen.Forms\bin\Release\ru\DevExpress.XtraBars.v12.2.resources.dll
+D:\Dropbox\QL DAY & HOC\Phanquyen.Solution\Phanquyen.Forms\bin\Release\de\DevExpress.XtraEditors.v12.2.resources.dll
+D:\Dropbox\QL DAY & HOC\Phanquyen.Solution\Phanquyen.Forms\bin\Release\es\DevExpress.XtraEditors.v12.2.resources.dll
+D:\Dropbox\QL DAY & HOC\Phanquyen.Solution\Phanquyen.Forms\bin\Release\ja\DevExpress.XtraEditors.v12.2.resources.dll
+D:\Dropbox\QL DAY & HOC\Phanquyen.Solution\Phanquyen.Forms\bin\Release\ru\DevExpress.XtraEditors.v12.2.resources.dll
+D:\Dropbox\QL DAY & HOC\Phanquyen.Solution\Phanquyen.Forms\bin\Release\de\DevExpress.XtraGrid.v12.2.resources.dll
+D:\Dropbox\QL DAY & HOC\Phanquyen.Solution\Phanquyen.Forms\bin\Release\es\DevExpress.XtraGrid.v12.2.resources.dll
+D:\Dropbox\QL DAY & HOC\Phanquyen.Solution\Phanquyen.Forms\bin\Release\ja\DevExpress.XtraGrid.v12.2.resources.dll
+D:\Dropbox\QL DAY & HOC\Phanquyen.Solution\Phanquyen.Forms\bin\Release\ru\DevExpress.XtraGrid.v12.2.resources.dll
+D:\Dropbox\QL DAY & HOC\Phanquyen.Solution\Phanquyen.Forms\bin\Release\de\DevExpress.XtraLayout.v12.2.resources.dll
+D:\Dropbox\QL DAY & HOC\Phanquyen.Solution\Phanquyen.Forms\bin\Release\es\DevExpress.XtraLayout.v12.2.resources.dll
+D:\Dropbox\QL DAY & HOC\Phanquyen.Solution\Phanquyen.Forms\bin\Release\ja\DevExpress.XtraLayout.v12.2.resources.dll
+D:\Dropbox\QL DAY & HOC\Phanquyen.Solution\Phanquyen.Forms\bin\Release\ru\DevExpress.XtraLayout.v12.2.resources.dll
+D:\Dropbox\QL DAY & HOC\Phanquyen.Solution\Phanquyen.Forms\bin\Release\de\DevExpress.XtraTreeList.v12.2.resources.dll
+D:\Dropbox\QL DAY & HOC\Phanquyen.Solution\Phanquyen.Forms\bin\Release\es\DevExpress.XtraTreeList.v12.2.resources.dll
+D:\Dropbox\QL DAY & HOC\Phanquyen.Solution\Phanquyen.Forms\bin\Release\ja\DevExpress.XtraTreeList.v12.2.resources.dll
+D:\Dropbox\QL DAY & HOC\Phanquyen.Solution\Phanquyen.Forms\bin\Release\ru\DevExpress.XtraTreeList.v12.2.resources.dll
+E:\____Downloads\20170117_trainingaccount\SourceCode\Phanquyen.Solution\Phanquyen.Forms\obj\Release\Phanquyen.Forms.csprojResolveAssemblyReference.cache
+E:\____Downloads\20170117_trainingaccount\SourceCode\Phanquyen.Solution\Phanquyen.Forms\obj\Release\Phanquyen.Forms.ChucnangForm.resources
+E:\____Downloads\20170117_trainingaccount\SourceCode\Phanquyen.Solution\Phanquyen.Forms\obj\Release\Phanquyen.Forms.NhomChucnangForm.resources
+E:\____Downloads\20170117_trainingaccount\SourceCode\Phanquyen.Solution\Phanquyen.Forms\obj\Release\Phanquyen.Forms.PhanquyenChucnangChoVaitroForm.resources
+E:\____Downloads\20170117_trainingaccount\SourceCode\Phanquyen.Solution\Phanquyen.Forms\obj\Release\Phanquyen.Forms.PhanquyenNguoidungForm.resources
+E:\____Downloads\20170117_trainingaccount\SourceCode\Phanquyen.Solution\Phanquyen.Forms\obj\Release\Phanquyen.Forms.Properties.Resources.resources
+E:\____Downloads\20170117_trainingaccount\SourceCode\Phanquyen.Solution\Phanquyen.Forms\obj\Release\Phanquyen.Forms.TaikhoanForm.resources
+E:\____Downloads\20170117_trainingaccount\SourceCode\Phanquyen.Solution\Phanquyen.Forms\obj\Release\Phanquyen.Forms.VaitroForm.resources
+E:\____Downloads\20170117_trainingaccount\SourceCode\Phanquyen.Solution\Phanquyen.Forms\obj\Release\Phanquyen.Forms.csproj.GenerateResource.Cache
+E:\____Downloads\20170117_trainingaccount\SourceCode\Phanquyen.Solution\Phanquyen.Forms\obj\Release\Phanquyen.Forms.dll.licenses
+E:\____Downloads\20170117_trainingaccount\SourceCode\Phanquyen.Solution\Phanquyen.Forms\obj\Release\Phanquyen.Forms.dll
+E:\____Downloads\20170117_trainingaccount\SourceCode\Phanquyen.Solution\Phanquyen.Forms\obj\Release\Phanquyen.Forms.pdb
+E:\____Downloads\20170117_trainingaccount\SourceCode\Phanquyen.Solution\Phanquyen.Forms\bin\Release\Phanquyen.Forms.dll
+E:\____Downloads\20170117_trainingaccount\SourceCode\Phanquyen.Solution\Phanquyen.Forms\bin\Release\Phanquyen.Forms.pdb
+E:\____Downloads\20170117_trainingaccount\SourceCode\Phanquyen.Solution\Phanquyen.Forms\bin\Release\DevExpress.Data.v12.2.dll
+E:\____Downloads\20170117_trainingaccount\SourceCode\Phanquyen.Solution\Phanquyen.Forms\bin\Release\DevExpress.Printing.v12.2.Core.dll
+E:\____Downloads\20170117_trainingaccount\SourceCode\Phanquyen.Solution\Phanquyen.Forms\bin\Release\DevExpress.Utils.v12.2.dll
+E:\____Downloads\20170117_trainingaccount\SourceCode\Phanquyen.Solution\Phanquyen.Forms\bin\Release\DevExpress.XtraBars.v12.2.dll
+E:\____Downloads\20170117_trainingaccount\SourceCode\Phanquyen.Solution\Phanquyen.Forms\bin\Release\DevExpress.XtraEditors.v12.2.dll
+E:\____Downloads\20170117_trainingaccount\SourceCode\Phanquyen.Solution\Phanquyen.Forms\bin\Release\DevExpress.XtraGrid.v12.2.dll
+E:\____Downloads\20170117_trainingaccount\SourceCode\Phanquyen.Solution\Phanquyen.Forms\bin\Release\DevExpress.XtraLayout.v12.2.dll
+E:\____Downloads\20170117_trainingaccount\SourceCode\Phanquyen.Solution\Phanquyen.Forms\bin\Release\DevExpress.XtraTreeList.v12.2.dll
+E:\____Downloads\20170117_trainingaccount\SourceCode\Phanquyen.Solution\Phanquyen.Forms\bin\Release\Lambda.BusinessObject.dll
+E:\____Downloads\20170117_trainingaccount\SourceCode\Phanquyen.Solution\Phanquyen.Forms\bin\Release\Lambda.ClientModel.dll
+E:\____Downloads\20170117_trainingaccount\SourceCode\Phanquyen.Solution\Phanquyen.Forms\bin\Release\Lambda.DynamicLoad.dll
+E:\____Downloads\20170117_trainingaccount\SourceCode\Phanquyen.Solution\Phanquyen.Forms\bin\Release\Microsoft.CSharp.dll
+E:\____Downloads\20170117_trainingaccount\SourceCode\Phanquyen.Solution\Phanquyen.Forms\bin\Release\Phanquyen.Model.dll
+E:\____Downloads\20170117_trainingaccount\SourceCode\Phanquyen.Solution\Phanquyen.Forms\bin\Release\Phanquyen.Presenter.dll
+E:\____Downloads\20170117_trainingaccount\SourceCode\Phanquyen.Solution\Phanquyen.Forms\bin\Release\Phanquyen.View.dll
+E:\____Downloads\20170117_trainingaccount\SourceCode\Phanquyen.Solution\Phanquyen.Forms\bin\Release\System.Data.DataSetExtensions.dll
+E:\____Downloads\20170117_trainingaccount\SourceCode\Phanquyen.Solution\Phanquyen.Forms\bin\Release\System.Data.dll
+E:\____Downloads\20170117_trainingaccount\SourceCode\Phanquyen.Solution\Phanquyen.Forms\bin\Release\System.dll
+E:\____Downloads\20170117_trainingaccount\SourceCode\Phanquyen.Solution\Phanquyen.Forms\bin\Release\System.Drawing.dll
+E:\____Downloads\20170117_trainingaccount\SourceCode\Phanquyen.Solution\Phanquyen.Forms\bin\Release\System.Windows.Forms.dll
+E:\____Downloads\20170117_trainingaccount\SourceCode\Phanquyen.Solution\Phanquyen.Forms\bin\Release\System.Xml.dll
+E:\____Downloads\20170117_trainingaccount\SourceCode\Phanquyen.Solution\Phanquyen.Forms\bin\Release\System.Xml.Linq.dll
+E:\____Downloads\20170117_trainingaccount\SourceCode\Phanquyen.Solution\Phanquyen.Forms\bin\Release\Lambda.Framework.dll
+E:\____Downloads\20170117_trainingaccount\SourceCode\Phanquyen.Solution\Phanquyen.Forms\bin\Release\Lambda.CoreService.dll
+E:\____Downloads\20170117_trainingaccount\SourceCode\Phanquyen.Solution\Phanquyen.Forms\bin\Release\Lambda.AutoService.dll
+E:\____Downloads\20170117_trainingaccount\SourceCode\Phanquyen.Solution\Phanquyen.Forms\bin\Release\Lambda.DataObject.dll
+E:\____Downloads\20170117_trainingaccount\SourceCode\Phanquyen.Solution\Phanquyen.Forms\bin\Release\Phanquyen.Model.pdb
+E:\____Downloads\20170117_trainingaccount\SourceCode\Phanquyen.Solution\Phanquyen.Forms\bin\Release\Phanquyen.Presenter.pdb
+E:\____Downloads\20170117_trainingaccount\SourceCode\Phanquyen.Solution\Phanquyen.Forms\bin\Release\Phanquyen.View.pdb
+E:\____Downloads\20170117_trainingaccount\SourceCode\Phanquyen.Solution\Phanquyen.Forms\bin\Release\DevExpress.Data.v12.2.xml
+E:\____Downloads\20170117_trainingaccount\SourceCode\Phanquyen.Solution\Phanquyen.Forms\bin\Release\DevExpress.Printing.v12.2.Core.xml
+E:\____Downloads\20170117_trainingaccount\SourceCode\Phanquyen.Solution\Phanquyen.Forms\bin\Release\DevExpress.Utils.v12.2.xml
+E:\____Downloads\20170117_trainingaccount\SourceCode\Phanquyen.Solution\Phanquyen.Forms\bin\Release\DevExpress.XtraBars.v12.2.xml
+E:\____Downloads\20170117_trainingaccount\SourceCode\Phanquyen.Solution\Phanquyen.Forms\bin\Release\DevExpress.XtraEditors.v12.2.xml
+E:\____Downloads\20170117_trainingaccount\SourceCode\Phanquyen.Solution\Phanquyen.Forms\bin\Release\DevExpress.XtraGrid.v12.2.xml
+E:\____Downloads\20170117_trainingaccount\SourceCode\Phanquyen.Solution\Phanquyen.Forms\bin\Release\DevExpress.XtraLayout.v12.2.xml
+E:\____Downloads\20170117_trainingaccount\SourceCode\Phanquyen.Solution\Phanquyen.Forms\bin\Release\DevExpress.XtraTreeList.v12.2.xml
+E:\____Downloads\20170117_trainingaccount\SourceCode\Phanquyen.Solution\Phanquyen.Forms\bin\Release\de\DevExpress.Data.v12.2.resources.dll
+E:\____Downloads\20170117_trainingaccount\SourceCode\Phanquyen.Solution\Phanquyen.Forms\bin\Release\es\DevExpress.Data.v12.2.resources.dll
+E:\____Downloads\20170117_trainingaccount\SourceCode\Phanquyen.Solution\Phanquyen.Forms\bin\Release\ja\DevExpress.Data.v12.2.resources.dll
+E:\____Downloads\20170117_trainingaccount\SourceCode\Phanquyen.Solution\Phanquyen.Forms\bin\Release\ru\DevExpress.Data.v12.2.resources.dll
+E:\____Downloads\20170117_trainingaccount\SourceCode\Phanquyen.Solution\Phanquyen.Forms\bin\Release\de\DevExpress.Printing.v12.2.Core.resources.dll
+E:\____Downloads\20170117_trainingaccount\SourceCode\Phanquyen.Solution\Phanquyen.Forms\bin\Release\es\DevExpress.Printing.v12.2.Core.resources.dll
+E:\____Downloads\20170117_trainingaccount\SourceCode\Phanquyen.Solution\Phanquyen.Forms\bin\Release\ja\DevExpress.Printing.v12.2.Core.resources.dll
+E:\____Downloads\20170117_trainingaccount\SourceCode\Phanquyen.Solution\Phanquyen.Forms\bin\Release\ru\DevExpress.Printing.v12.2.Core.resources.dll
+E:\____Downloads\20170117_trainingaccount\SourceCode\Phanquyen.Solution\Phanquyen.Forms\bin\Release\de\DevExpress.Utils.v12.2.resources.dll
+E:\____Downloads\20170117_trainingaccount\SourceCode\Phanquyen.Solution\Phanquyen.Forms\bin\Release\es\DevExpress.Utils.v12.2.resources.dll
+E:\____Downloads\20170117_trainingaccount\SourceCode\Phanquyen.Solution\Phanquyen.Forms\bin\Release\ja\DevExpress.Utils.v12.2.resources.dll
+E:\____Downloads\20170117_trainingaccount\SourceCode\Phanquyen.Solution\Phanquyen.Forms\bin\Release\ru\DevExpress.Utils.v12.2.resources.dll
+E:\____Downloads\20170117_trainingaccount\SourceCode\Phanquyen.Solution\Phanquyen.Forms\bin\Release\de\DevExpress.XtraBars.v12.2.resources.dll
+E:\____Downloads\20170117_trainingaccount\SourceCode\Phanquyen.Solution\Phanquyen.Forms\bin\Release\es\DevExpress.XtraBars.v12.2.resources.dll
+E:\____Downloads\20170117_trainingaccount\SourceCode\Phanquyen.Solution\Phanquyen.Forms\bin\Release\ja\DevExpress.XtraBars.v12.2.resources.dll
+E:\____Downloads\20170117_trainingaccount\SourceCode\Phanquyen.Solution\Phanquyen.Forms\bin\Release\ru\DevExpress.XtraBars.v12.2.resources.dll
+E:\____Downloads\20170117_trainingaccount\SourceCode\Phanquyen.Solution\Phanquyen.Forms\bin\Release\de\DevExpress.XtraEditors.v12.2.resources.dll
+E:\____Downloads\20170117_trainingaccount\SourceCode\Phanquyen.Solution\Phanquyen.Forms\bin\Release\es\DevExpress.XtraEditors.v12.2.resources.dll
+E:\____Downloads\20170117_trainingaccount\SourceCode\Phanquyen.Solution\Phanquyen.Forms\bin\Release\ja\DevExpress.XtraEditors.v12.2.resources.dll
+E:\____Downloads\20170117_trainingaccount\SourceCode\Phanquyen.Solution\Phanquyen.Forms\bin\Release\ru\DevExpress.XtraEditors.v12.2.resources.dll
+E:\____Downloads\20170117_trainingaccount\SourceCode\Phanquyen.Solution\Phanquyen.Forms\bin\Release\de\DevExpress.XtraGrid.v12.2.resources.dll
+E:\____Downloads\20170117_trainingaccount\SourceCode\Phanquyen.Solution\Phanquyen.Forms\bin\Release\es\DevExpress.XtraGrid.v12.2.resources.dll
+E:\____Downloads\20170117_trainingaccount\SourceCode\Phanquyen.Solution\Phanquyen.Forms\bin\Release\ja\DevExpress.XtraGrid.v12.2.resources.dll
+E:\____Downloads\20170117_trainingaccount\SourceCode\Phanquyen.Solution\Phanquyen.Forms\bin\Release\ru\DevExpress.XtraGrid.v12.2.resources.dll
+E:\____Downloads\20170117_trainingaccount\SourceCode\Phanquyen.Solution\Phanquyen.Forms\bin\Release\de\DevExpress.XtraLayout.v12.2.resources.dll
+E:\____Downloads\20170117_trainingaccount\SourceCode\Phanquyen.Solution\Phanquyen.Forms\bin\Release\es\DevExpress.XtraLayout.v12.2.resources.dll
+E:\____Downloads\20170117_trainingaccount\SourceCode\Phanquyen.Solution\Phanquyen.Forms\bin\Release\ja\DevExpress.XtraLayout.v12.2.resources.dll
+E:\____Downloads\20170117_trainingaccount\SourceCode\Phanquyen.Solution\Phanquyen.Forms\bin\Release\ru\DevExpress.XtraLayout.v12.2.resources.dll
+E:\____Downloads\20170117_trainingaccount\SourceCode\Phanquyen.Solution\Phanquyen.Forms\bin\Release\de\DevExpress.XtraTreeList.v12.2.resources.dll
+E:\____Downloads\20170117_trainingaccount\SourceCode\Phanquyen.Solution\Phanquyen.Forms\bin\Release\es\DevExpress.XtraTreeList.v12.2.resources.dll
+E:\____Downloads\20170117_trainingaccount\SourceCode\Phanquyen.Solution\Phanquyen.Forms\bin\Release\ja\DevExpress.XtraTreeList.v12.2.resources.dll
+E:\____Downloads\20170117_trainingaccount\SourceCode\Phanquyen.Solution\Phanquyen.Forms\bin\Release\ru\DevExpress.XtraTreeList.v12.2.resources.dll

@@ -1,0 +1,14 @@
+G:\Dropbox\_____Banhang\___Project\Service\AutoService\AutoFramework\bin\Release\AutoFramework.dll
+G:\Dropbox\_____Banhang\___Project\Service\AutoService\AutoFramework\bin\Release\AutoFramework.pdb
+G:\Dropbox\_____Banhang\___Project\Service\AutoService\AutoFramework\obj\Release\AutoFramework.csprojResolveAssemblyReference.cache
+G:\Dropbox\_____Banhang\___Project\Service\AutoService\AutoFramework\obj\Release\AutoFramework.dll
+G:\Dropbox\_____Banhang\___Project\Service\AutoService\AutoFramework\obj\Release\AutoFramework.pdb
+D:\tuantp@live.com\Dropbox\Cong nghe\BMIFramework\AutoFramework\bin\Release\AutoFramework.dll
+D:\tuantp@live.com\Dropbox\Cong nghe\BMIFramework\AutoFramework\bin\Release\AutoFramework.pdb
+D:\tuantp@live.com\Dropbox\Cong nghe\BMIFramework\AutoFramework\obj\Release\AutoFramework.dll
+D:\tuantp@live.com\Dropbox\Cong nghe\BMIFramework\AutoFramework\obj\Release\AutoFramework.pdb
+D:\tuantp@live.com\Dropbox\Cong nghe\BMIFramework\AutoFramework\obj\Release\AutoFramework.csprojResolveAssemblyReference.cache
+D:\tuantp@live.com\Dropbox\Cong nghe\LambdaFramework\AutoFramework\bin\Release\AutoFramework.dll
+D:\tuantp@live.com\Dropbox\Cong nghe\LambdaFramework\AutoFramework\bin\Release\AutoFramework.pdb
+D:\tuantp@live.com\Dropbox\Cong nghe\LambdaFramework\AutoFramework\obj\Release\AutoFramework.dll
+D:\tuantp@live.com\Dropbox\Cong nghe\LambdaFramework\AutoFramework\obj\Release\AutoFramework.pdb

@@ -1,0 +1,75 @@
+D:\Dropbox\QL DAY & HOC\TrainingAccounting.Solution\TrainingAccounting.Presenter\bin\Debug\TrainingAccounting.Presenter.dll
+D:\Dropbox\QL DAY & HOC\TrainingAccounting.Solution\TrainingAccounting.Presenter\bin\Debug\TrainingAccounting.Presenter.pdb
+D:\Dropbox\QL DAY & HOC\TrainingAccounting.Solution\TrainingAccounting.Presenter\bin\Debug\Lambda.BusinessObject.dll
+D:\Dropbox\QL DAY & HOC\TrainingAccounting.Solution\TrainingAccounting.Presenter\bin\Debug\Lambda.ClientModel.dll
+D:\Dropbox\QL DAY & HOC\TrainingAccounting.Solution\TrainingAccounting.Presenter\bin\Debug\TrainingAccounting.Model.dll
+D:\Dropbox\QL DAY & HOC\TrainingAccounting.Solution\TrainingAccounting.Presenter\bin\Debug\TrainingAccounting.View.dll
+D:\Dropbox\QL DAY & HOC\TrainingAccounting.Solution\TrainingAccounting.Presenter\bin\Debug\Lambda.Framework.dll
+D:\Dropbox\QL DAY & HOC\TrainingAccounting.Solution\TrainingAccounting.Presenter\bin\Debug\Lambda.CoreService.dll
+D:\Dropbox\QL DAY & HOC\TrainingAccounting.Solution\TrainingAccounting.Presenter\bin\Debug\Lambda.AutoService.dll
+D:\Dropbox\QL DAY & HOC\TrainingAccounting.Solution\TrainingAccounting.Presenter\bin\Debug\Lambda.DataObject.dll
+D:\Dropbox\QL DAY & HOC\TrainingAccounting.Solution\TrainingAccounting.Presenter\bin\Debug\Lambda.DynamicLoad.dll
+D:\Dropbox\QL DAY & HOC\TrainingAccounting.Solution\TrainingAccounting.Presenter\bin\Debug\TrainingAccounting.Model.pdb
+D:\Dropbox\QL DAY & HOC\TrainingAccounting.Solution\TrainingAccounting.Presenter\bin\Debug\TrainingAccounting.View.pdb
+D:\Dropbox\QL DAY & HOC\TrainingAccounting.Solution\TrainingAccounting.Presenter\obj\Debug\TrainingAccounting.Presenter.csprojResolveAssemblyReference.cache
+D:\Dropbox\QL DAY & HOC\TrainingAccounting.Solution\TrainingAccounting.Presenter\obj\Debug\TrainingAccounting.Presenter.dll
+D:\Dropbox\QL DAY & HOC\TrainingAccounting.Solution\TrainingAccounting.Presenter\obj\Debug\TrainingAccounting.Presenter.pdb
+D:\Dropbox\QL DAY & HOC\TrainingAccounting.Solution\TrainingAccounting.Presenter\bin\Debug\Microsoft.CSharp.dll
+D:\Dropbox\QL DAY & HOC\TrainingAccounting.Solution\TrainingAccounting.Presenter\bin\Debug\System.Configuration.dll
+D:\Dropbox\QL DAY & HOC\TrainingAccounting.Solution\TrainingAccounting.Presenter\bin\Debug\System.Data.DataSetExtensions.dll
+D:\Dropbox\QL DAY & HOC\TrainingAccounting.Solution\TrainingAccounting.Presenter\bin\Debug\System.Data.dll
+D:\Dropbox\QL DAY & HOC\TrainingAccounting.Solution\TrainingAccounting.Presenter\bin\Debug\System.dll
+D:\Dropbox\QL DAY & HOC\TrainingAccounting.Solution\TrainingAccounting.Presenter\bin\Debug\System.Xml.dll
+D:\Dropbox\QL DAY & HOC\TrainingAccounting.Solution\TrainingAccounting.Presenter\bin\Debug\System.Xml.Linq.dll
+E:\____Downloads\20170117_trainingaccount\SourceCode\Lambda.Solution\TrainingAccounting.Presenter\bin\Debug\TrainingAccounting.Presenter.dll
+E:\____Downloads\20170117_trainingaccount\SourceCode\Lambda.Solution\TrainingAccounting.Presenter\bin\Debug\TrainingAccounting.Presenter.pdb
+E:\____Downloads\20170117_trainingaccount\SourceCode\Lambda.Solution\TrainingAccounting.Presenter\bin\Debug\Lambda.BusinessObject.dll
+E:\____Downloads\20170117_trainingaccount\SourceCode\Lambda.Solution\TrainingAccounting.Presenter\bin\Debug\Lambda.ClientModel.dll
+E:\____Downloads\20170117_trainingaccount\SourceCode\Lambda.Solution\TrainingAccounting.Presenter\bin\Debug\Microsoft.CSharp.dll
+E:\____Downloads\20170117_trainingaccount\SourceCode\Lambda.Solution\TrainingAccounting.Presenter\bin\Debug\System.Configuration.dll
+E:\____Downloads\20170117_trainingaccount\SourceCode\Lambda.Solution\TrainingAccounting.Presenter\bin\Debug\System.Data.DataSetExtensions.dll
+E:\____Downloads\20170117_trainingaccount\SourceCode\Lambda.Solution\TrainingAccounting.Presenter\bin\Debug\System.Data.dll
+E:\____Downloads\20170117_trainingaccount\SourceCode\Lambda.Solution\TrainingAccounting.Presenter\bin\Debug\System.dll
+E:\____Downloads\20170117_trainingaccount\SourceCode\Lambda.Solution\TrainingAccounting.Presenter\bin\Debug\System.Xml.dll
+E:\____Downloads\20170117_trainingaccount\SourceCode\Lambda.Solution\TrainingAccounting.Presenter\bin\Debug\System.Xml.Linq.dll
+E:\____Downloads\20170117_trainingaccount\SourceCode\Lambda.Solution\TrainingAccounting.Presenter\bin\Debug\TrainingAccounting.Model.dll
+E:\____Downloads\20170117_trainingaccount\SourceCode\Lambda.Solution\TrainingAccounting.Presenter\bin\Debug\TrainingAccounting.View.dll
+E:\____Downloads\20170117_trainingaccount\SourceCode\Lambda.Solution\TrainingAccounting.Presenter\bin\Debug\Lambda.Framework.dll
+E:\____Downloads\20170117_trainingaccount\SourceCode\Lambda.Solution\TrainingAccounting.Presenter\bin\Debug\Lambda.CoreService.dll
+E:\____Downloads\20170117_trainingaccount\SourceCode\Lambda.Solution\TrainingAccounting.Presenter\bin\Debug\Lambda.DynamicLoad.dll
+E:\____Downloads\20170117_trainingaccount\SourceCode\Lambda.Solution\TrainingAccounting.Presenter\bin\Debug\TrainingAccounting.Model.pdb
+E:\____Downloads\20170117_trainingaccount\SourceCode\Lambda.Solution\TrainingAccounting.Presenter\bin\Debug\TrainingAccounting.View.pdb
+E:\____Downloads\20170117_trainingaccount\SourceCode\Lambda.Solution\TrainingAccounting.Presenter\obj\Debug\TrainingAccounting.Presenter.csprojResolveAssemblyReference.cache
+E:\____Downloads\20170117_trainingaccount\SourceCode\Lambda.Solution\TrainingAccounting.Presenter\obj\Debug\TrainingAccounting.Presenter.dll
+E:\____Downloads\20170117_trainingaccount\SourceCode\Lambda.Solution\TrainingAccounting.Presenter\obj\Debug\TrainingAccounting.Presenter.pdb
+E:\____Downloads\20170117_trainingaccount\SourceCode\Lambda.Solution\TrainingAccounting.Presenter\bin\Debug\Lambda.BusinessObject.pdb
+E:\____Downloads\20170117_trainingaccount\SourceCode\Lambda.Solution\TrainingAccounting.Presenter\bin\Debug\Lambda.ClientModel.pdb
+E:\____Downloads\20170117_trainingaccount\SourceCode\Lambda.Solution\TrainingAccounting.Presenter\bin\Debug\Lambda.Framework.pdb
+E:\____Downloads\20170117_trainingaccount\SourceCode\Lambda.Solution\TrainingAccounting.Presenter\bin\Debug\Lambda.CoreService.pdb
+E:\____Downloads\20170117_trainingaccount\SourceCode\Lambda.Solution\TrainingAccounting.Presenter\bin\Debug\Lambda.DynamicLoad.pdb
+D:\01.DH_SuPham\Lambda.Solution\TrainingAccounting.Presenter\bin\Debug\TrainingAccounting.Presenter.dll
+D:\01.DH_SuPham\Lambda.Solution\TrainingAccounting.Presenter\bin\Debug\TrainingAccounting.Presenter.pdb
+D:\01.DH_SuPham\Lambda.Solution\TrainingAccounting.Presenter\bin\Debug\Lambda.BusinessObject.dll
+D:\01.DH_SuPham\Lambda.Solution\TrainingAccounting.Presenter\bin\Debug\Lambda.ClientModel.dll
+D:\01.DH_SuPham\Lambda.Solution\TrainingAccounting.Presenter\bin\Debug\Microsoft.CSharp.dll
+D:\01.DH_SuPham\Lambda.Solution\TrainingAccounting.Presenter\bin\Debug\System.Configuration.dll
+D:\01.DH_SuPham\Lambda.Solution\TrainingAccounting.Presenter\bin\Debug\System.Data.DataSetExtensions.dll
+D:\01.DH_SuPham\Lambda.Solution\TrainingAccounting.Presenter\bin\Debug\System.Data.dll
+D:\01.DH_SuPham\Lambda.Solution\TrainingAccounting.Presenter\bin\Debug\System.dll
+D:\01.DH_SuPham\Lambda.Solution\TrainingAccounting.Presenter\bin\Debug\System.Xml.dll
+D:\01.DH_SuPham\Lambda.Solution\TrainingAccounting.Presenter\bin\Debug\System.Xml.Linq.dll
+D:\01.DH_SuPham\Lambda.Solution\TrainingAccounting.Presenter\bin\Debug\TrainingAccounting.Model.dll
+D:\01.DH_SuPham\Lambda.Solution\TrainingAccounting.Presenter\bin\Debug\TrainingAccounting.View.dll
+D:\01.DH_SuPham\Lambda.Solution\TrainingAccounting.Presenter\bin\Debug\Lambda.Framework.dll
+D:\01.DH_SuPham\Lambda.Solution\TrainingAccounting.Presenter\bin\Debug\Lambda.CoreService.dll
+D:\01.DH_SuPham\Lambda.Solution\TrainingAccounting.Presenter\bin\Debug\Lambda.DynamicLoad.dll
+D:\01.DH_SuPham\Lambda.Solution\TrainingAccounting.Presenter\bin\Debug\Lambda.BusinessObject.pdb
+D:\01.DH_SuPham\Lambda.Solution\TrainingAccounting.Presenter\bin\Debug\Lambda.ClientModel.pdb
+D:\01.DH_SuPham\Lambda.Solution\TrainingAccounting.Presenter\bin\Debug\TrainingAccounting.Model.pdb
+D:\01.DH_SuPham\Lambda.Solution\TrainingAccounting.Presenter\bin\Debug\TrainingAccounting.View.pdb
+D:\01.DH_SuPham\Lambda.Solution\TrainingAccounting.Presenter\bin\Debug\Lambda.Framework.pdb
+D:\01.DH_SuPham\Lambda.Solution\TrainingAccounting.Presenter\bin\Debug\Lambda.CoreService.pdb
+D:\01.DH_SuPham\Lambda.Solution\TrainingAccounting.Presenter\bin\Debug\Lambda.DynamicLoad.pdb
+D:\01.DH_SuPham\Lambda.Solution\TrainingAccounting.Presenter\obj\Debug\TrainingAccounting.Presenter.csprojResolveAssemblyReference.cache
+D:\01.DH_SuPham\Lambda.Solution\TrainingAccounting.Presenter\obj\Debug\TrainingAccounting.Presenter.dll
+D:\01.DH_SuPham\Lambda.Solution\TrainingAccounting.Presenter\obj\Debug\TrainingAccounting.Presenter.pdb

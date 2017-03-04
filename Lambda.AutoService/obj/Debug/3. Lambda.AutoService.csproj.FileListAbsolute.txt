@@ -1,0 +1,43 @@
+D:\tuantp@live.com\Dropbox\Cong nghe\LambdaFramework\Lambda.AutoService\bin\Debug\Lambda.AutoService.dll
+D:\tuantp@live.com\Dropbox\Cong nghe\LambdaFramework\Lambda.AutoService\bin\Debug\Lambda.AutoService.pdb
+D:\tuantp@live.com\Dropbox\Cong nghe\LambdaFramework\Lambda.AutoService\bin\Debug\Lambda.BusinessObject.dll
+D:\tuantp@live.com\Dropbox\Cong nghe\LambdaFramework\Lambda.AutoService\bin\Debug\Lambda.CoreService.dll
+D:\tuantp@live.com\Dropbox\Cong nghe\LambdaFramework\Lambda.AutoService\bin\Debug\Lambda.DataObject.dll
+D:\tuantp@live.com\Dropbox\Cong nghe\LambdaFramework\Lambda.AutoService\bin\Debug\Lambda.Framework.dll
+D:\tuantp@live.com\Dropbox\Cong nghe\LambdaFramework\Lambda.AutoService\bin\Debug\Lambda.BusinessObject.pdb
+D:\tuantp@live.com\Dropbox\Cong nghe\LambdaFramework\Lambda.AutoService\bin\Debug\Lambda.CoreService.pdb
+D:\tuantp@live.com\Dropbox\Cong nghe\LambdaFramework\Lambda.AutoService\bin\Debug\Lambda.DataObject.pdb
+D:\tuantp@live.com\Dropbox\Cong nghe\LambdaFramework\Lambda.AutoService\bin\Debug\Lambda.Framework.pdb
+D:\tuantp@live.com\Dropbox\Cong nghe\LambdaFramework\Lambda.AutoService\obj\Debug\3. Lambda.AutoService.csprojResolveAssemblyReference.cache
+D:\tuantp@live.com\Dropbox\Cong nghe\LambdaFramework\Lambda.AutoService\obj\Debug\Lambda.AutoService.dll
+D:\tuantp@live.com\Dropbox\Cong nghe\LambdaFramework\Lambda.AutoService\obj\Debug\Lambda.AutoService.pdb
+E:\____Downloads\20170117_trainingaccount\SourceCode\Lambda.Solution\Lambda.AutoService\bin\Debug\Lambda.AutoService.dll
+E:\____Downloads\20170117_trainingaccount\SourceCode\Lambda.Solution\Lambda.AutoService\bin\Debug\Lambda.AutoService.pdb
+E:\____Downloads\20170117_trainingaccount\SourceCode\Lambda.Solution\Lambda.AutoService\bin\Debug\Lambda.BusinessObject.dll
+E:\____Downloads\20170117_trainingaccount\SourceCode\Lambda.Solution\Lambda.AutoService\bin\Debug\Lambda.CoreService.dll
+E:\____Downloads\20170117_trainingaccount\SourceCode\Lambda.Solution\Lambda.AutoService\bin\Debug\Lambda.DataObject.dll
+E:\____Downloads\20170117_trainingaccount\SourceCode\Lambda.Solution\Lambda.AutoService\bin\Debug\Lambda.Framework.dll
+E:\____Downloads\20170117_trainingaccount\SourceCode\Lambda.Solution\Lambda.AutoService\bin\Debug\Lambda.DynamicLoad.dll
+E:\____Downloads\20170117_trainingaccount\SourceCode\Lambda.Solution\Lambda.AutoService\bin\Debug\Lambda.BusinessObject.pdb
+E:\____Downloads\20170117_trainingaccount\SourceCode\Lambda.Solution\Lambda.AutoService\bin\Debug\Lambda.CoreService.pdb
+E:\____Downloads\20170117_trainingaccount\SourceCode\Lambda.Solution\Lambda.AutoService\bin\Debug\Lambda.DataObject.pdb
+E:\____Downloads\20170117_trainingaccount\SourceCode\Lambda.Solution\Lambda.AutoService\bin\Debug\Lambda.Framework.pdb
+E:\____Downloads\20170117_trainingaccount\SourceCode\Lambda.Solution\Lambda.AutoService\bin\Debug\Lambda.DynamicLoad.pdb
+E:\____Downloads\20170117_trainingaccount\SourceCode\Lambda.Solution\Lambda.AutoService\obj\Debug\3. Lambda.AutoService.csprojResolveAssemblyReference.cache
+E:\____Downloads\20170117_trainingaccount\SourceCode\Lambda.Solution\Lambda.AutoService\obj\Debug\Lambda.AutoService.dll
+E:\____Downloads\20170117_trainingaccount\SourceCode\Lambda.Solution\Lambda.AutoService\obj\Debug\Lambda.AutoService.pdb
+D:\01.DH_SuPham\Lambda.Solution\Lambda.AutoService\bin\Debug\Lambda.AutoService.dll
+D:\01.DH_SuPham\Lambda.Solution\Lambda.AutoService\bin\Debug\Lambda.AutoService.pdb
+D:\01.DH_SuPham\Lambda.Solution\Lambda.AutoService\bin\Debug\Lambda.BusinessObject.dll
+D:\01.DH_SuPham\Lambda.Solution\Lambda.AutoService\bin\Debug\Lambda.CoreService.dll
+D:\01.DH_SuPham\Lambda.Solution\Lambda.AutoService\bin\Debug\Lambda.DataObject.dll
+D:\01.DH_SuPham\Lambda.Solution\Lambda.AutoService\bin\Debug\Lambda.Framework.dll
+D:\01.DH_SuPham\Lambda.Solution\Lambda.AutoService\bin\Debug\Lambda.DynamicLoad.dll
+D:\01.DH_SuPham\Lambda.Solution\Lambda.AutoService\bin\Debug\Lambda.BusinessObject.pdb
+D:\01.DH_SuPham\Lambda.Solution\Lambda.AutoService\bin\Debug\Lambda.CoreService.pdb
+D:\01.DH_SuPham\Lambda.Solution\Lambda.AutoService\bin\Debug\Lambda.DataObject.pdb
+D:\01.DH_SuPham\Lambda.Solution\Lambda.AutoService\bin\Debug\Lambda.Framework.pdb
+D:\01.DH_SuPham\Lambda.Solution\Lambda.AutoService\bin\Debug\Lambda.DynamicLoad.pdb
+D:\01.DH_SuPham\Lambda.Solution\Lambda.AutoService\obj\Debug\3. Lambda.AutoService.csprojResolveAssemblyReference.cache
+D:\01.DH_SuPham\Lambda.Solution\Lambda.AutoService\obj\Debug\Lambda.AutoService.dll
+D:\01.DH_SuPham\Lambda.Solution\Lambda.AutoService\obj\Debug\Lambda.AutoService.pdb

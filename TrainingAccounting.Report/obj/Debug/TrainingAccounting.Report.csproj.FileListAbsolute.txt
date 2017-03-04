@@ -1,0 +1,108 @@
+D:\Dropbox\QL DAY & HOC\TrainingAccounting.Solution\TrainingAccounting.Report\bin\Debug\TrainingAccounting.Report.dll
+D:\Dropbox\QL DAY & HOC\TrainingAccounting.Solution\TrainingAccounting.Report\bin\Debug\TrainingAccounting.Report.pdb
+D:\Dropbox\QL DAY & HOC\TrainingAccounting.Solution\TrainingAccounting.Report\bin\Debug\Lambda.BusinessObject.dll
+D:\Dropbox\QL DAY & HOC\TrainingAccounting.Solution\TrainingAccounting.Report\bin\Debug\Lambda.ClientModel.dll
+D:\Dropbox\QL DAY & HOC\TrainingAccounting.Solution\TrainingAccounting.Report\bin\Debug\TrainingAccounting.Model.dll
+D:\Dropbox\QL DAY & HOC\TrainingAccounting.Solution\TrainingAccounting.Report\bin\Debug\Lambda.Framework.dll
+D:\Dropbox\QL DAY & HOC\TrainingAccounting.Solution\TrainingAccounting.Report\bin\Debug\Lambda.CoreService.dll
+D:\Dropbox\QL DAY & HOC\TrainingAccounting.Solution\TrainingAccounting.Report\bin\Debug\Lambda.AutoService.dll
+D:\Dropbox\QL DAY & HOC\TrainingAccounting.Solution\TrainingAccounting.Report\bin\Debug\Lambda.DataObject.dll
+D:\Dropbox\QL DAY & HOC\TrainingAccounting.Solution\TrainingAccounting.Report\bin\Debug\Lambda.DynamicLoad.dll
+D:\Dropbox\QL DAY & HOC\TrainingAccounting.Solution\TrainingAccounting.Report\bin\Debug\TrainingAccounting.Model.pdb
+D:\Dropbox\QL DAY & HOC\TrainingAccounting.Solution\TrainingAccounting.Report\obj\Debug\TrainingAccounting.Report.csprojResolveAssemblyReference.cache
+D:\Dropbox\QL DAY & HOC\TrainingAccounting.Solution\TrainingAccounting.Report\obj\Debug\TrainingAccounting.Report.AllPhieubaoHocphiReport.resources
+D:\Dropbox\QL DAY & HOC\TrainingAccounting.Solution\TrainingAccounting.Report\obj\Debug\TrainingAccounting.Report.BangluongChuyenkhoanReport.resources
+D:\Dropbox\QL DAY & HOC\TrainingAccounting.Solution\TrainingAccounting.Report\obj\Debug\TrainingAccounting.Report.ChitietPhieubaoHocphiReport.resources
+D:\Dropbox\QL DAY & HOC\TrainingAccounting.Solution\TrainingAccounting.Report\obj\Debug\TrainingAccounting.Report.DanhsachHocphiTreReport.resources
+D:\Dropbox\QL DAY & HOC\TrainingAccounting.Solution\TrainingAccounting.Report\obj\Debug\TrainingAccounting.Report.DanhsachLuongNhanvienReport.resources
+D:\Dropbox\QL DAY & HOC\TrainingAccounting.Solution\TrainingAccounting.Report\obj\Debug\TrainingAccounting.Report.DiemdanhTreReport.resources
+D:\Dropbox\QL DAY & HOC\TrainingAccounting.Solution\TrainingAccounting.Report\obj\Debug\TrainingAccounting.Report.PhieubaoHocphiReport.resources
+D:\Dropbox\QL DAY & HOC\TrainingAccounting.Solution\TrainingAccounting.Report\obj\Debug\TrainingAccounting.Report.PhieubaoLuongReport.resources
+D:\Dropbox\QL DAY & HOC\TrainingAccounting.Solution\TrainingAccounting.Report\obj\Debug\TrainingAccounting.Report.csproj.GenerateResource.Cache
+D:\Dropbox\QL DAY & HOC\TrainingAccounting.Solution\TrainingAccounting.Report\obj\Debug\TrainingAccounting.Report.dll.licenses
+D:\Dropbox\QL DAY & HOC\TrainingAccounting.Solution\TrainingAccounting.Report\obj\Debug\TrainingAccounting.Report.dll
+D:\Dropbox\QL DAY & HOC\TrainingAccounting.Solution\TrainingAccounting.Report\obj\Debug\TrainingAccounting.Report.pdb
+D:\Dropbox\QL DAY & HOC\TrainingAccounting.Solution\TrainingAccounting.Report\obj\Debug\TrainingAccounting.Report.PhieuDangkyLichhocReport.resources
+D:\Dropbox\QL DAY & HOC\TrainingAccounting.Solution\TrainingAccounting.Report\obj\Debug\TrainingAccounting.Report.PhieuDangkyLichdayReport.resources
+D:\Dropbox\QL DAY & HOC\TrainingAccounting.Solution\TrainingAccounting.Report\obj\Debug\TrainingAccounting.Report.PhieuDangkyTreReport.resources
+D:\Dropbox\QL DAY & HOC\TrainingAccounting.Solution\TrainingAccounting.Report\obj\Debug\TrainingAccounting.Report.DanhsachTreReport.resources
+D:\Dropbox\QL DAY & HOC\TrainingAccounting.Solution\TrainingAccounting.Report\obj\Debug\TrainingAccounting.Report.ThuChiReport.resources
+D:\Dropbox\QL DAY & HOC\TrainingAccounting.Solution\TrainingAccounting.Report\obj\Debug\TrainingAccounting.Report.PhieuXuatSachReport.resources
+D:\Dropbox\QL DAY & HOC\TrainingAccounting.Solution\TrainingAccounting.Report\obj\Debug\TrainingAccounting.Report.PhieuThuSachReport.resources
+D:\Dropbox\QL DAY & HOC\TrainingAccounting.Solution\TrainingAccounting.Report\obj\Debug\TrainingAccounting.Report.Thu_ChiReport.resources
+D:\Dropbox\QL DAY & HOC\TrainingAccounting.Solution\TrainingAccounting.Report\bin\Debug\Info.dll
+D:\Dropbox\QL DAY & HOC\TrainingAccounting.Solution\TrainingAccounting.Report\bin\Debug\Info.pdb
+E:\____Downloads\20170117_trainingaccount\SourceCode\Lambda.Solution\TrainingAccounting.Report\bin\Debug\TrainingAccounting.Report.dll
+E:\____Downloads\20170117_trainingaccount\SourceCode\Lambda.Solution\TrainingAccounting.Report\bin\Debug\TrainingAccounting.Report.pdb
+E:\____Downloads\20170117_trainingaccount\SourceCode\Lambda.Solution\TrainingAccounting.Report\bin\Debug\Info.dll
+E:\____Downloads\20170117_trainingaccount\SourceCode\Lambda.Solution\TrainingAccounting.Report\bin\Debug\Lambda.BusinessObject.dll
+E:\____Downloads\20170117_trainingaccount\SourceCode\Lambda.Solution\TrainingAccounting.Report\bin\Debug\Lambda.ClientModel.dll
+E:\____Downloads\20170117_trainingaccount\SourceCode\Lambda.Solution\TrainingAccounting.Report\bin\Debug\TrainingAccounting.Model.dll
+E:\____Downloads\20170117_trainingaccount\SourceCode\Lambda.Solution\TrainingAccounting.Report\bin\Debug\Lambda.Framework.dll
+E:\____Downloads\20170117_trainingaccount\SourceCode\Lambda.Solution\TrainingAccounting.Report\bin\Debug\Lambda.CoreService.dll
+E:\____Downloads\20170117_trainingaccount\SourceCode\Lambda.Solution\TrainingAccounting.Report\bin\Debug\Lambda.DynamicLoad.dll
+E:\____Downloads\20170117_trainingaccount\SourceCode\Lambda.Solution\TrainingAccounting.Report\bin\Debug\TrainingAccounting.Model.pdb
+E:\____Downloads\20170117_trainingaccount\SourceCode\Lambda.Solution\TrainingAccounting.Report\bin\Debug\Info.pdb
+E:\____Downloads\20170117_trainingaccount\SourceCode\Lambda.Solution\TrainingAccounting.Report\obj\Debug\TrainingAccounting.Report.csprojResolveAssemblyReference.cache
+E:\____Downloads\20170117_trainingaccount\SourceCode\Lambda.Solution\TrainingAccounting.Report\obj\Debug\TrainingAccounting.Report.AllPhieubaoHocphiReport.resources
+E:\____Downloads\20170117_trainingaccount\SourceCode\Lambda.Solution\TrainingAccounting.Report\obj\Debug\TrainingAccounting.Report.BangluongChuyenkhoanReport.resources
+E:\____Downloads\20170117_trainingaccount\SourceCode\Lambda.Solution\TrainingAccounting.Report\obj\Debug\TrainingAccounting.Report.ChitietPhieubaoHocphiReport.resources
+E:\____Downloads\20170117_trainingaccount\SourceCode\Lambda.Solution\TrainingAccounting.Report\obj\Debug\TrainingAccounting.Report.DanhsachHocphiTreReport.resources
+E:\____Downloads\20170117_trainingaccount\SourceCode\Lambda.Solution\TrainingAccounting.Report\obj\Debug\TrainingAccounting.Report.DanhsachLuongNhanvienReport.resources
+E:\____Downloads\20170117_trainingaccount\SourceCode\Lambda.Solution\TrainingAccounting.Report\obj\Debug\TrainingAccounting.Report.DanhsachTreReport.resources
+E:\____Downloads\20170117_trainingaccount\SourceCode\Lambda.Solution\TrainingAccounting.Report\obj\Debug\TrainingAccounting.Report.DiemdanhTreReport.resources
+E:\____Downloads\20170117_trainingaccount\SourceCode\Lambda.Solution\TrainingAccounting.Report\obj\Debug\TrainingAccounting.Report.PhieubaoHocphiReport.resources
+E:\____Downloads\20170117_trainingaccount\SourceCode\Lambda.Solution\TrainingAccounting.Report\obj\Debug\TrainingAccounting.Report.PhieubaoLuongReport.resources
+E:\____Downloads\20170117_trainingaccount\SourceCode\Lambda.Solution\TrainingAccounting.Report\obj\Debug\TrainingAccounting.Report.PhieuDangkyLichdayReport.resources
+E:\____Downloads\20170117_trainingaccount\SourceCode\Lambda.Solution\TrainingAccounting.Report\obj\Debug\TrainingAccounting.Report.PhieuDangkyLichhocReport.resources
+E:\____Downloads\20170117_trainingaccount\SourceCode\Lambda.Solution\TrainingAccounting.Report\obj\Debug\TrainingAccounting.Report.PhieuDangkyTreReport.resources
+E:\____Downloads\20170117_trainingaccount\SourceCode\Lambda.Solution\TrainingAccounting.Report\obj\Debug\TrainingAccounting.Report.PhieuThuSachReport.resources
+E:\____Downloads\20170117_trainingaccount\SourceCode\Lambda.Solution\TrainingAccounting.Report\obj\Debug\TrainingAccounting.Report.PhieuXuatSachReport.resources
+E:\____Downloads\20170117_trainingaccount\SourceCode\Lambda.Solution\TrainingAccounting.Report\obj\Debug\TrainingAccounting.Report.ThuChiReport.resources
+E:\____Downloads\20170117_trainingaccount\SourceCode\Lambda.Solution\TrainingAccounting.Report\obj\Debug\TrainingAccounting.Report.Thu_ChiReport.resources
+E:\____Downloads\20170117_trainingaccount\SourceCode\Lambda.Solution\TrainingAccounting.Report\obj\Debug\TrainingAccounting.Report.csproj.GenerateResource.Cache
+E:\____Downloads\20170117_trainingaccount\SourceCode\Lambda.Solution\TrainingAccounting.Report\obj\Debug\TrainingAccounting.Report.dll.licenses
+E:\____Downloads\20170117_trainingaccount\SourceCode\Lambda.Solution\TrainingAccounting.Report\obj\Debug\TrainingAccounting.Report.dll
+E:\____Downloads\20170117_trainingaccount\SourceCode\Lambda.Solution\TrainingAccounting.Report\obj\Debug\TrainingAccounting.Report.pdb
+E:\____Downloads\20170117_trainingaccount\SourceCode\Lambda.Solution\TrainingAccounting.Report\bin\Debug\Lambda.BusinessObject.pdb
+E:\____Downloads\20170117_trainingaccount\SourceCode\Lambda.Solution\TrainingAccounting.Report\bin\Debug\Lambda.ClientModel.pdb
+E:\____Downloads\20170117_trainingaccount\SourceCode\Lambda.Solution\TrainingAccounting.Report\bin\Debug\Lambda.Framework.pdb
+E:\____Downloads\20170117_trainingaccount\SourceCode\Lambda.Solution\TrainingAccounting.Report\bin\Debug\Lambda.CoreService.pdb
+E:\____Downloads\20170117_trainingaccount\SourceCode\Lambda.Solution\TrainingAccounting.Report\bin\Debug\Lambda.DynamicLoad.pdb
+D:\01.DH_SuPham\Lambda.Solution\TrainingAccounting.Report\bin\Debug\TrainingAccounting.Report.dll
+D:\01.DH_SuPham\Lambda.Solution\TrainingAccounting.Report\bin\Debug\TrainingAccounting.Report.pdb
+D:\01.DH_SuPham\Lambda.Solution\TrainingAccounting.Report\bin\Debug\Info.dll
+D:\01.DH_SuPham\Lambda.Solution\TrainingAccounting.Report\bin\Debug\Lambda.BusinessObject.dll
+D:\01.DH_SuPham\Lambda.Solution\TrainingAccounting.Report\bin\Debug\Lambda.ClientModel.dll
+D:\01.DH_SuPham\Lambda.Solution\TrainingAccounting.Report\bin\Debug\TrainingAccounting.Model.dll
+D:\01.DH_SuPham\Lambda.Solution\TrainingAccounting.Report\bin\Debug\Lambda.Framework.dll
+D:\01.DH_SuPham\Lambda.Solution\TrainingAccounting.Report\bin\Debug\Lambda.CoreService.dll
+D:\01.DH_SuPham\Lambda.Solution\TrainingAccounting.Report\bin\Debug\Lambda.DynamicLoad.dll
+D:\01.DH_SuPham\Lambda.Solution\TrainingAccounting.Report\bin\Debug\Info.pdb
+D:\01.DH_SuPham\Lambda.Solution\TrainingAccounting.Report\bin\Debug\Lambda.BusinessObject.pdb
+D:\01.DH_SuPham\Lambda.Solution\TrainingAccounting.Report\bin\Debug\Lambda.ClientModel.pdb
+D:\01.DH_SuPham\Lambda.Solution\TrainingAccounting.Report\bin\Debug\TrainingAccounting.Model.pdb
+D:\01.DH_SuPham\Lambda.Solution\TrainingAccounting.Report\bin\Debug\Lambda.Framework.pdb
+D:\01.DH_SuPham\Lambda.Solution\TrainingAccounting.Report\bin\Debug\Lambda.CoreService.pdb
+D:\01.DH_SuPham\Lambda.Solution\TrainingAccounting.Report\bin\Debug\Lambda.DynamicLoad.pdb
+D:\01.DH_SuPham\Lambda.Solution\TrainingAccounting.Report\obj\Debug\TrainingAccounting.Report.csprojResolveAssemblyReference.cache
+D:\01.DH_SuPham\Lambda.Solution\TrainingAccounting.Report\obj\Debug\TrainingAccounting.Report.AllPhieubaoHocphiReport.resources
+D:\01.DH_SuPham\Lambda.Solution\TrainingAccounting.Report\obj\Debug\TrainingAccounting.Report.BangluongChuyenkhoanReport.resources
+D:\01.DH_SuPham\Lambda.Solution\TrainingAccounting.Report\obj\Debug\TrainingAccounting.Report.ChitietPhieubaoHocphiReport.resources
+D:\01.DH_SuPham\Lambda.Solution\TrainingAccounting.Report\obj\Debug\TrainingAccounting.Report.DanhsachHocphiTreReport.resources
+D:\01.DH_SuPham\Lambda.Solution\TrainingAccounting.Report\obj\Debug\TrainingAccounting.Report.DanhsachLuongNhanvienReport.resources
+D:\01.DH_SuPham\Lambda.Solution\TrainingAccounting.Report\obj\Debug\TrainingAccounting.Report.DanhsachTreReport.resources
+D:\01.DH_SuPham\Lambda.Solution\TrainingAccounting.Report\obj\Debug\TrainingAccounting.Report.DiemdanhTreReport.resources
+D:\01.DH_SuPham\Lambda.Solution\TrainingAccounting.Report\obj\Debug\TrainingAccounting.Report.PhieubaoHocphiReport.resources
+D:\01.DH_SuPham\Lambda.Solution\TrainingAccounting.Report\obj\Debug\TrainingAccounting.Report.PhieubaoLuongReport.resources
+D:\01.DH_SuPham\Lambda.Solution\TrainingAccounting.Report\obj\Debug\TrainingAccounting.Report.PhieuDangkyLichdayReport.resources
+D:\01.DH_SuPham\Lambda.Solution\TrainingAccounting.Report\obj\Debug\TrainingAccounting.Report.PhieuDangkyLichhocReport.resources
+D:\01.DH_SuPham\Lambda.Solution\TrainingAccounting.Report\obj\Debug\TrainingAccounting.Report.PhieuDangkyTreReport.resources
+D:\01.DH_SuPham\Lambda.Solution\TrainingAccounting.Report\obj\Debug\TrainingAccounting.Report.PhieuThuSachReport.resources
+D:\01.DH_SuPham\Lambda.Solution\TrainingAccounting.Report\obj\Debug\TrainingAccounting.Report.PhieuXuatSachReport.resources
+D:\01.DH_SuPham\Lambda.Solution\TrainingAccounting.Report\obj\Debug\TrainingAccounting.Report.ThuChiReport.resources
+D:\01.DH_SuPham\Lambda.Solution\TrainingAccounting.Report\obj\Debug\TrainingAccounting.Report.Thu_ChiReport.resources
+D:\01.DH_SuPham\Lambda.Solution\TrainingAccounting.Report\obj\Debug\TrainingAccounting.Report.csproj.GenerateResource.Cache
+D:\01.DH_SuPham\Lambda.Solution\TrainingAccounting.Report\obj\Debug\TrainingAccounting.Report.dll.licenses
+D:\01.DH_SuPham\Lambda.Solution\TrainingAccounting.Report\obj\Debug\TrainingAccounting.Report.dll
+D:\01.DH_SuPham\Lambda.Solution\TrainingAccounting.Report\obj\Debug\TrainingAccounting.Report.pdb

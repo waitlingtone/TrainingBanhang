@@ -1,0 +1,166 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{BB71418D-C06A-4E38-9295-551DB7D30DAB}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>TrainingAccounting.Model</RootNamespace>
+    <AssemblyName>TrainingAccounting.Model</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="BusinessObjectReport\TrAcc_Danh_GetCahocModel.cs" />
+    <Compile Include="BusinessObjectReport\TrAcc_Danh_GetDanhsachTreReportModel.cs" />
+    <Compile Include="BusinessObjectReport\TrAcc_Danh_GetPhieubaoHocphiByThangNamModel.cs" />
+    <Compile Include="BusinessObject\BackupInfoModel.cs" />
+    <Compile Include="BusinessObject\BangluongChuyenkhoanModel.cs" />
+    <Compile Include="BusinessObject\BangluongChuyenkhoanModel.Designer.cs">
+      <DependentUpon>BangluongChuyenkhoanModel.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BusinessObject\BangNgayhocTrongtuan.cs" />
+    <Compile Include="BusinessObject\CahocModel.cs" />
+    <Compile Include="BusinessObject\CahocModel.Designer.cs">
+      <DependentUpon>CahocModel.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BusinessObject\ChinhanhNganhangModel.cs" />
+    <Compile Include="BusinessObject\ChitietHoadonModel.cs" />
+    <Compile Include="BusinessObject\ChitietPhieubaoHocphi.cs" />
+    <Compile Include="BusinessObject\ChitietPhieubaoHocphi.Designer.cs">
+      <DependentUpon>ChitietPhieubaoHocphi.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BusinessObject\ChitietPhieubaoLuongNhanvienModel.cs" />
+    <Compile Include="BusinessObject\ChitietPhieubaoLuongNhanvienModel.Designer.cs">
+      <DependentUpon>ChitietPhieubaoLuongNhanvienModel.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BusinessObject\ChitietPhieuXuatThuSachModel.cs" />
+    <Compile Include="BusinessObject\ChitietPhieuXuatThuSachModel.Designer.cs">
+      <DependentUpon>ChitietPhieuXuatThuSachModel.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BusinessObject\DangkyLichdayModel.cs" />
+    <Compile Include="BusinessObject\DangkyLichdayModel.Designer.cs">
+      <DependentUpon>DangkyLichdayModel.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BusinessObject\DangkyLichhocModel.cs" />
+    <Compile Include="BusinessObject\DangkyLichhocModel.Designer.cs">
+      <DependentUpon>DangkyLichhocModel.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BusinessObject\DanhmucTraluongNhanvienModel.cs" />
+    <Compile Include="BusinessObject\DanhsachButruHocphi.cs" />
+    <Compile Include="BusinessObject\DantocModel.cs" />
+    <Compile Include="BusinessObject\DaumucThuchiModel.cs" />
+    <Compile Include="BusinessObject\DongiaHocphiModel.cs" />
+    <Compile Include="BusinessObject\GiaSachModel.cs" />
+    <Compile Include="BusinessObject\HanghoaModel.cs" />
+    <Compile Include="BusinessObject\HesoTinhluongModel.cs" />
+    <Compile Include="BusinessObject\HoadonModel.cs" />
+    <Compile Include="BusinessObject\LichhocDayhocModel.cs" />
+    <Compile Include="BusinessObject\LichhocDayhocModel.Designer.cs">
+      <DependentUpon>LichhocDayhocModel.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BusinessObject\LichhocNoidungModel.cs" />
+    <Compile Include="BusinessObject\LichsuHocModel.cs" />
+    <Compile Include="BusinessObject\LuongNhanvienModel.cs" />
+    <Compile Include="BusinessObject\NDGiangdayModel.cs" />
+    <Compile Include="BusinessObject\NDGiangdayModel.Designer.cs">
+      <DependentUpon>NDGiangdayModel.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BusinessObject\NganhangModel.cs" />
+    <Compile Include="BusinessObject\NhanvienModel.cs" />
+    <Compile Include="BusinessObject\NhanvienModel.Designer.cs">
+      <DependentUpon>NhanvienModel.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BusinessObject\NhomTreModel.cs" />
+    <Compile Include="BusinessObject\PhieubaoHocphi.cs" />
+    <Compile Include="BusinessObject\PhieubaoHocphi.Designer.cs">
+      <DependentUpon>PhieubaoHocphi.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BusinessObject\PhieubaoHocphiModel.cs" />
+    <Compile Include="BusinessObject\PhieubaoHocphiModel.Designer.cs">
+      <DependentUpon>PhieubaoHocphiModel.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BusinessObject\PhieubaoLuong.cs" />
+    <Compile Include="BusinessObject\PhieubaoLuongNhanvienModel.cs" />
+    <Compile Include="BusinessObject\PhieubaoLuongNhanvienModel.Designer.cs">
+      <DependentUpon>PhieubaoLuongNhanvienModel.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BusinessObject\PhieuXuatThuSachModel.cs" />
+    <Compile Include="BusinessObject\QuanhuyenModel.cs" />
+    <Compile Include="BusinessObject\SachModel.cs" />
+    <Compile Include="BusinessObject\SachModel.Designer.cs">
+      <DependentUpon>SachModel.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BusinessObject\ThangModel.cs" />
+    <Compile Include="BusinessObject\ThannhanModel.cs" />
+    <Compile Include="BusinessObject\ThongtinModel.cs" />
+    <Compile Include="BusinessObject\ThuchiModel.cs" />
+    <Compile Include="BusinessObject\ThuchiModel.Designer.cs">
+      <DependentUpon>ThuchiModel.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BusinessObject\ThuModel.cs" />
+    <Compile Include="BusinessObject\TinhthanhModel.cs" />
+    <Compile Include="BusinessObject\TonghopDangkyLichhocTre.cs" />
+    <Compile Include="BusinessObject\TongiaoModel.cs" />
+    <Compile Include="BusinessObjectReport\TrAcc_Danh_GetColunmTinhLuongNhanvienModel.cs" />
+    <Compile Include="BusinessObjectReport\TrAcc_Danh_GetBangLuongchuyenkhoanByThangNamV2Model.cs" />
+    <Compile Include="BusinessObject\TreModel.cs" />
+    <Compile Include="BusinessObject\TreModel.Designer.cs">
+      <DependentUpon>TreModel.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Properties\DataSources\TrainingAccounting.Model.BusinessObject.CahocModel.datasource" />
+    <None Include="Properties\DataSources\TrainingAccounting.Model.BusinessObject.DantocModel.datasource" />
+    <None Include="Properties\DataSources\TrainingAccounting.Model.BusinessObject.QuanhuyenModel.datasource" />
+    <None Include="Properties\DataSources\TrainingAccounting.Model.BusinessObject.TinhthanhModel.datasource" />
+    <None Include="Properties\DataSources\TrainingAccounting.Model.BusinessObject.TongiaoModel.datasource" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Lambda.BusinessObject\4. Lambda.BusinessObject.csproj">
+      <Project>{8be13e65-df39-43b8-a857-f23e84da1c4e}</Project>
+      <Name>4. Lambda.BusinessObject</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Lambda.ClientModel\1. Lambda.ClientModel.csproj">
+      <Project>{c48d9079-14e5-4c74-94d5-023f497153fb}</Project>
+      <Name>1. Lambda.ClientModel</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

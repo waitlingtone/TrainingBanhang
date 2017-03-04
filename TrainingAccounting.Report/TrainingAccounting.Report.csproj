@@ -1,0 +1,250 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{934B09A2-B944-4E22-A72E-8FE23B611415}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>TrainingAccounting.Report</RootNamespace>
+    <AssemblyName>TrainingAccounting.Report</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="DevExpress.Charts.v15.2.Core, Version=15.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.Data.v15.2, Version=15.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.Office.v15.2.Core, Version=15.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.PivotGrid.v15.2.Core, Version=15.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.Printing.v15.2.Core, Version=15.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.RichEdit.v15.2.Core, Version=15.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.Utils.v15.2, Version=15.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.XtraCharts.v15.2.Wizard, Version=15.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraCharts.v15.2, Version=15.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraEditors.v15.2, Version=15.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraPrinting.v15.2, Version=15.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.Sparkline.v15.2.Core, Version=15.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.Utils.v15.2.UI, Version=15.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraReports.v15.2.Extensions, Version=15.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraReports.v15.2, Version=15.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AllPhieubaoHocphiReport.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="AllPhieubaoHocphiReport.Designer.cs">
+      <DependentUpon>AllPhieubaoHocphiReport.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BangluongChuyenkhoanReport.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="BangluongChuyenkhoanReport.Designer.cs">
+      <DependentUpon>BangluongChuyenkhoanReport.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ChitietPhieubaoHocphiReport.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="ChitietPhieubaoHocphiReport.Designer.cs">
+      <DependentUpon>ChitietPhieubaoHocphiReport.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DanhsachHocphiTreReport.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="DanhsachHocphiTreReport.Designer.cs">
+      <DependentUpon>DanhsachHocphiTreReport.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DanhsachLuongNhanvienReport.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="DanhsachLuongNhanvienReport.Designer.cs">
+      <DependentUpon>DanhsachLuongNhanvienReport.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DanhsachTreReport.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="DanhsachTreReport.Designer.cs">
+      <DependentUpon>DanhsachTreReport.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DiemdanhTreReport.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="DiemdanhTreReport.Designer.cs">
+      <DependentUpon>DiemdanhTreReport.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PhieubaoHocphiReport.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="PhieubaoHocphiReport.Designer.cs">
+      <DependentUpon>PhieubaoHocphiReport.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PhieubaoLuongReport.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="PhieubaoLuongReport.Designer.cs">
+      <DependentUpon>PhieubaoLuongReport.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PhieuDangkyLichdayReport.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="PhieuDangkyLichdayReport.Designer.cs">
+      <DependentUpon>PhieuDangkyLichdayReport.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PhieuDangkyLichhocReport.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="PhieuDangkyLichhocReport.Designer.cs">
+      <DependentUpon>PhieuDangkyLichhocReport.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PhieuDangkyTreReport.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="PhieuDangkyTreReport.Designer.cs">
+      <DependentUpon>PhieuDangkyTreReport.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PhieuThuSachReport.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="PhieuThuSachReport.designer.cs">
+      <DependentUpon>PhieuThuSachReport.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PhieuXuatSachReport.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="PhieuXuatSachReport.Designer.cs">
+      <DependentUpon>PhieuXuatSachReport.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="ThuChiReport.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="ThuChiReport.Designer.cs">
+      <DependentUpon>ThuChiReport.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Thu_ChiReport.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Thu_ChiReport.Designer.cs">
+      <DependentUpon>Thu_ChiReport.cs</DependentUpon>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Info\Info.csproj">
+      <Project>{0a02ca74-6800-4f5e-96c2-c7b39a6214d7}</Project>
+      <Name>Info</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Lambda.BusinessObject\4. Lambda.BusinessObject.csproj">
+      <Project>{8be13e65-df39-43b8-a857-f23e84da1c4e}</Project>
+      <Name>4. Lambda.BusinessObject</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Lambda.ClientModel\1. Lambda.ClientModel.csproj">
+      <Project>{c48d9079-14e5-4c74-94d5-023f497153fb}</Project>
+      <Name>1. Lambda.ClientModel</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\TrainingAccounting.Model\TrainingAccounting.Model.csproj">
+      <Project>{bb71418d-c06a-4e38-9295-551db7d30dab}</Project>
+      <Name>TrainingAccounting.Model</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="AllPhieubaoHocphiReport.resx">
+      <DependentUpon>AllPhieubaoHocphiReport.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BangluongChuyenkhoanReport.resx">
+      <DependentUpon>BangluongChuyenkhoanReport.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ChitietPhieubaoHocphiReport.resx">
+      <DependentUpon>ChitietPhieubaoHocphiReport.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DanhsachHocphiTreReport.resx">
+      <DependentUpon>DanhsachHocphiTreReport.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DanhsachLuongNhanvienReport.resx">
+      <DependentUpon>DanhsachLuongNhanvienReport.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DanhsachTreReport.resx">
+      <DependentUpon>DanhsachTreReport.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DiemdanhTreReport.resx">
+      <DependentUpon>DiemdanhTreReport.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PhieubaoHocphiReport.resx">
+      <DependentUpon>PhieubaoHocphiReport.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PhieubaoLuongReport.resx">
+      <DependentUpon>PhieubaoLuongReport.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PhieuDangkyLichdayReport.resx">
+      <DependentUpon>PhieuDangkyLichdayReport.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PhieuDangkyLichhocReport.resx">
+      <DependentUpon>PhieuDangkyLichhocReport.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PhieuDangkyTreReport.resx">
+      <DependentUpon>PhieuDangkyTreReport.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PhieuThuSachReport.resx">
+      <DependentUpon>PhieuThuSachReport.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PhieuXuatSachReport.resx">
+      <DependentUpon>PhieuXuatSachReport.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\licenses.licx" />
+    <EmbeddedResource Include="ThuChiReport.resx">
+      <DependentUpon>ThuChiReport.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Thu_ChiReport.resx">
+      <DependentUpon>Thu_ChiReport.cs</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Properties\DataSources\TrainingAccounting.Model.BusinessObject.BangluongChuyenkhoanModel.datasource" />
+    <None Include="Properties\DataSources\TrainingAccounting.Model.BusinessObject.ChitietPhieubaoHocphi.datasource" />
+    <None Include="Properties\DataSources\TrainingAccounting.Model.BusinessObject.ChitietPhieubaoLuongNhanvienModel.datasource" />
+    <None Include="Properties\DataSources\TrainingAccounting.Model.BusinessObject.ChitietPhieuXuatThuSachModel.datasource" />
+    <None Include="Properties\DataSources\TrainingAccounting.Model.BusinessObject.LichhocDayhocModel.datasource" />
+    <None Include="Properties\DataSources\TrainingAccounting.Model.BusinessObject.PhieubaoHocphi.datasource" />
+    <None Include="Properties\DataSources\TrainingAccounting.Model.BusinessObject.PhieubaoHocphiModel.datasource" />
+    <None Include="Properties\DataSources\TrainingAccounting.Model.BusinessObject.PhieubaoLuong.datasource" />
+    <None Include="Properties\DataSources\TrainingAccounting.Model.BusinessObject.PhieubaoLuongNhanvienModel.datasource" />
+    <None Include="Properties\DataSources\TrainingAccounting.Model.BusinessObject.ThuchiModel.datasource" />
+    <None Include="Properties\DataSources\TrainingAccounting.Model.BusinessObjectReport.TrAcc_Danh_GetBangLuongchuyenkhoanByThangNamV2Model.datasource" />
+    <None Include="Properties\DataSources\TrainingAccounting.Model.BusinessObjectReport.TrAcc_Danh_GetCahocModel.datasource" />
+    <None Include="Properties\DataSources\TrainingAccounting.Model.BusinessObjectReport.TrAcc_Danh_GetDanhsachTreReportModel.datasource" />
+    <None Include="Properties\DataSources\TrainingAccounting.Model.BusinessObjectReport.TrAcc_Danh_GetPhieubaoHocphiByThangNamModel.datasource" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

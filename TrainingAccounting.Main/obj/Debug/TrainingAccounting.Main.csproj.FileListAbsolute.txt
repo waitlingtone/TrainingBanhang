@@ -1,0 +1,305 @@
+D:\Dropbox\QL DAY & HOC\TrainingAccounting.Solution\TrainingAccounting.Solution\bin\Debug\TrainingAccounting.Main.exe
+D:\Dropbox\QL DAY & HOC\TrainingAccounting.Solution\TrainingAccounting.Solution\bin\Debug\TrainingAccounting.Main.pdb
+D:\Dropbox\QL DAY & HOC\TrainingAccounting.Solution\TrainingAccounting.Solution\obj\Debug\TrainingAccounting.Solution.Form1.resources
+D:\Dropbox\QL DAY & HOC\TrainingAccounting.Solution\TrainingAccounting.Solution\obj\Debug\TrainingAccounting.Main.Properties.Resources.resources
+D:\Dropbox\QL DAY & HOC\TrainingAccounting.Solution\TrainingAccounting.Solution\obj\Debug\TrainingAccounting.Main.csproj.GenerateResource.Cache
+D:\Dropbox\QL DAY & HOC\TrainingAccounting.Solution\TrainingAccounting.Solution\obj\Debug\TrainingAccounting.Main.exe.licenses
+D:\Dropbox\QL DAY & HOC\TrainingAccounting.Solution\TrainingAccounting.Solution\obj\Debug\TrainingAccounting.Main.exe
+D:\Dropbox\QL DAY & HOC\TrainingAccounting.Solution\TrainingAccounting.Solution\obj\Debug\TrainingAccounting.Main.pdb
+D:\Dropbox\QL DAY & HOC\TrainingAccounting.Solution\TrainingAccounting.Main\bin\Debug\TrainingAccounting.Main.exe.config
+D:\Dropbox\QL DAY & HOC\TrainingAccounting.Solution\TrainingAccounting.Main\bin\Debug\TrainingAccounting.Main.exe
+D:\Dropbox\QL DAY & HOC\TrainingAccounting.Solution\TrainingAccounting.Main\bin\Debug\TrainingAccounting.Main.pdb
+D:\Dropbox\QL DAY & HOC\TrainingAccounting.Solution\TrainingAccounting.Main\bin\Debug\Lambda.BusinessObject.dll
+D:\Dropbox\QL DAY & HOC\TrainingAccounting.Solution\TrainingAccounting.Main\bin\Debug\Lambda.ClientModel.dll
+D:\Dropbox\QL DAY & HOC\TrainingAccounting.Solution\TrainingAccounting.Main\bin\Debug\TrainingAccounting.Form.dll
+D:\Dropbox\QL DAY & HOC\TrainingAccounting.Solution\TrainingAccounting.Main\bin\Debug\TrainingAccounting.View.dll
+D:\Dropbox\QL DAY & HOC\TrainingAccounting.Solution\TrainingAccounting.Main\bin\Debug\TrainingAccounting.Presenter.dll
+D:\Dropbox\QL DAY & HOC\TrainingAccounting.Solution\TrainingAccounting.Main\bin\Debug\TrainingAccounting.Model.dll
+D:\Dropbox\QL DAY & HOC\TrainingAccounting.Solution\TrainingAccounting.Main\bin\Debug\TrainingAccounting.Report.dll
+D:\Dropbox\QL DAY & HOC\TrainingAccounting.Solution\TrainingAccounting.Main\bin\Debug\Lambda.Framework.dll
+D:\Dropbox\QL DAY & HOC\TrainingAccounting.Solution\TrainingAccounting.Main\bin\Debug\Lambda.CoreService.dll
+D:\Dropbox\QL DAY & HOC\TrainingAccounting.Solution\TrainingAccounting.Main\bin\Debug\Lambda.AutoService.dll
+D:\Dropbox\QL DAY & HOC\TrainingAccounting.Solution\TrainingAccounting.Main\bin\Debug\Lambda.DataObject.dll
+D:\Dropbox\QL DAY & HOC\TrainingAccounting.Solution\TrainingAccounting.Main\bin\Debug\Lambda.DynamicLoad.dll
+D:\Dropbox\QL DAY & HOC\TrainingAccounting.Solution\TrainingAccounting.Main\bin\Debug\TrainingAccounting.Form.pdb
+D:\Dropbox\QL DAY & HOC\TrainingAccounting.Solution\TrainingAccounting.Main\bin\Debug\TrainingAccounting.View.pdb
+D:\Dropbox\QL DAY & HOC\TrainingAccounting.Solution\TrainingAccounting.Main\bin\Debug\TrainingAccounting.Presenter.pdb
+D:\Dropbox\QL DAY & HOC\TrainingAccounting.Solution\TrainingAccounting.Main\bin\Debug\TrainingAccounting.Model.pdb
+D:\Dropbox\QL DAY & HOC\TrainingAccounting.Solution\TrainingAccounting.Main\bin\Debug\TrainingAccounting.Report.pdb
+D:\Dropbox\QL DAY & HOC\TrainingAccounting.Solution\TrainingAccounting.Main\obj\Debug\TrainingAccounting.Main.csprojResolveAssemblyReference.cache
+D:\Dropbox\QL DAY & HOC\TrainingAccounting.Solution\TrainingAccounting.Main\obj\Debug\TrainingAccounting.Main.LoginForm.resources
+D:\Dropbox\QL DAY & HOC\TrainingAccounting.Solution\TrainingAccounting.Main\obj\Debug\TrainingAccounting.Solution.MainForm.resources
+D:\Dropbox\QL DAY & HOC\TrainingAccounting.Solution\TrainingAccounting.Main\obj\Debug\TrainingAccounting.Main.Properties.Resources.resources
+D:\Dropbox\QL DAY & HOC\TrainingAccounting.Solution\TrainingAccounting.Main\obj\Debug\TrainingAccounting.Main.csproj.GenerateResource.Cache
+D:\Dropbox\QL DAY & HOC\TrainingAccounting.Solution\TrainingAccounting.Main\obj\Debug\TrainingAccounting.Main.exe.licenses
+D:\Dropbox\QL DAY & HOC\TrainingAccounting.Solution\TrainingAccounting.Main\obj\Debug\TrainingAccounting.Main.exe
+D:\Dropbox\QL DAY & HOC\TrainingAccounting.Solution\TrainingAccounting.Main\obj\Debug\TrainingAccounting.Main.pdb
+D:\Dropbox\QL DAY & HOC\TrainingAccounting.Solution\TrainingAccounting.Main\bin\Debug\EPPlus.dll
+D:\Dropbox\QL DAY & HOC\TrainingAccounting.Solution\TrainingAccounting.Main\bin\Debug\Info.dll
+D:\Dropbox\QL DAY & HOC\TrainingAccounting.Solution\TrainingAccounting.Main\bin\Debug\Info.pdb
+D:\Dropbox\QL DAY & HOC\TrainingAccounting.Solution\TrainingAccounting.Main\bin\Debug\DevExpress.BonusSkins.v12.2.dll
+D:\Dropbox\QL DAY & HOC\TrainingAccounting.Solution\TrainingAccounting.Main\bin\Debug\DevExpress.Data.v12.2.dll
+D:\Dropbox\QL DAY & HOC\TrainingAccounting.Solution\TrainingAccounting.Main\bin\Debug\DevExpress.Printing.v12.2.Core.dll
+D:\Dropbox\QL DAY & HOC\TrainingAccounting.Solution\TrainingAccounting.Main\bin\Debug\DevExpress.Utils.v12.2.dll
+D:\Dropbox\QL DAY & HOC\TrainingAccounting.Solution\TrainingAccounting.Main\bin\Debug\DevExpress.XtraBars.v12.2.dll
+D:\Dropbox\QL DAY & HOC\TrainingAccounting.Solution\TrainingAccounting.Main\bin\Debug\DevExpress.XtraEditors.v12.2.dll
+D:\Dropbox\QL DAY & HOC\TrainingAccounting.Solution\TrainingAccounting.Main\bin\Debug\DevExpress.XtraGrid.v12.2.dll
+D:\Dropbox\QL DAY & HOC\TrainingAccounting.Solution\TrainingAccounting.Main\bin\Debug\DevExpress.XtraLayout.v12.2.dll
+D:\Dropbox\QL DAY & HOC\TrainingAccounting.Solution\TrainingAccounting.Main\bin\Debug\DevExpress.XtraNavBar.v12.2.dll
+D:\Dropbox\QL DAY & HOC\TrainingAccounting.Solution\TrainingAccounting.Main\bin\Debug\System.Data.dll
+D:\Dropbox\QL DAY & HOC\TrainingAccounting.Solution\TrainingAccounting.Main\bin\Debug\System.Deployment.dll
+D:\Dropbox\QL DAY & HOC\TrainingAccounting.Solution\TrainingAccounting.Main\bin\Debug\System.dll
+D:\Dropbox\QL DAY & HOC\TrainingAccounting.Solution\TrainingAccounting.Main\bin\Debug\System.Drawing.dll
+D:\Dropbox\QL DAY & HOC\TrainingAccounting.Solution\TrainingAccounting.Main\bin\Debug\System.Windows.Forms.dll
+D:\Dropbox\QL DAY & HOC\TrainingAccounting.Solution\TrainingAccounting.Main\bin\Debug\System.Xml.dll
+D:\Dropbox\QL DAY & HOC\TrainingAccounting.Solution\TrainingAccounting.Main\bin\Debug\DevExpress.Data.v12.2.xml
+D:\Dropbox\QL DAY & HOC\TrainingAccounting.Solution\TrainingAccounting.Main\bin\Debug\DevExpress.Printing.v12.2.Core.xml
+D:\Dropbox\QL DAY & HOC\TrainingAccounting.Solution\TrainingAccounting.Main\bin\Debug\DevExpress.Utils.v12.2.xml
+D:\Dropbox\QL DAY & HOC\TrainingAccounting.Solution\TrainingAccounting.Main\bin\Debug\DevExpress.XtraBars.v12.2.xml
+D:\Dropbox\QL DAY & HOC\TrainingAccounting.Solution\TrainingAccounting.Main\bin\Debug\DevExpress.XtraEditors.v12.2.xml
+D:\Dropbox\QL DAY & HOC\TrainingAccounting.Solution\TrainingAccounting.Main\bin\Debug\DevExpress.XtraGrid.v12.2.xml
+D:\Dropbox\QL DAY & HOC\TrainingAccounting.Solution\TrainingAccounting.Main\bin\Debug\DevExpress.XtraLayout.v12.2.xml
+D:\Dropbox\QL DAY & HOC\TrainingAccounting.Solution\TrainingAccounting.Main\bin\Debug\DevExpress.XtraNavBar.v12.2.xml
+D:\Dropbox\QL DAY & HOC\TrainingAccounting.Solution\TrainingAccounting.Main\bin\Debug\de\DevExpress.Data.v12.2.resources.dll
+D:\Dropbox\QL DAY & HOC\TrainingAccounting.Solution\TrainingAccounting.Main\bin\Debug\es\DevExpress.Data.v12.2.resources.dll
+D:\Dropbox\QL DAY & HOC\TrainingAccounting.Solution\TrainingAccounting.Main\bin\Debug\ja\DevExpress.Data.v12.2.resources.dll
+D:\Dropbox\QL DAY & HOC\TrainingAccounting.Solution\TrainingAccounting.Main\bin\Debug\ru\DevExpress.Data.v12.2.resources.dll
+D:\Dropbox\QL DAY & HOC\TrainingAccounting.Solution\TrainingAccounting.Main\bin\Debug\de\DevExpress.Printing.v12.2.Core.resources.dll
+D:\Dropbox\QL DAY & HOC\TrainingAccounting.Solution\TrainingAccounting.Main\bin\Debug\es\DevExpress.Printing.v12.2.Core.resources.dll
+D:\Dropbox\QL DAY & HOC\TrainingAccounting.Solution\TrainingAccounting.Main\bin\Debug\ja\DevExpress.Printing.v12.2.Core.resources.dll
+D:\Dropbox\QL DAY & HOC\TrainingAccounting.Solution\TrainingAccounting.Main\bin\Debug\ru\DevExpress.Printing.v12.2.Core.resources.dll
+D:\Dropbox\QL DAY & HOC\TrainingAccounting.Solution\TrainingAccounting.Main\bin\Debug\de\DevExpress.Utils.v12.2.resources.dll
+D:\Dropbox\QL DAY & HOC\TrainingAccounting.Solution\TrainingAccounting.Main\bin\Debug\es\DevExpress.Utils.v12.2.resources.dll
+D:\Dropbox\QL DAY & HOC\TrainingAccounting.Solution\TrainingAccounting.Main\bin\Debug\ja\DevExpress.Utils.v12.2.resources.dll
+D:\Dropbox\QL DAY & HOC\TrainingAccounting.Solution\TrainingAccounting.Main\bin\Debug\ru\DevExpress.Utils.v12.2.resources.dll
+D:\Dropbox\QL DAY & HOC\TrainingAccounting.Solution\TrainingAccounting.Main\bin\Debug\de\DevExpress.XtraBars.v12.2.resources.dll
+D:\Dropbox\QL DAY & HOC\TrainingAccounting.Solution\TrainingAccounting.Main\bin\Debug\es\DevExpress.XtraBars.v12.2.resources.dll
+D:\Dropbox\QL DAY & HOC\TrainingAccounting.Solution\TrainingAccounting.Main\bin\Debug\ja\DevExpress.XtraBars.v12.2.resources.dll
+D:\Dropbox\QL DAY & HOC\TrainingAccounting.Solution\TrainingAccounting.Main\bin\Debug\ru\DevExpress.XtraBars.v12.2.resources.dll
+D:\Dropbox\QL DAY & HOC\TrainingAccounting.Solution\TrainingAccounting.Main\bin\Debug\de\DevExpress.XtraEditors.v12.2.resources.dll
+D:\Dropbox\QL DAY & HOC\TrainingAccounting.Solution\TrainingAccounting.Main\bin\Debug\es\DevExpress.XtraEditors.v12.2.resources.dll
+D:\Dropbox\QL DAY & HOC\TrainingAccounting.Solution\TrainingAccounting.Main\bin\Debug\ja\DevExpress.XtraEditors.v12.2.resources.dll
+D:\Dropbox\QL DAY & HOC\TrainingAccounting.Solution\TrainingAccounting.Main\bin\Debug\ru\DevExpress.XtraEditors.v12.2.resources.dll
+D:\Dropbox\QL DAY & HOC\TrainingAccounting.Solution\TrainingAccounting.Main\bin\Debug\de\DevExpress.XtraGrid.v12.2.resources.dll
+D:\Dropbox\QL DAY & HOC\TrainingAccounting.Solution\TrainingAccounting.Main\bin\Debug\es\DevExpress.XtraGrid.v12.2.resources.dll
+D:\Dropbox\QL DAY & HOC\TrainingAccounting.Solution\TrainingAccounting.Main\bin\Debug\ja\DevExpress.XtraGrid.v12.2.resources.dll
+D:\Dropbox\QL DAY & HOC\TrainingAccounting.Solution\TrainingAccounting.Main\bin\Debug\ru\DevExpress.XtraGrid.v12.2.resources.dll
+D:\Dropbox\QL DAY & HOC\TrainingAccounting.Solution\TrainingAccounting.Main\bin\Debug\de\DevExpress.XtraLayout.v12.2.resources.dll
+D:\Dropbox\QL DAY & HOC\TrainingAccounting.Solution\TrainingAccounting.Main\bin\Debug\es\DevExpress.XtraLayout.v12.2.resources.dll
+D:\Dropbox\QL DAY & HOC\TrainingAccounting.Solution\TrainingAccounting.Main\bin\Debug\ja\DevExpress.XtraLayout.v12.2.resources.dll
+D:\Dropbox\QL DAY & HOC\TrainingAccounting.Solution\TrainingAccounting.Main\bin\Debug\ru\DevExpress.XtraLayout.v12.2.resources.dll
+D:\Dropbox\QL DAY & HOC\TrainingAccounting.Solution\TrainingAccounting.Main\bin\Debug\de\DevExpress.XtraNavBar.v12.2.resources.dll
+D:\Dropbox\QL DAY & HOC\TrainingAccounting.Solution\TrainingAccounting.Main\bin\Debug\es\DevExpress.XtraNavBar.v12.2.resources.dll
+D:\Dropbox\QL DAY & HOC\TrainingAccounting.Solution\TrainingAccounting.Main\bin\Debug\ja\DevExpress.XtraNavBar.v12.2.resources.dll
+D:\Dropbox\QL DAY & HOC\TrainingAccounting.Solution\TrainingAccounting.Main\bin\Debug\ru\DevExpress.XtraNavBar.v12.2.resources.dll
+E:\____Downloads\20170117_trainingaccount\SourceCode\Lambda.Solution\TrainingAccounting.Main\bin\Debug\TrainingAccounting.Main.exe.config
+E:\____Downloads\20170117_trainingaccount\SourceCode\Lambda.Solution\TrainingAccounting.Main\bin\Debug\TrainingAccounting.Main.exe
+E:\____Downloads\20170117_trainingaccount\SourceCode\Lambda.Solution\TrainingAccounting.Main\bin\Debug\TrainingAccounting.Main.pdb
+E:\____Downloads\20170117_trainingaccount\SourceCode\Lambda.Solution\TrainingAccounting.Main\bin\Debug\DevExpress.BonusSkins.v12.2.dll
+E:\____Downloads\20170117_trainingaccount\SourceCode\Lambda.Solution\TrainingAccounting.Main\bin\Debug\DevExpress.Data.v12.2.dll
+E:\____Downloads\20170117_trainingaccount\SourceCode\Lambda.Solution\TrainingAccounting.Main\bin\Debug\DevExpress.Printing.v12.2.Core.dll
+E:\____Downloads\20170117_trainingaccount\SourceCode\Lambda.Solution\TrainingAccounting.Main\bin\Debug\DevExpress.Utils.v12.2.dll
+E:\____Downloads\20170117_trainingaccount\SourceCode\Lambda.Solution\TrainingAccounting.Main\bin\Debug\DevExpress.XtraBars.v12.2.dll
+E:\____Downloads\20170117_trainingaccount\SourceCode\Lambda.Solution\TrainingAccounting.Main\bin\Debug\DevExpress.XtraEditors.v12.2.dll
+E:\____Downloads\20170117_trainingaccount\SourceCode\Lambda.Solution\TrainingAccounting.Main\bin\Debug\DevExpress.XtraGrid.v12.2.dll
+E:\____Downloads\20170117_trainingaccount\SourceCode\Lambda.Solution\TrainingAccounting.Main\bin\Debug\DevExpress.XtraLayout.v12.2.dll
+E:\____Downloads\20170117_trainingaccount\SourceCode\Lambda.Solution\TrainingAccounting.Main\bin\Debug\DevExpress.XtraNavBar.v12.2.dll
+E:\____Downloads\20170117_trainingaccount\SourceCode\Lambda.Solution\TrainingAccounting.Main\bin\Debug\Info.dll
+E:\____Downloads\20170117_trainingaccount\SourceCode\Lambda.Solution\TrainingAccounting.Main\bin\Debug\Lambda.BusinessObject.dll
+E:\____Downloads\20170117_trainingaccount\SourceCode\Lambda.Solution\TrainingAccounting.Main\bin\Debug\Lambda.ClientModel.dll
+E:\____Downloads\20170117_trainingaccount\SourceCode\Lambda.Solution\TrainingAccounting.Main\bin\Debug\System.Data.dll
+E:\____Downloads\20170117_trainingaccount\SourceCode\Lambda.Solution\TrainingAccounting.Main\bin\Debug\System.Deployment.dll
+E:\____Downloads\20170117_trainingaccount\SourceCode\Lambda.Solution\TrainingAccounting.Main\bin\Debug\System.dll
+E:\____Downloads\20170117_trainingaccount\SourceCode\Lambda.Solution\TrainingAccounting.Main\bin\Debug\System.Drawing.dll
+E:\____Downloads\20170117_trainingaccount\SourceCode\Lambda.Solution\TrainingAccounting.Main\bin\Debug\System.Windows.Forms.dll
+E:\____Downloads\20170117_trainingaccount\SourceCode\Lambda.Solution\TrainingAccounting.Main\bin\Debug\System.Xml.dll
+E:\____Downloads\20170117_trainingaccount\SourceCode\Lambda.Solution\TrainingAccounting.Main\bin\Debug\TrainingAccounting.Form.dll
+E:\____Downloads\20170117_trainingaccount\SourceCode\Lambda.Solution\TrainingAccounting.Main\bin\Debug\TrainingAccounting.Model.dll
+E:\____Downloads\20170117_trainingaccount\SourceCode\Lambda.Solution\TrainingAccounting.Main\bin\Debug\TrainingAccounting.Presenter.dll
+E:\____Downloads\20170117_trainingaccount\SourceCode\Lambda.Solution\TrainingAccounting.Main\bin\Debug\TrainingAccounting.Report.dll
+E:\____Downloads\20170117_trainingaccount\SourceCode\Lambda.Solution\TrainingAccounting.Main\bin\Debug\TrainingAccounting.View.dll
+E:\____Downloads\20170117_trainingaccount\SourceCode\Lambda.Solution\TrainingAccounting.Main\bin\Debug\EPPlus.dll
+E:\____Downloads\20170117_trainingaccount\SourceCode\Lambda.Solution\TrainingAccounting.Main\bin\Debug\Lambda.Framework.dll
+E:\____Downloads\20170117_trainingaccount\SourceCode\Lambda.Solution\TrainingAccounting.Main\bin\Debug\Lambda.CoreService.dll
+E:\____Downloads\20170117_trainingaccount\SourceCode\Lambda.Solution\TrainingAccounting.Main\bin\Debug\Lambda.DynamicLoad.dll
+E:\____Downloads\20170117_trainingaccount\SourceCode\Lambda.Solution\TrainingAccounting.Main\bin\Debug\TrainingAccounting.Form.pdb
+E:\____Downloads\20170117_trainingaccount\SourceCode\Lambda.Solution\TrainingAccounting.Main\bin\Debug\TrainingAccounting.Model.pdb
+E:\____Downloads\20170117_trainingaccount\SourceCode\Lambda.Solution\TrainingAccounting.Main\bin\Debug\TrainingAccounting.Presenter.pdb
+E:\____Downloads\20170117_trainingaccount\SourceCode\Lambda.Solution\TrainingAccounting.Main\bin\Debug\TrainingAccounting.Report.pdb
+E:\____Downloads\20170117_trainingaccount\SourceCode\Lambda.Solution\TrainingAccounting.Main\bin\Debug\TrainingAccounting.View.pdb
+E:\____Downloads\20170117_trainingaccount\SourceCode\Lambda.Solution\TrainingAccounting.Main\bin\Debug\DevExpress.Data.v12.2.xml
+E:\____Downloads\20170117_trainingaccount\SourceCode\Lambda.Solution\TrainingAccounting.Main\bin\Debug\DevExpress.Printing.v12.2.Core.xml
+E:\____Downloads\20170117_trainingaccount\SourceCode\Lambda.Solution\TrainingAccounting.Main\bin\Debug\DevExpress.Utils.v12.2.xml
+E:\____Downloads\20170117_trainingaccount\SourceCode\Lambda.Solution\TrainingAccounting.Main\bin\Debug\DevExpress.XtraBars.v12.2.xml
+E:\____Downloads\20170117_trainingaccount\SourceCode\Lambda.Solution\TrainingAccounting.Main\bin\Debug\DevExpress.XtraEditors.v12.2.xml
+E:\____Downloads\20170117_trainingaccount\SourceCode\Lambda.Solution\TrainingAccounting.Main\bin\Debug\DevExpress.XtraGrid.v12.2.xml
+E:\____Downloads\20170117_trainingaccount\SourceCode\Lambda.Solution\TrainingAccounting.Main\bin\Debug\DevExpress.XtraLayout.v12.2.xml
+E:\____Downloads\20170117_trainingaccount\SourceCode\Lambda.Solution\TrainingAccounting.Main\bin\Debug\DevExpress.XtraNavBar.v12.2.xml
+E:\____Downloads\20170117_trainingaccount\SourceCode\Lambda.Solution\TrainingAccounting.Main\bin\Debug\Info.pdb
+E:\____Downloads\20170117_trainingaccount\SourceCode\Lambda.Solution\TrainingAccounting.Main\bin\Debug\de\DevExpress.Data.v12.2.resources.dll
+E:\____Downloads\20170117_trainingaccount\SourceCode\Lambda.Solution\TrainingAccounting.Main\bin\Debug\es\DevExpress.Data.v12.2.resources.dll
+E:\____Downloads\20170117_trainingaccount\SourceCode\Lambda.Solution\TrainingAccounting.Main\bin\Debug\ja\DevExpress.Data.v12.2.resources.dll
+E:\____Downloads\20170117_trainingaccount\SourceCode\Lambda.Solution\TrainingAccounting.Main\bin\Debug\ru\DevExpress.Data.v12.2.resources.dll
+E:\____Downloads\20170117_trainingaccount\SourceCode\Lambda.Solution\TrainingAccounting.Main\bin\Debug\de\DevExpress.Printing.v12.2.Core.resources.dll
+E:\____Downloads\20170117_trainingaccount\SourceCode\Lambda.Solution\TrainingAccounting.Main\bin\Debug\es\DevExpress.Printing.v12.2.Core.resources.dll
+E:\____Downloads\20170117_trainingaccount\SourceCode\Lambda.Solution\TrainingAccounting.Main\bin\Debug\ja\DevExpress.Printing.v12.2.Core.resources.dll
+E:\____Downloads\20170117_trainingaccount\SourceCode\Lambda.Solution\TrainingAccounting.Main\bin\Debug\ru\DevExpress.Printing.v12.2.Core.resources.dll
+E:\____Downloads\20170117_trainingaccount\SourceCode\Lambda.Solution\TrainingAccounting.Main\bin\Debug\de\DevExpress.Utils.v12.2.resources.dll
+E:\____Downloads\20170117_trainingaccount\SourceCode\Lambda.Solution\TrainingAccounting.Main\bin\Debug\es\DevExpress.Utils.v12.2.resources.dll
+E:\____Downloads\20170117_trainingaccount\SourceCode\Lambda.Solution\TrainingAccounting.Main\bin\Debug\ja\DevExpress.Utils.v12.2.resources.dll
+E:\____Downloads\20170117_trainingaccount\SourceCode\Lambda.Solution\TrainingAccounting.Main\bin\Debug\ru\DevExpress.Utils.v12.2.resources.dll
+E:\____Downloads\20170117_trainingaccount\SourceCode\Lambda.Solution\TrainingAccounting.Main\bin\Debug\de\DevExpress.XtraBars.v12.2.resources.dll
+E:\____Downloads\20170117_trainingaccount\SourceCode\Lambda.Solution\TrainingAccounting.Main\bin\Debug\es\DevExpress.XtraBars.v12.2.resources.dll
+E:\____Downloads\20170117_trainingaccount\SourceCode\Lambda.Solution\TrainingAccounting.Main\bin\Debug\ja\DevExpress.XtraBars.v12.2.resources.dll
+E:\____Downloads\20170117_trainingaccount\SourceCode\Lambda.Solution\TrainingAccounting.Main\bin\Debug\ru\DevExpress.XtraBars.v12.2.resources.dll
+E:\____Downloads\20170117_trainingaccount\SourceCode\Lambda.Solution\TrainingAccounting.Main\bin\Debug\de\DevExpress.XtraEditors.v12.2.resources.dll
+E:\____Downloads\20170117_trainingaccount\SourceCode\Lambda.Solution\TrainingAccounting.Main\bin\Debug\es\DevExpress.XtraEditors.v12.2.resources.dll
+E:\____Downloads\20170117_trainingaccount\SourceCode\Lambda.Solution\TrainingAccounting.Main\bin\Debug\ja\DevExpress.XtraEditors.v12.2.resources.dll
+E:\____Downloads\20170117_trainingaccount\SourceCode\Lambda.Solution\TrainingAccounting.Main\bin\Debug\ru\DevExpress.XtraEditors.v12.2.resources.dll
+E:\____Downloads\20170117_trainingaccount\SourceCode\Lambda.Solution\TrainingAccounting.Main\bin\Debug\de\DevExpress.XtraGrid.v12.2.resources.dll
+E:\____Downloads\20170117_trainingaccount\SourceCode\Lambda.Solution\TrainingAccounting.Main\bin\Debug\es\DevExpress.XtraGrid.v12.2.resources.dll
+E:\____Downloads\20170117_trainingaccount\SourceCode\Lambda.Solution\TrainingAccounting.Main\bin\Debug\ja\DevExpress.XtraGrid.v12.2.resources.dll
+E:\____Downloads\20170117_trainingaccount\SourceCode\Lambda.Solution\TrainingAccounting.Main\bin\Debug\ru\DevExpress.XtraGrid.v12.2.resources.dll
+E:\____Downloads\20170117_trainingaccount\SourceCode\Lambda.Solution\TrainingAccounting.Main\bin\Debug\de\DevExpress.XtraLayout.v12.2.resources.dll
+E:\____Downloads\20170117_trainingaccount\SourceCode\Lambda.Solution\TrainingAccounting.Main\bin\Debug\es\DevExpress.XtraLayout.v12.2.resources.dll
+E:\____Downloads\20170117_trainingaccount\SourceCode\Lambda.Solution\TrainingAccounting.Main\bin\Debug\ja\DevExpress.XtraLayout.v12.2.resources.dll
+E:\____Downloads\20170117_trainingaccount\SourceCode\Lambda.Solution\TrainingAccounting.Main\bin\Debug\ru\DevExpress.XtraLayout.v12.2.resources.dll
+E:\____Downloads\20170117_trainingaccount\SourceCode\Lambda.Solution\TrainingAccounting.Main\bin\Debug\de\DevExpress.XtraNavBar.v12.2.resources.dll
+E:\____Downloads\20170117_trainingaccount\SourceCode\Lambda.Solution\TrainingAccounting.Main\bin\Debug\es\DevExpress.XtraNavBar.v12.2.resources.dll
+E:\____Downloads\20170117_trainingaccount\SourceCode\Lambda.Solution\TrainingAccounting.Main\bin\Debug\ja\DevExpress.XtraNavBar.v12.2.resources.dll
+E:\____Downloads\20170117_trainingaccount\SourceCode\Lambda.Solution\TrainingAccounting.Main\bin\Debug\ru\DevExpress.XtraNavBar.v12.2.resources.dll
+E:\____Downloads\20170117_trainingaccount\SourceCode\Lambda.Solution\TrainingAccounting.Main\obj\Debug\TrainingAccounting.Main.csprojResolveAssemblyReference.cache
+E:\____Downloads\20170117_trainingaccount\SourceCode\Lambda.Solution\TrainingAccounting.Main\obj\Debug\TrainingAccounting.Main.LoginForm.resources
+E:\____Downloads\20170117_trainingaccount\SourceCode\Lambda.Solution\TrainingAccounting.Main\obj\Debug\TrainingAccounting.Solution.MainForm.resources
+E:\____Downloads\20170117_trainingaccount\SourceCode\Lambda.Solution\TrainingAccounting.Main\obj\Debug\TrainingAccounting.Main.Properties.Resources.resources
+E:\____Downloads\20170117_trainingaccount\SourceCode\Lambda.Solution\TrainingAccounting.Main\obj\Debug\TrainingAccounting.Main.csproj.GenerateResource.Cache
+E:\____Downloads\20170117_trainingaccount\SourceCode\Lambda.Solution\TrainingAccounting.Main\obj\Debug\TrainingAccounting.Main.exe.licenses
+E:\____Downloads\20170117_trainingaccount\SourceCode\Lambda.Solution\TrainingAccounting.Main\obj\Debug\TrainingAccounting.Main.exe
+E:\____Downloads\20170117_trainingaccount\SourceCode\Lambda.Solution\TrainingAccounting.Main\obj\Debug\TrainingAccounting.Main.pdb
+E:\____Downloads\20170117_trainingaccount\SourceCode\Lambda.Solution\TrainingAccounting.Main\bin\Debug\Lambda.BusinessObject.pdb
+E:\____Downloads\20170117_trainingaccount\SourceCode\Lambda.Solution\TrainingAccounting.Main\bin\Debug\Lambda.ClientModel.pdb
+E:\____Downloads\20170117_trainingaccount\SourceCode\Lambda.Solution\TrainingAccounting.Main\bin\Debug\Lambda.Framework.pdb
+E:\____Downloads\20170117_trainingaccount\SourceCode\Lambda.Solution\TrainingAccounting.Main\bin\Debug\Lambda.CoreService.pdb
+E:\____Downloads\20170117_trainingaccount\SourceCode\Lambda.Solution\TrainingAccounting.Main\bin\Debug\Lambda.DynamicLoad.pdb
+E:\____Downloads\20170117_trainingaccount\SourceCode\Lambda.Solution\TrainingAccounting.Main\bin\Debug\ServiceInstall\ServiceInstall.cmd
+E:\____Downloads\20170117_trainingaccount\SourceCode\Lambda.Solution\TrainingAccounting.Main\bin\Debug\ServiceInstall\ServiceUninstall.cmd
+E:\____Downloads\20170117_trainingaccount\SourceCode\Lambda.Solution\TrainingAccounting.Main\bin\Debug\ServiceInstall\InstallUtil.exe
+E:\____Downloads\20170117_trainingaccount\SourceCode\Lambda.Solution\TrainingAccounting.Main\bin\Debug\Lambda.AutoService.dll
+E:\____Downloads\20170117_trainingaccount\SourceCode\Lambda.Solution\TrainingAccounting.Main\bin\Debug\Lambda.ConsoleHost.exe
+E:\____Downloads\20170117_trainingaccount\SourceCode\Lambda.Solution\TrainingAccounting.Main\bin\Debug\Lambda.DataObject.dll
+E:\____Downloads\20170117_trainingaccount\SourceCode\Lambda.Solution\TrainingAccounting.Main\bin\Debug\Lambda.Host.dll
+E:\____Downloads\20170117_trainingaccount\SourceCode\Lambda.Solution\TrainingAccounting.Main\bin\Debug\Lambda.ServiceHost.exe
+E:\____Downloads\20170117_trainingaccount\SourceCode\Lambda.Solution\TrainingAccounting.Main\bin\Debug\Lambda.AutoService.pdb
+E:\____Downloads\20170117_trainingaccount\SourceCode\Lambda.Solution\TrainingAccounting.Main\bin\Debug\Lambda.ConsoleHost.pdb
+E:\____Downloads\20170117_trainingaccount\SourceCode\Lambda.Solution\TrainingAccounting.Main\bin\Debug\Lambda.DataObject.pdb
+E:\____Downloads\20170117_trainingaccount\SourceCode\Lambda.Solution\TrainingAccounting.Main\bin\Debug\Lambda.Host.pdb
+E:\____Downloads\20170117_trainingaccount\SourceCode\Lambda.Solution\TrainingAccounting.Main\bin\Debug\Lambda.ServiceHost.pdb
+D:\01.DH_SuPham\Lambda.Solution\TrainingAccounting.Main\bin\Debug\TrainingAccounting.Main.exe.config
+D:\01.DH_SuPham\Lambda.Solution\TrainingAccounting.Main\bin\Debug\ServiceInstall\ServiceInstall.cmd
+D:\01.DH_SuPham\Lambda.Solution\TrainingAccounting.Main\bin\Debug\ServiceInstall\ServiceUninstall.cmd
+D:\01.DH_SuPham\Lambda.Solution\TrainingAccounting.Main\bin\Debug\ServiceInstall\InstallUtil.exe
+D:\01.DH_SuPham\Lambda.Solution\TrainingAccounting.Main\bin\Debug\TrainingAccounting.Main.exe
+D:\01.DH_SuPham\Lambda.Solution\TrainingAccounting.Main\bin\Debug\TrainingAccounting.Main.pdb
+D:\01.DH_SuPham\Lambda.Solution\TrainingAccounting.Main\bin\Debug\DevExpress.BonusSkins.v15.2.dll
+D:\01.DH_SuPham\Lambda.Solution\TrainingAccounting.Main\bin\Debug\DevExpress.Data.v15.2.dll
+D:\01.DH_SuPham\Lambda.Solution\TrainingAccounting.Main\bin\Debug\DevExpress.Printing.v15.2.Core.dll
+D:\01.DH_SuPham\Lambda.Solution\TrainingAccounting.Main\bin\Debug\DevExpress.Utils.v15.2.dll
+D:\01.DH_SuPham\Lambda.Solution\TrainingAccounting.Main\bin\Debug\DevExpress.XtraBars.v15.2.dll
+D:\01.DH_SuPham\Lambda.Solution\TrainingAccounting.Main\bin\Debug\DevExpress.XtraEditors.v15.2.dll
+D:\01.DH_SuPham\Lambda.Solution\TrainingAccounting.Main\bin\Debug\DevExpress.XtraGrid.v15.2.dll
+D:\01.DH_SuPham\Lambda.Solution\TrainingAccounting.Main\bin\Debug\DevExpress.XtraLayout.v15.2.dll
+D:\01.DH_SuPham\Lambda.Solution\TrainingAccounting.Main\bin\Debug\DevExpress.XtraNavBar.v15.2.dll
+D:\01.DH_SuPham\Lambda.Solution\TrainingAccounting.Main\bin\Debug\DevExpress.XtraPrinting.v15.2.dll
+D:\01.DH_SuPham\Lambda.Solution\TrainingAccounting.Main\bin\Debug\Info.dll
+D:\01.DH_SuPham\Lambda.Solution\TrainingAccounting.Main\bin\Debug\Lambda.AutoService.dll
+D:\01.DH_SuPham\Lambda.Solution\TrainingAccounting.Main\bin\Debug\Lambda.BusinessObject.dll
+D:\01.DH_SuPham\Lambda.Solution\TrainingAccounting.Main\bin\Debug\Lambda.ClientModel.dll
+D:\01.DH_SuPham\Lambda.Solution\TrainingAccounting.Main\bin\Debug\Lambda.ConsoleHost.exe
+D:\01.DH_SuPham\Lambda.Solution\TrainingAccounting.Main\bin\Debug\Lambda.CoreService.dll
+D:\01.DH_SuPham\Lambda.Solution\TrainingAccounting.Main\bin\Debug\Lambda.DataObject.dll
+D:\01.DH_SuPham\Lambda.Solution\TrainingAccounting.Main\bin\Debug\Lambda.DynamicLoad.dll
+D:\01.DH_SuPham\Lambda.Solution\TrainingAccounting.Main\bin\Debug\Lambda.Host.dll
+D:\01.DH_SuPham\Lambda.Solution\TrainingAccounting.Main\bin\Debug\Lambda.ServiceHost.exe
+D:\01.DH_SuPham\Lambda.Solution\TrainingAccounting.Main\bin\Debug\System.Data.dll
+D:\01.DH_SuPham\Lambda.Solution\TrainingAccounting.Main\bin\Debug\System.Deployment.dll
+D:\01.DH_SuPham\Lambda.Solution\TrainingAccounting.Main\bin\Debug\System.dll
+D:\01.DH_SuPham\Lambda.Solution\TrainingAccounting.Main\bin\Debug\System.Drawing.dll
+D:\01.DH_SuPham\Lambda.Solution\TrainingAccounting.Main\bin\Debug\System.Windows.Forms.dll
+D:\01.DH_SuPham\Lambda.Solution\TrainingAccounting.Main\bin\Debug\System.Xml.dll
+D:\01.DH_SuPham\Lambda.Solution\TrainingAccounting.Main\bin\Debug\TrainingAccounting.Form.dll
+D:\01.DH_SuPham\Lambda.Solution\TrainingAccounting.Main\bin\Debug\TrainingAccounting.Model.dll
+D:\01.DH_SuPham\Lambda.Solution\TrainingAccounting.Main\bin\Debug\TrainingAccounting.Presenter.dll
+D:\01.DH_SuPham\Lambda.Solution\TrainingAccounting.Main\bin\Debug\TrainingAccounting.Report.dll
+D:\01.DH_SuPham\Lambda.Solution\TrainingAccounting.Main\bin\Debug\TrainingAccounting.View.dll
+D:\01.DH_SuPham\Lambda.Solution\TrainingAccounting.Main\bin\Debug\Lambda.Framework.dll
+D:\01.DH_SuPham\Lambda.Solution\TrainingAccounting.Main\bin\Debug\Microsoft.VisualBasic.PowerPacks.Vs.dll
+D:\01.DH_SuPham\Lambda.Solution\TrainingAccounting.Main\bin\Debug\EPPlus.dll
+D:\01.DH_SuPham\Lambda.Solution\TrainingAccounting.Main\bin\Debug\Info.pdb
+D:\01.DH_SuPham\Lambda.Solution\TrainingAccounting.Main\bin\Debug\Lambda.AutoService.pdb
+D:\01.DH_SuPham\Lambda.Solution\TrainingAccounting.Main\bin\Debug\Lambda.BusinessObject.pdb
+D:\01.DH_SuPham\Lambda.Solution\TrainingAccounting.Main\bin\Debug\Lambda.ClientModel.pdb
+D:\01.DH_SuPham\Lambda.Solution\TrainingAccounting.Main\bin\Debug\Lambda.ConsoleHost.pdb
+D:\01.DH_SuPham\Lambda.Solution\TrainingAccounting.Main\bin\Debug\Lambda.CoreService.pdb
+D:\01.DH_SuPham\Lambda.Solution\TrainingAccounting.Main\bin\Debug\Lambda.DataObject.pdb
+D:\01.DH_SuPham\Lambda.Solution\TrainingAccounting.Main\bin\Debug\Lambda.DynamicLoad.pdb
+D:\01.DH_SuPham\Lambda.Solution\TrainingAccounting.Main\bin\Debug\Lambda.Host.pdb
+D:\01.DH_SuPham\Lambda.Solution\TrainingAccounting.Main\bin\Debug\Lambda.ServiceHost.pdb
+D:\01.DH_SuPham\Lambda.Solution\TrainingAccounting.Main\bin\Debug\TrainingAccounting.Form.pdb
+D:\01.DH_SuPham\Lambda.Solution\TrainingAccounting.Main\bin\Debug\TrainingAccounting.Model.pdb
+D:\01.DH_SuPham\Lambda.Solution\TrainingAccounting.Main\bin\Debug\TrainingAccounting.Presenter.pdb
+D:\01.DH_SuPham\Lambda.Solution\TrainingAccounting.Main\bin\Debug\TrainingAccounting.Report.pdb
+D:\01.DH_SuPham\Lambda.Solution\TrainingAccounting.Main\bin\Debug\TrainingAccounting.View.pdb
+D:\01.DH_SuPham\Lambda.Solution\TrainingAccounting.Main\bin\Debug\DevExpress.Data.v15.2.xml
+D:\01.DH_SuPham\Lambda.Solution\TrainingAccounting.Main\bin\Debug\DevExpress.Printing.v15.2.Core.xml
+D:\01.DH_SuPham\Lambda.Solution\TrainingAccounting.Main\bin\Debug\DevExpress.Utils.v15.2.xml
+D:\01.DH_SuPham\Lambda.Solution\TrainingAccounting.Main\bin\Debug\DevExpress.XtraBars.v15.2.xml
+D:\01.DH_SuPham\Lambda.Solution\TrainingAccounting.Main\bin\Debug\DevExpress.XtraEditors.v15.2.xml
+D:\01.DH_SuPham\Lambda.Solution\TrainingAccounting.Main\bin\Debug\DevExpress.XtraPrinting.v15.2.xml
+D:\01.DH_SuPham\Lambda.Solution\TrainingAccounting.Main\bin\Debug\DevExpress.XtraGrid.v15.2.xml
+D:\01.DH_SuPham\Lambda.Solution\TrainingAccounting.Main\bin\Debug\DevExpress.XtraLayout.v15.2.xml
+D:\01.DH_SuPham\Lambda.Solution\TrainingAccounting.Main\bin\Debug\DevExpress.XtraNavBar.v15.2.xml
+D:\01.DH_SuPham\Lambda.Solution\TrainingAccounting.Main\bin\Debug\Lambda.Framework.pdb
+D:\01.DH_SuPham\Lambda.Solution\TrainingAccounting.Main\bin\Debug\de\DevExpress.Data.v15.2.resources.dll
+D:\01.DH_SuPham\Lambda.Solution\TrainingAccounting.Main\bin\Debug\es\DevExpress.Data.v15.2.resources.dll
+D:\01.DH_SuPham\Lambda.Solution\TrainingAccounting.Main\bin\Debug\ja\DevExpress.Data.v15.2.resources.dll
+D:\01.DH_SuPham\Lambda.Solution\TrainingAccounting.Main\bin\Debug\ru\DevExpress.Data.v15.2.resources.dll
+D:\01.DH_SuPham\Lambda.Solution\TrainingAccounting.Main\bin\Debug\de\DevExpress.Printing.v15.2.Core.resources.dll
+D:\01.DH_SuPham\Lambda.Solution\TrainingAccounting.Main\bin\Debug\es\DevExpress.Printing.v15.2.Core.resources.dll
+D:\01.DH_SuPham\Lambda.Solution\TrainingAccounting.Main\bin\Debug\ja\DevExpress.Printing.v15.2.Core.resources.dll
+D:\01.DH_SuPham\Lambda.Solution\TrainingAccounting.Main\bin\Debug\ru\DevExpress.Printing.v15.2.Core.resources.dll
+D:\01.DH_SuPham\Lambda.Solution\TrainingAccounting.Main\bin\Debug\de\DevExpress.Utils.v15.2.resources.dll
+D:\01.DH_SuPham\Lambda.Solution\TrainingAccounting.Main\bin\Debug\es\DevExpress.Utils.v15.2.resources.dll
+D:\01.DH_SuPham\Lambda.Solution\TrainingAccounting.Main\bin\Debug\ja\DevExpress.Utils.v15.2.resources.dll
+D:\01.DH_SuPham\Lambda.Solution\TrainingAccounting.Main\bin\Debug\ru\DevExpress.Utils.v15.2.resources.dll
+D:\01.DH_SuPham\Lambda.Solution\TrainingAccounting.Main\bin\Debug\de\DevExpress.XtraBars.v15.2.resources.dll
+D:\01.DH_SuPham\Lambda.Solution\TrainingAccounting.Main\bin\Debug\es\DevExpress.XtraBars.v15.2.resources.dll
+D:\01.DH_SuPham\Lambda.Solution\TrainingAccounting.Main\bin\Debug\ja\DevExpress.XtraBars.v15.2.resources.dll
+D:\01.DH_SuPham\Lambda.Solution\TrainingAccounting.Main\bin\Debug\ru\DevExpress.XtraBars.v15.2.resources.dll
+D:\01.DH_SuPham\Lambda.Solution\TrainingAccounting.Main\bin\Debug\de\DevExpress.XtraEditors.v15.2.resources.dll
+D:\01.DH_SuPham\Lambda.Solution\TrainingAccounting.Main\bin\Debug\es\DevExpress.XtraEditors.v15.2.resources.dll
+D:\01.DH_SuPham\Lambda.Solution\TrainingAccounting.Main\bin\Debug\ja\DevExpress.XtraEditors.v15.2.resources.dll
+D:\01.DH_SuPham\Lambda.Solution\TrainingAccounting.Main\bin\Debug\ru\DevExpress.XtraEditors.v15.2.resources.dll
+D:\01.DH_SuPham\Lambda.Solution\TrainingAccounting.Main\bin\Debug\de\DevExpress.XtraPrinting.v15.2.resources.dll
+D:\01.DH_SuPham\Lambda.Solution\TrainingAccounting.Main\bin\Debug\es\DevExpress.XtraPrinting.v15.2.resources.dll
+D:\01.DH_SuPham\Lambda.Solution\TrainingAccounting.Main\bin\Debug\ja\DevExpress.XtraPrinting.v15.2.resources.dll
+D:\01.DH_SuPham\Lambda.Solution\TrainingAccounting.Main\bin\Debug\ru\DevExpress.XtraPrinting.v15.2.resources.dll
+D:\01.DH_SuPham\Lambda.Solution\TrainingAccounting.Main\bin\Debug\de\DevExpress.XtraGrid.v15.2.resources.dll
+D:\01.DH_SuPham\Lambda.Solution\TrainingAccounting.Main\bin\Debug\es\DevExpress.XtraGrid.v15.2.resources.dll
+D:\01.DH_SuPham\Lambda.Solution\TrainingAccounting.Main\bin\Debug\ja\DevExpress.XtraGrid.v15.2.resources.dll
+D:\01.DH_SuPham\Lambda.Solution\TrainingAccounting.Main\bin\Debug\ru\DevExpress.XtraGrid.v15.2.resources.dll
+D:\01.DH_SuPham\Lambda.Solution\TrainingAccounting.Main\bin\Debug\de\DevExpress.XtraLayout.v15.2.resources.dll
+D:\01.DH_SuPham\Lambda.Solution\TrainingAccounting.Main\bin\Debug\es\DevExpress.XtraLayout.v15.2.resources.dll
+D:\01.DH_SuPham\Lambda.Solution\TrainingAccounting.Main\bin\Debug\ja\DevExpress.XtraLayout.v15.2.resources.dll
+D:\01.DH_SuPham\Lambda.Solution\TrainingAccounting.Main\bin\Debug\ru\DevExpress.XtraLayout.v15.2.resources.dll
+D:\01.DH_SuPham\Lambda.Solution\TrainingAccounting.Main\bin\Debug\de\DevExpress.XtraNavBar.v15.2.resources.dll
+D:\01.DH_SuPham\Lambda.Solution\TrainingAccounting.Main\bin\Debug\es\DevExpress.XtraNavBar.v15.2.resources.dll
+D:\01.DH_SuPham\Lambda.Solution\TrainingAccounting.Main\bin\Debug\ja\DevExpress.XtraNavBar.v15.2.resources.dll
+D:\01.DH_SuPham\Lambda.Solution\TrainingAccounting.Main\bin\Debug\ru\DevExpress.XtraNavBar.v15.2.resources.dll
+D:\01.DH_SuPham\Lambda.Solution\TrainingAccounting.Main\obj\Debug\TrainingAccounting.Main.csprojResolveAssemblyReference.cache
+D:\01.DH_SuPham\Lambda.Solution\TrainingAccounting.Main\obj\Debug\TrainingAccounting.Main.LoginForm.resources
+D:\01.DH_SuPham\Lambda.Solution\TrainingAccounting.Main\obj\Debug\TrainingAccounting.Solution.MainForm.resources
+D:\01.DH_SuPham\Lambda.Solution\TrainingAccounting.Main\obj\Debug\TrainingAccounting.Main.Properties.Resources.resources
+D:\01.DH_SuPham\Lambda.Solution\TrainingAccounting.Main\obj\Debug\TrainingAccounting.Main.csproj.GenerateResource.Cache
+D:\01.DH_SuPham\Lambda.Solution\TrainingAccounting.Main\obj\Debug\TrainingAccounting.Main.exe.licenses
+D:\01.DH_SuPham\Lambda.Solution\TrainingAccounting.Main\obj\Debug\TrainingAccounting.Main.exe
+D:\01.DH_SuPham\Lambda.Solution\TrainingAccounting.Main\obj\Debug\TrainingAccounting.Main.pdb

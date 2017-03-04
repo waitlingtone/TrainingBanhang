@@ -1,0 +1,15 @@
+D:\tuantp@live.com\Dropbox\Cong nghe\BMIFramework\AutoService\bin\Release\AutoService.dll
+D:\tuantp@live.com\Dropbox\Cong nghe\BMIFramework\AutoService\bin\Release\AutoService.pdb
+D:\tuantp@live.com\Dropbox\Cong nghe\BMIFramework\AutoService\bin\Release\AutoFramework.dll
+D:\tuantp@live.com\Dropbox\Cong nghe\BMIFramework\AutoService\bin\Release\BusinessObject.dll
+D:\tuantp@live.com\Dropbox\Cong nghe\BMIFramework\AutoService\bin\Release\CoreService.dll
+D:\tuantp@live.com\Dropbox\Cong nghe\BMIFramework\AutoService\bin\Release\DataObject.dll
+D:\tuantp@live.com\Dropbox\Cong nghe\BMIFramework\AutoService\bin\Release\AutoFramework.pdb
+D:\tuantp@live.com\Dropbox\Cong nghe\BMIFramework\AutoService\bin\Release\BusinessObject.pdb
+D:\tuantp@live.com\Dropbox\Cong nghe\BMIFramework\AutoService\bin\Release\CoreService.pdb
+D:\tuantp@live.com\Dropbox\Cong nghe\BMIFramework\AutoService\bin\Release\DataObject.pdb
+D:\tuantp@live.com\Dropbox\Cong nghe\BMIFramework\AutoService\obj\Release\3. AutoService.csprojResolveAssemblyReference.cache
+D:\tuantp@live.com\Dropbox\Cong nghe\BMIFramework\AutoService\obj\Release\AutoService.dll
+D:\tuantp@live.com\Dropbox\Cong nghe\BMIFramework\AutoService\obj\Release\AutoService.pdb
+D:\tuantp@live.com\Dropbox\Cong nghe\LambdaFramework\AutoService\obj\Release\3. AutoService.csprojResolveAssemblyReference.cache
+D:\tuantp@live.com\Dropbox\Cong nghe\LambdaFramework\AutoService\obj\Release\AutoService.dll

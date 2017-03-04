@@ -1,0 +1,86 @@
+D:\Dropbox\UIS_HCMUP\Phanquyen.Solution\Phanquyen.Presenter\bin\Debug\Phanquyen.Presenter.dll
+D:\Dropbox\UIS_HCMUP\Phanquyen.Solution\Phanquyen.Presenter\bin\Debug\Phanquyen.Presenter.pdb
+D:\Dropbox\UIS_HCMUP\Phanquyen.Solution\Phanquyen.Presenter\obj\Debug\Phanquyen.Presenter.csprojResolveAssemblyReference.cache
+D:\Dropbox\UIS_HCMUP\Phanquyen.Solution\Phanquyen.Presenter\obj\Debug\Phanquyen.Presenter.dll
+D:\Dropbox\UIS_HCMUP\Phanquyen.Solution\Phanquyen.Presenter\obj\Debug\Phanquyen.Presenter.pdb
+D:\Dropbox\UIS_HCMUP\Phanquyen.Solution\Phanquyen.Presenter\bin\Debug\Lambda.BusinessObject.dll
+D:\Dropbox\UIS_HCMUP\Phanquyen.Solution\Phanquyen.Presenter\bin\Debug\Lambda.ClientModel.dll
+D:\Dropbox\UIS_HCMUP\Phanquyen.Solution\Phanquyen.Presenter\bin\Debug\Phanquyen.Model.dll
+D:\Dropbox\UIS_HCMUP\Phanquyen.Solution\Phanquyen.Presenter\bin\Debug\Phanquyen.View.dll
+D:\Dropbox\UIS_HCMUP\Phanquyen.Solution\Phanquyen.Presenter\bin\Debug\Lambda.Framework.dll
+D:\Dropbox\UIS_HCMUP\Phanquyen.Solution\Phanquyen.Presenter\bin\Debug\Lambda.CoreService.dll
+D:\Dropbox\UIS_HCMUP\Phanquyen.Solution\Phanquyen.Presenter\bin\Debug\Lambda.AutoService.dll
+D:\Dropbox\UIS_HCMUP\Phanquyen.Solution\Phanquyen.Presenter\bin\Debug\Lambda.DataObject.dll
+D:\Dropbox\UIS_HCMUP\Phanquyen.Solution\Phanquyen.Presenter\bin\Debug\Lambda.DynamicLoad.dll
+D:\Dropbox\UIS_HCMUP\Phanquyen.Solution\Phanquyen.Presenter\bin\Debug\Phanquyen.Model.pdb
+D:\Dropbox\UIS_HCMUP\Phanquyen.Solution\Phanquyen.Presenter\bin\Debug\Phanquyen.View.pdb
+D:\Dropbox\LUIS\Phanquyen.Solution\Phanquyen.Presenter\bin\Debug\Phanquyen.Presenter.dll
+D:\Dropbox\LUIS\Phanquyen.Solution\Phanquyen.Presenter\bin\Debug\Phanquyen.Presenter.pdb
+D:\Dropbox\LUIS\Phanquyen.Solution\Phanquyen.Presenter\bin\Debug\Lambda.BusinessObject.dll
+D:\Dropbox\LUIS\Phanquyen.Solution\Phanquyen.Presenter\bin\Debug\Lambda.ClientModel.dll
+D:\Dropbox\LUIS\Phanquyen.Solution\Phanquyen.Presenter\bin\Debug\Phanquyen.Model.dll
+D:\Dropbox\LUIS\Phanquyen.Solution\Phanquyen.Presenter\bin\Debug\Phanquyen.View.dll
+D:\Dropbox\LUIS\Phanquyen.Solution\Phanquyen.Presenter\bin\Debug\Lambda.Framework.dll
+D:\Dropbox\LUIS\Phanquyen.Solution\Phanquyen.Presenter\bin\Debug\Lambda.CoreService.dll
+D:\Dropbox\LUIS\Phanquyen.Solution\Phanquyen.Presenter\bin\Debug\Lambda.AutoService.dll
+D:\Dropbox\LUIS\Phanquyen.Solution\Phanquyen.Presenter\bin\Debug\Lambda.DataObject.dll
+D:\Dropbox\LUIS\Phanquyen.Solution\Phanquyen.Presenter\bin\Debug\Lambda.DynamicLoad.dll
+D:\Dropbox\LUIS\Phanquyen.Solution\Phanquyen.Presenter\bin\Debug\Phanquyen.Model.pdb
+D:\Dropbox\LUIS\Phanquyen.Solution\Phanquyen.Presenter\bin\Debug\Phanquyen.View.pdb
+D:\Dropbox\LUIS\Phanquyen.Solution\Phanquyen.Presenter\obj\Debug\Phanquyen.Presenter.csprojResolveAssemblyReference.cache
+D:\Dropbox\LUIS\Phanquyen.Solution\Phanquyen.Presenter\obj\Debug\Phanquyen.Presenter.dll
+D:\Dropbox\LUIS\Phanquyen.Solution\Phanquyen.Presenter\obj\Debug\Phanquyen.Presenter.pdb
+D:\Dropbox\QL DAY & HOC\Phanquyen.Solution\Phanquyen.Presenter\bin\Debug\Phanquyen.Presenter.dll
+D:\Dropbox\QL DAY & HOC\Phanquyen.Solution\Phanquyen.Presenter\bin\Debug\Phanquyen.Presenter.pdb
+D:\Dropbox\QL DAY & HOC\Phanquyen.Solution\Phanquyen.Presenter\bin\Debug\Lambda.BusinessObject.dll
+D:\Dropbox\QL DAY & HOC\Phanquyen.Solution\Phanquyen.Presenter\bin\Debug\Lambda.ClientModel.dll
+D:\Dropbox\QL DAY & HOC\Phanquyen.Solution\Phanquyen.Presenter\bin\Debug\Phanquyen.Model.dll
+D:\Dropbox\QL DAY & HOC\Phanquyen.Solution\Phanquyen.Presenter\bin\Debug\Phanquyen.View.dll
+D:\Dropbox\QL DAY & HOC\Phanquyen.Solution\Phanquyen.Presenter\bin\Debug\Lambda.Framework.dll
+D:\Dropbox\QL DAY & HOC\Phanquyen.Solution\Phanquyen.Presenter\bin\Debug\Lambda.CoreService.dll
+D:\Dropbox\QL DAY & HOC\Phanquyen.Solution\Phanquyen.Presenter\bin\Debug\Lambda.AutoService.dll
+D:\Dropbox\QL DAY & HOC\Phanquyen.Solution\Phanquyen.Presenter\bin\Debug\Lambda.DataObject.dll
+D:\Dropbox\QL DAY & HOC\Phanquyen.Solution\Phanquyen.Presenter\bin\Debug\Lambda.DynamicLoad.dll
+D:\Dropbox\QL DAY & HOC\Phanquyen.Solution\Phanquyen.Presenter\bin\Debug\Phanquyen.Model.pdb
+D:\Dropbox\QL DAY & HOC\Phanquyen.Solution\Phanquyen.Presenter\bin\Debug\Phanquyen.View.pdb
+D:\Dropbox\QL DAY & HOC\Phanquyen.Solution\Phanquyen.Presenter\obj\Debug\Phanquyen.Presenter.csprojResolveAssemblyReference.cache
+D:\Dropbox\QL DAY & HOC\Phanquyen.Solution\Phanquyen.Presenter\obj\Debug\Phanquyen.Presenter.dll
+D:\Dropbox\QL DAY & HOC\Phanquyen.Solution\Phanquyen.Presenter\obj\Debug\Phanquyen.Presenter.pdb
+E:\____Downloads\20170117_trainingaccount\SourceCode\Lambda.Solution\Phanquyen.Presenter\bin\Debug\Phanquyen.Presenter.dll
+E:\____Downloads\20170117_trainingaccount\SourceCode\Lambda.Solution\Phanquyen.Presenter\bin\Debug\Phanquyen.Presenter.pdb
+E:\____Downloads\20170117_trainingaccount\SourceCode\Lambda.Solution\Phanquyen.Presenter\bin\Debug\Phanquyen.Model.dll
+E:\____Downloads\20170117_trainingaccount\SourceCode\Lambda.Solution\Phanquyen.Presenter\bin\Debug\Phanquyen.View.dll
+E:\____Downloads\20170117_trainingaccount\SourceCode\Lambda.Solution\Phanquyen.Presenter\bin\Debug\Phanquyen.Model.pdb
+E:\____Downloads\20170117_trainingaccount\SourceCode\Lambda.Solution\Phanquyen.Presenter\bin\Debug\Phanquyen.View.pdb
+E:\____Downloads\20170117_trainingaccount\SourceCode\Lambda.Solution\Phanquyen.Presenter\obj\Debug\Phanquyen.Presenter.csprojResolveAssemblyReference.cache
+E:\____Downloads\20170117_trainingaccount\SourceCode\Lambda.Solution\Phanquyen.Presenter\obj\Debug\Phanquyen.Presenter.dll
+E:\____Downloads\20170117_trainingaccount\SourceCode\Lambda.Solution\Phanquyen.Presenter\obj\Debug\Phanquyen.Presenter.pdb
+E:\____Downloads\20170117_trainingaccount\SourceCode\Lambda.Solution\Phanquyen.Presenter\bin\Debug\Lambda.BusinessObject.dll
+E:\____Downloads\20170117_trainingaccount\SourceCode\Lambda.Solution\Phanquyen.Presenter\bin\Debug\Lambda.ClientModel.dll
+E:\____Downloads\20170117_trainingaccount\SourceCode\Lambda.Solution\Phanquyen.Presenter\bin\Debug\Lambda.Framework.dll
+E:\____Downloads\20170117_trainingaccount\SourceCode\Lambda.Solution\Phanquyen.Presenter\bin\Debug\Lambda.CoreService.dll
+E:\____Downloads\20170117_trainingaccount\SourceCode\Lambda.Solution\Phanquyen.Presenter\bin\Debug\Lambda.DynamicLoad.dll
+E:\____Downloads\20170117_trainingaccount\SourceCode\Lambda.Solution\Phanquyen.Presenter\bin\Debug\Lambda.BusinessObject.pdb
+E:\____Downloads\20170117_trainingaccount\SourceCode\Lambda.Solution\Phanquyen.Presenter\bin\Debug\Lambda.ClientModel.pdb
+E:\____Downloads\20170117_trainingaccount\SourceCode\Lambda.Solution\Phanquyen.Presenter\bin\Debug\Lambda.Framework.pdb
+E:\____Downloads\20170117_trainingaccount\SourceCode\Lambda.Solution\Phanquyen.Presenter\bin\Debug\Lambda.CoreService.pdb
+E:\____Downloads\20170117_trainingaccount\SourceCode\Lambda.Solution\Phanquyen.Presenter\bin\Debug\Lambda.DynamicLoad.pdb
+D:\01.DH_SuPham\Lambda.Solution\Phanquyen.Presenter\bin\Debug\Phanquyen.Presenter.dll
+D:\01.DH_SuPham\Lambda.Solution\Phanquyen.Presenter\bin\Debug\Phanquyen.Presenter.pdb
+D:\01.DH_SuPham\Lambda.Solution\Phanquyen.Presenter\bin\Debug\Lambda.BusinessObject.dll
+D:\01.DH_SuPham\Lambda.Solution\Phanquyen.Presenter\bin\Debug\Lambda.ClientModel.dll
+D:\01.DH_SuPham\Lambda.Solution\Phanquyen.Presenter\bin\Debug\Phanquyen.Model.dll
+D:\01.DH_SuPham\Lambda.Solution\Phanquyen.Presenter\bin\Debug\Phanquyen.View.dll
+D:\01.DH_SuPham\Lambda.Solution\Phanquyen.Presenter\bin\Debug\Lambda.Framework.dll
+D:\01.DH_SuPham\Lambda.Solution\Phanquyen.Presenter\bin\Debug\Lambda.CoreService.dll
+D:\01.DH_SuPham\Lambda.Solution\Phanquyen.Presenter\bin\Debug\Lambda.DynamicLoad.dll
+D:\01.DH_SuPham\Lambda.Solution\Phanquyen.Presenter\bin\Debug\Lambda.BusinessObject.pdb
+D:\01.DH_SuPham\Lambda.Solution\Phanquyen.Presenter\bin\Debug\Lambda.ClientModel.pdb
+D:\01.DH_SuPham\Lambda.Solution\Phanquyen.Presenter\bin\Debug\Phanquyen.Model.pdb
+D:\01.DH_SuPham\Lambda.Solution\Phanquyen.Presenter\bin\Debug\Phanquyen.View.pdb
+D:\01.DH_SuPham\Lambda.Solution\Phanquyen.Presenter\bin\Debug\Lambda.Framework.pdb
+D:\01.DH_SuPham\Lambda.Solution\Phanquyen.Presenter\bin\Debug\Lambda.CoreService.pdb
+D:\01.DH_SuPham\Lambda.Solution\Phanquyen.Presenter\bin\Debug\Lambda.DynamicLoad.pdb
+D:\01.DH_SuPham\Lambda.Solution\Phanquyen.Presenter\obj\Debug\Phanquyen.Presenter.csprojResolveAssemblyReference.cache
+D:\01.DH_SuPham\Lambda.Solution\Phanquyen.Presenter\obj\Debug\Phanquyen.Presenter.dll
+D:\01.DH_SuPham\Lambda.Solution\Phanquyen.Presenter\obj\Debug\Phanquyen.Presenter.pdb

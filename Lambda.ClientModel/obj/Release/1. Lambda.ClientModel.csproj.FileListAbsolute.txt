@@ -1,0 +1,13 @@
+D:\tuantp@live.com\Dropbox\Cong nghe\LambdaFramework\Lambda.ClientModel\bin\Release\Lambda.ClientModel.dll
+D:\tuantp@live.com\Dropbox\Cong nghe\LambdaFramework\Lambda.ClientModel\bin\Release\Lambda.ClientModel.pdb
+D:\tuantp@live.com\Dropbox\Cong nghe\LambdaFramework\Lambda.ClientModel\bin\Release\Lambda.BusinessObject.dll
+D:\tuantp@live.com\Dropbox\Cong nghe\LambdaFramework\Lambda.ClientModel\bin\Release\Lambda.CoreService.dll
+D:\tuantp@live.com\Dropbox\Cong nghe\LambdaFramework\Lambda.ClientModel\bin\Release\Lambda.DynamicLoad.dll
+D:\tuantp@live.com\Dropbox\Cong nghe\LambdaFramework\Lambda.ClientModel\bin\Release\Lambda.Framework.dll
+D:\tuantp@live.com\Dropbox\Cong nghe\LambdaFramework\Lambda.ClientModel\bin\Release\Lambda.BusinessObject.pdb
+D:\tuantp@live.com\Dropbox\Cong nghe\LambdaFramework\Lambda.ClientModel\bin\Release\Lambda.CoreService.pdb
+D:\tuantp@live.com\Dropbox\Cong nghe\LambdaFramework\Lambda.ClientModel\bin\Release\Lambda.DynamicLoad.pdb
+D:\tuantp@live.com\Dropbox\Cong nghe\LambdaFramework\Lambda.ClientModel\bin\Release\Lambda.Framework.pdb
+D:\tuantp@live.com\Dropbox\Cong nghe\LambdaFramework\Lambda.ClientModel\obj\Release\1. Lambda.ClientModel.csprojResolveAssemblyReference.cache
+D:\tuantp@live.com\Dropbox\Cong nghe\LambdaFramework\Lambda.ClientModel\obj\Release\Lambda.ClientModel.dll
+D:\tuantp@live.com\Dropbox\Cong nghe\LambdaFramework\Lambda.ClientModel\obj\Release\Lambda.ClientModel.pdb

@@ -1,0 +1,35 @@
+D:\tuantp@live.com\Dropbox\Cong nghe\LambdaFramework\Lambda.DataObject\bin\Debug\Lambda.DataObject.dll
+D:\tuantp@live.com\Dropbox\Cong nghe\LambdaFramework\Lambda.DataObject\bin\Debug\Lambda.DataObject.pdb
+D:\tuantp@live.com\Dropbox\Cong nghe\LambdaFramework\Lambda.DataObject\bin\Debug\Lambda.BusinessObject.dll
+D:\tuantp@live.com\Dropbox\Cong nghe\LambdaFramework\Lambda.DataObject\bin\Debug\Lambda.Framework.dll
+D:\tuantp@live.com\Dropbox\Cong nghe\LambdaFramework\Lambda.DataObject\bin\Debug\Lambda.BusinessObject.pdb
+D:\tuantp@live.com\Dropbox\Cong nghe\LambdaFramework\Lambda.DataObject\bin\Debug\Lambda.Framework.pdb
+D:\tuantp@live.com\Dropbox\Cong nghe\LambdaFramework\Lambda.DataObject\obj\Debug\5. Lambda.DataObject.csprojResolveAssemblyReference.cache
+D:\tuantp@live.com\Dropbox\Cong nghe\LambdaFramework\Lambda.DataObject\obj\Debug\Lambda.DataObject.dll
+D:\tuantp@live.com\Dropbox\Cong nghe\LambdaFramework\Lambda.DataObject\obj\Debug\Lambda.DataObject.pdb
+E:\____Downloads\20170117_trainingaccount\SourceCode\Lambda.Solution\Lambda.DataObject\bin\Debug\Lambda.DataObject.dll
+E:\____Downloads\20170117_trainingaccount\SourceCode\Lambda.Solution\Lambda.DataObject\bin\Debug\Lambda.DataObject.pdb
+E:\____Downloads\20170117_trainingaccount\SourceCode\Lambda.Solution\Lambda.DataObject\bin\Debug\Lambda.BusinessObject.dll
+E:\____Downloads\20170117_trainingaccount\SourceCode\Lambda.Solution\Lambda.DataObject\bin\Debug\Lambda.CoreService.dll
+E:\____Downloads\20170117_trainingaccount\SourceCode\Lambda.Solution\Lambda.DataObject\bin\Debug\Lambda.DynamicLoad.dll
+E:\____Downloads\20170117_trainingaccount\SourceCode\Lambda.Solution\Lambda.DataObject\bin\Debug\Lambda.Framework.dll
+E:\____Downloads\20170117_trainingaccount\SourceCode\Lambda.Solution\Lambda.DataObject\bin\Debug\Lambda.BusinessObject.pdb
+E:\____Downloads\20170117_trainingaccount\SourceCode\Lambda.Solution\Lambda.DataObject\bin\Debug\Lambda.CoreService.pdb
+E:\____Downloads\20170117_trainingaccount\SourceCode\Lambda.Solution\Lambda.DataObject\bin\Debug\Lambda.DynamicLoad.pdb
+E:\____Downloads\20170117_trainingaccount\SourceCode\Lambda.Solution\Lambda.DataObject\bin\Debug\Lambda.Framework.pdb
+E:\____Downloads\20170117_trainingaccount\SourceCode\Lambda.Solution\Lambda.DataObject\obj\Debug\5. Lambda.DataObject.csprojResolveAssemblyReference.cache
+E:\____Downloads\20170117_trainingaccount\SourceCode\Lambda.Solution\Lambda.DataObject\obj\Debug\Lambda.DataObject.dll
+E:\____Downloads\20170117_trainingaccount\SourceCode\Lambda.Solution\Lambda.DataObject\obj\Debug\Lambda.DataObject.pdb
+D:\01.DH_SuPham\Lambda.Solution\Lambda.DataObject\bin\Debug\Lambda.DataObject.dll
+D:\01.DH_SuPham\Lambda.Solution\Lambda.DataObject\bin\Debug\Lambda.DataObject.pdb
+D:\01.DH_SuPham\Lambda.Solution\Lambda.DataObject\bin\Debug\Lambda.BusinessObject.dll
+D:\01.DH_SuPham\Lambda.Solution\Lambda.DataObject\bin\Debug\Lambda.CoreService.dll
+D:\01.DH_SuPham\Lambda.Solution\Lambda.DataObject\bin\Debug\Lambda.DynamicLoad.dll
+D:\01.DH_SuPham\Lambda.Solution\Lambda.DataObject\bin\Debug\Lambda.Framework.dll
+D:\01.DH_SuPham\Lambda.Solution\Lambda.DataObject\bin\Debug\Lambda.BusinessObject.pdb
+D:\01.DH_SuPham\Lambda.Solution\Lambda.DataObject\bin\Debug\Lambda.CoreService.pdb
+D:\01.DH_SuPham\Lambda.Solution\Lambda.DataObject\bin\Debug\Lambda.DynamicLoad.pdb
+D:\01.DH_SuPham\Lambda.Solution\Lambda.DataObject\bin\Debug\Lambda.Framework.pdb
+D:\01.DH_SuPham\Lambda.Solution\Lambda.DataObject\obj\Debug\5. Lambda.DataObject.csprojResolveAssemblyReference.cache
+D:\01.DH_SuPham\Lambda.Solution\Lambda.DataObject\obj\Debug\Lambda.DataObject.dll
+D:\01.DH_SuPham\Lambda.Solution\Lambda.DataObject\obj\Debug\Lambda.DataObject.pdb

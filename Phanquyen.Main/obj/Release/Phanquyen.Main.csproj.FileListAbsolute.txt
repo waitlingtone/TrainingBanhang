@@ -1,0 +1,160 @@
+D:\Dropbox\QL DAY & HOC\Phanquyen.Solution\Phanquyen.Main\bin\Release\Phanquyen.Main.exe.config
+D:\Dropbox\QL DAY & HOC\Phanquyen.Solution\Phanquyen.Main\bin\Release\Phanquyen.Main.exe
+D:\Dropbox\QL DAY & HOC\Phanquyen.Solution\Phanquyen.Main\bin\Release\Phanquyen.Main.pdb
+D:\Dropbox\QL DAY & HOC\Phanquyen.Solution\Phanquyen.Main\bin\Release\Lambda.BusinessObject.dll
+D:\Dropbox\QL DAY & HOC\Phanquyen.Solution\Phanquyen.Main\bin\Release\Lambda.ClientModel.dll
+D:\Dropbox\QL DAY & HOC\Phanquyen.Solution\Phanquyen.Main\bin\Release\Phanquyen.Forms.dll
+D:\Dropbox\QL DAY & HOC\Phanquyen.Solution\Phanquyen.Main\bin\Release\Phanquyen.View.dll
+D:\Dropbox\QL DAY & HOC\Phanquyen.Solution\Phanquyen.Main\bin\Release\Phanquyen.Presenter.dll
+D:\Dropbox\QL DAY & HOC\Phanquyen.Solution\Phanquyen.Main\bin\Release\Phanquyen.Model.dll
+D:\Dropbox\QL DAY & HOC\Phanquyen.Solution\Phanquyen.Main\bin\Release\Lambda.DynamicLoad.dll
+D:\Dropbox\QL DAY & HOC\Phanquyen.Solution\Phanquyen.Main\bin\Release\Lambda.Framework.dll
+D:\Dropbox\QL DAY & HOC\Phanquyen.Solution\Phanquyen.Main\bin\Release\Lambda.CoreService.dll
+D:\Dropbox\QL DAY & HOC\Phanquyen.Solution\Phanquyen.Main\bin\Release\Lambda.AutoService.dll
+D:\Dropbox\QL DAY & HOC\Phanquyen.Solution\Phanquyen.Main\bin\Release\Lambda.DataObject.dll
+D:\Dropbox\QL DAY & HOC\Phanquyen.Solution\Phanquyen.Main\bin\Release\Phanquyen.Forms.pdb
+D:\Dropbox\QL DAY & HOC\Phanquyen.Solution\Phanquyen.Main\bin\Release\Phanquyen.View.pdb
+D:\Dropbox\QL DAY & HOC\Phanquyen.Solution\Phanquyen.Main\bin\Release\Phanquyen.Presenter.pdb
+D:\Dropbox\QL DAY & HOC\Phanquyen.Solution\Phanquyen.Main\bin\Release\Phanquyen.Model.pdb
+D:\Dropbox\QL DAY & HOC\Phanquyen.Solution\Phanquyen.Main\obj\Release\Phanquyen.Main.csprojResolveAssemblyReference.cache
+D:\Dropbox\QL DAY & HOC\Phanquyen.Solution\Phanquyen.Main\obj\Release\Phanquyen.Main.MainForm.resources
+D:\Dropbox\QL DAY & HOC\Phanquyen.Solution\Phanquyen.Main\obj\Release\Phanquyen.Main.Properties.Resources.resources
+D:\Dropbox\QL DAY & HOC\Phanquyen.Solution\Phanquyen.Main\obj\Release\Phanquyen.Main.csproj.GenerateResource.Cache
+D:\Dropbox\QL DAY & HOC\Phanquyen.Solution\Phanquyen.Main\obj\Release\Phanquyen.Main.exe.licenses
+D:\Dropbox\QL DAY & HOC\Phanquyen.Solution\Phanquyen.Main\obj\Release\Phanquyen.Main.exe
+D:\Dropbox\QL DAY & HOC\Phanquyen.Solution\Phanquyen.Main\obj\Release\Phanquyen.Main.pdb
+D:\Dropbox\QL DAY & HOC\Phanquyen.Solution\Phanquyen.Main\bin\Release\DevExpress.BonusSkins.v12.2.dll
+D:\Dropbox\QL DAY & HOC\Phanquyen.Solution\Phanquyen.Main\bin\Release\DevExpress.Data.v12.2.dll
+D:\Dropbox\QL DAY & HOC\Phanquyen.Solution\Phanquyen.Main\bin\Release\DevExpress.Printing.v12.2.Core.dll
+D:\Dropbox\QL DAY & HOC\Phanquyen.Solution\Phanquyen.Main\bin\Release\DevExpress.Utils.v12.2.dll
+D:\Dropbox\QL DAY & HOC\Phanquyen.Solution\Phanquyen.Main\bin\Release\DevExpress.XtraBars.v12.2.dll
+D:\Dropbox\QL DAY & HOC\Phanquyen.Solution\Phanquyen.Main\bin\Release\DevExpress.XtraEditors.v12.2.dll
+D:\Dropbox\QL DAY & HOC\Phanquyen.Solution\Phanquyen.Main\bin\Release\DevExpress.XtraGrid.v12.2.dll
+D:\Dropbox\QL DAY & HOC\Phanquyen.Solution\Phanquyen.Main\bin\Release\DevExpress.XtraLayout.v12.2.dll
+D:\Dropbox\QL DAY & HOC\Phanquyen.Solution\Phanquyen.Main\bin\Release\DevExpress.XtraNavBar.v12.2.dll
+D:\Dropbox\QL DAY & HOC\Phanquyen.Solution\Phanquyen.Main\bin\Release\System.Data.dll
+D:\Dropbox\QL DAY & HOC\Phanquyen.Solution\Phanquyen.Main\bin\Release\System.Deployment.dll
+D:\Dropbox\QL DAY & HOC\Phanquyen.Solution\Phanquyen.Main\bin\Release\System.dll
+D:\Dropbox\QL DAY & HOC\Phanquyen.Solution\Phanquyen.Main\bin\Release\System.Drawing.dll
+D:\Dropbox\QL DAY & HOC\Phanquyen.Solution\Phanquyen.Main\bin\Release\System.Windows.Forms.dll
+D:\Dropbox\QL DAY & HOC\Phanquyen.Solution\Phanquyen.Main\bin\Release\System.Xml.dll
+D:\Dropbox\QL DAY & HOC\Phanquyen.Solution\Phanquyen.Main\bin\Release\DevExpress.Data.v12.2.xml
+D:\Dropbox\QL DAY & HOC\Phanquyen.Solution\Phanquyen.Main\bin\Release\DevExpress.Printing.v12.2.Core.xml
+D:\Dropbox\QL DAY & HOC\Phanquyen.Solution\Phanquyen.Main\bin\Release\DevExpress.Utils.v12.2.xml
+D:\Dropbox\QL DAY & HOC\Phanquyen.Solution\Phanquyen.Main\bin\Release\DevExpress.XtraBars.v12.2.xml
+D:\Dropbox\QL DAY & HOC\Phanquyen.Solution\Phanquyen.Main\bin\Release\DevExpress.XtraEditors.v12.2.xml
+D:\Dropbox\QL DAY & HOC\Phanquyen.Solution\Phanquyen.Main\bin\Release\DevExpress.XtraGrid.v12.2.xml
+D:\Dropbox\QL DAY & HOC\Phanquyen.Solution\Phanquyen.Main\bin\Release\DevExpress.XtraLayout.v12.2.xml
+D:\Dropbox\QL DAY & HOC\Phanquyen.Solution\Phanquyen.Main\bin\Release\DevExpress.XtraNavBar.v12.2.xml
+D:\Dropbox\QL DAY & HOC\Phanquyen.Solution\Phanquyen.Main\bin\Release\de\DevExpress.Data.v12.2.resources.dll
+D:\Dropbox\QL DAY & HOC\Phanquyen.Solution\Phanquyen.Main\bin\Release\es\DevExpress.Data.v12.2.resources.dll
+D:\Dropbox\QL DAY & HOC\Phanquyen.Solution\Phanquyen.Main\bin\Release\ja\DevExpress.Data.v12.2.resources.dll
+D:\Dropbox\QL DAY & HOC\Phanquyen.Solution\Phanquyen.Main\bin\Release\ru\DevExpress.Data.v12.2.resources.dll
+D:\Dropbox\QL DAY & HOC\Phanquyen.Solution\Phanquyen.Main\bin\Release\de\DevExpress.Printing.v12.2.Core.resources.dll
+D:\Dropbox\QL DAY & HOC\Phanquyen.Solution\Phanquyen.Main\bin\Release\es\DevExpress.Printing.v12.2.Core.resources.dll
+D:\Dropbox\QL DAY & HOC\Phanquyen.Solution\Phanquyen.Main\bin\Release\ja\DevExpress.Printing.v12.2.Core.resources.dll
+D:\Dropbox\QL DAY & HOC\Phanquyen.Solution\Phanquyen.Main\bin\Release\ru\DevExpress.Printing.v12.2.Core.resources.dll
+D:\Dropbox\QL DAY & HOC\Phanquyen.Solution\Phanquyen.Main\bin\Release\de\DevExpress.Utils.v12.2.resources.dll
+D:\Dropbox\QL DAY & HOC\Phanquyen.Solution\Phanquyen.Main\bin\Release\es\DevExpress.Utils.v12.2.resources.dll
+D:\Dropbox\QL DAY & HOC\Phanquyen.Solution\Phanquyen.Main\bin\Release\ja\DevExpress.Utils.v12.2.resources.dll
+D:\Dropbox\QL DAY & HOC\Phanquyen.Solution\Phanquyen.Main\bin\Release\ru\DevExpress.Utils.v12.2.resources.dll
+D:\Dropbox\QL DAY & HOC\Phanquyen.Solution\Phanquyen.Main\bin\Release\de\DevExpress.XtraBars.v12.2.resources.dll
+D:\Dropbox\QL DAY & HOC\Phanquyen.Solution\Phanquyen.Main\bin\Release\es\DevExpress.XtraBars.v12.2.resources.dll
+D:\Dropbox\QL DAY & HOC\Phanquyen.Solution\Phanquyen.Main\bin\Release\ja\DevExpress.XtraBars.v12.2.resources.dll
+D:\Dropbox\QL DAY & HOC\Phanquyen.Solution\Phanquyen.Main\bin\Release\ru\DevExpress.XtraBars.v12.2.resources.dll
+D:\Dropbox\QL DAY & HOC\Phanquyen.Solution\Phanquyen.Main\bin\Release\de\DevExpress.XtraEditors.v12.2.resources.dll
+D:\Dropbox\QL DAY & HOC\Phanquyen.Solution\Phanquyen.Main\bin\Release\es\DevExpress.XtraEditors.v12.2.resources.dll
+D:\Dropbox\QL DAY & HOC\Phanquyen.Solution\Phanquyen.Main\bin\Release\ja\DevExpress.XtraEditors.v12.2.resources.dll
+D:\Dropbox\QL DAY & HOC\Phanquyen.Solution\Phanquyen.Main\bin\Release\ru\DevExpress.XtraEditors.v12.2.resources.dll
+D:\Dropbox\QL DAY & HOC\Phanquyen.Solution\Phanquyen.Main\bin\Release\de\DevExpress.XtraGrid.v12.2.resources.dll
+D:\Dropbox\QL DAY & HOC\Phanquyen.Solution\Phanquyen.Main\bin\Release\es\DevExpress.XtraGrid.v12.2.resources.dll
+D:\Dropbox\QL DAY & HOC\Phanquyen.Solution\Phanquyen.Main\bin\Release\ja\DevExpress.XtraGrid.v12.2.resources.dll
+D:\Dropbox\QL DAY & HOC\Phanquyen.Solution\Phanquyen.Main\bin\Release\ru\DevExpress.XtraGrid.v12.2.resources.dll
+D:\Dropbox\QL DAY & HOC\Phanquyen.Solution\Phanquyen.Main\bin\Release\de\DevExpress.XtraLayout.v12.2.resources.dll
+D:\Dropbox\QL DAY & HOC\Phanquyen.Solution\Phanquyen.Main\bin\Release\es\DevExpress.XtraLayout.v12.2.resources.dll
+D:\Dropbox\QL DAY & HOC\Phanquyen.Solution\Phanquyen.Main\bin\Release\ja\DevExpress.XtraLayout.v12.2.resources.dll
+D:\Dropbox\QL DAY & HOC\Phanquyen.Solution\Phanquyen.Main\bin\Release\ru\DevExpress.XtraLayout.v12.2.resources.dll
+D:\Dropbox\QL DAY & HOC\Phanquyen.Solution\Phanquyen.Main\bin\Release\de\DevExpress.XtraNavBar.v12.2.resources.dll
+D:\Dropbox\QL DAY & HOC\Phanquyen.Solution\Phanquyen.Main\bin\Release\es\DevExpress.XtraNavBar.v12.2.resources.dll
+D:\Dropbox\QL DAY & HOC\Phanquyen.Solution\Phanquyen.Main\bin\Release\ja\DevExpress.XtraNavBar.v12.2.resources.dll
+D:\Dropbox\QL DAY & HOC\Phanquyen.Solution\Phanquyen.Main\bin\Release\ru\DevExpress.XtraNavBar.v12.2.resources.dll
+E:\____Downloads\20170117_trainingaccount\SourceCode\Phanquyen.Solution\Phanquyen.Main\bin\Release\Phanquyen.Main.exe.config
+E:\____Downloads\20170117_trainingaccount\SourceCode\Phanquyen.Solution\Phanquyen.Main\obj\Release\Phanquyen.Main.exe
+E:\____Downloads\20170117_trainingaccount\SourceCode\Phanquyen.Solution\Phanquyen.Main\obj\Release\Phanquyen.Main.pdb
+E:\____Downloads\20170117_trainingaccount\SourceCode\Phanquyen.Solution\Phanquyen.Main\obj\Release\Phanquyen.Main.csprojResolveAssemblyReference.cache
+E:\____Downloads\20170117_trainingaccount\SourceCode\Phanquyen.Solution\Phanquyen.Main\obj\Release\Phanquyen.Main.MainForm.resources
+E:\____Downloads\20170117_trainingaccount\SourceCode\Phanquyen.Solution\Phanquyen.Main\obj\Release\Phanquyen.Main.Properties.Resources.resources
+E:\____Downloads\20170117_trainingaccount\SourceCode\Phanquyen.Solution\Phanquyen.Main\obj\Release\Phanquyen.Main.csproj.GenerateResource.Cache
+E:\____Downloads\20170117_trainingaccount\SourceCode\Phanquyen.Solution\Phanquyen.Main\obj\Release\Phanquyen.Main.exe.licenses
+E:\____Downloads\20170117_trainingaccount\SourceCode\Phanquyen.Solution\Phanquyen.Main\bin\Release\Phanquyen.Main.exe
+E:\____Downloads\20170117_trainingaccount\SourceCode\Phanquyen.Solution\Phanquyen.Main\bin\Release\Phanquyen.Main.pdb
+E:\____Downloads\20170117_trainingaccount\SourceCode\Phanquyen.Solution\Phanquyen.Main\bin\Release\DevExpress.BonusSkins.v12.2.dll
+E:\____Downloads\20170117_trainingaccount\SourceCode\Phanquyen.Solution\Phanquyen.Main\bin\Release\DevExpress.Data.v12.2.dll
+E:\____Downloads\20170117_trainingaccount\SourceCode\Phanquyen.Solution\Phanquyen.Main\bin\Release\DevExpress.Printing.v12.2.Core.dll
+E:\____Downloads\20170117_trainingaccount\SourceCode\Phanquyen.Solution\Phanquyen.Main\bin\Release\DevExpress.Utils.v12.2.dll
+E:\____Downloads\20170117_trainingaccount\SourceCode\Phanquyen.Solution\Phanquyen.Main\bin\Release\DevExpress.XtraBars.v12.2.dll
+E:\____Downloads\20170117_trainingaccount\SourceCode\Phanquyen.Solution\Phanquyen.Main\bin\Release\DevExpress.XtraEditors.v12.2.dll
+E:\____Downloads\20170117_trainingaccount\SourceCode\Phanquyen.Solution\Phanquyen.Main\bin\Release\DevExpress.XtraGrid.v12.2.dll
+E:\____Downloads\20170117_trainingaccount\SourceCode\Phanquyen.Solution\Phanquyen.Main\bin\Release\DevExpress.XtraLayout.v12.2.dll
+E:\____Downloads\20170117_trainingaccount\SourceCode\Phanquyen.Solution\Phanquyen.Main\bin\Release\DevExpress.XtraNavBar.v12.2.dll
+E:\____Downloads\20170117_trainingaccount\SourceCode\Phanquyen.Solution\Phanquyen.Main\bin\Release\Lambda.BusinessObject.dll
+E:\____Downloads\20170117_trainingaccount\SourceCode\Phanquyen.Solution\Phanquyen.Main\bin\Release\Lambda.ClientModel.dll
+E:\____Downloads\20170117_trainingaccount\SourceCode\Phanquyen.Solution\Phanquyen.Main\bin\Release\Phanquyen.Forms.dll
+E:\____Downloads\20170117_trainingaccount\SourceCode\Phanquyen.Solution\Phanquyen.Main\bin\Release\Phanquyen.View.dll
+E:\____Downloads\20170117_trainingaccount\SourceCode\Phanquyen.Solution\Phanquyen.Main\bin\Release\System.Data.dll
+E:\____Downloads\20170117_trainingaccount\SourceCode\Phanquyen.Solution\Phanquyen.Main\bin\Release\System.Deployment.dll
+E:\____Downloads\20170117_trainingaccount\SourceCode\Phanquyen.Solution\Phanquyen.Main\bin\Release\System.dll
+E:\____Downloads\20170117_trainingaccount\SourceCode\Phanquyen.Solution\Phanquyen.Main\bin\Release\System.Drawing.dll
+E:\____Downloads\20170117_trainingaccount\SourceCode\Phanquyen.Solution\Phanquyen.Main\bin\Release\System.Windows.Forms.dll
+E:\____Downloads\20170117_trainingaccount\SourceCode\Phanquyen.Solution\Phanquyen.Main\bin\Release\System.Xml.dll
+E:\____Downloads\20170117_trainingaccount\SourceCode\Phanquyen.Solution\Phanquyen.Main\bin\Release\Phanquyen.Presenter.dll
+E:\____Downloads\20170117_trainingaccount\SourceCode\Phanquyen.Solution\Phanquyen.Main\bin\Release\Phanquyen.Model.dll
+E:\____Downloads\20170117_trainingaccount\SourceCode\Phanquyen.Solution\Phanquyen.Main\bin\Release\Lambda.DynamicLoad.dll
+E:\____Downloads\20170117_trainingaccount\SourceCode\Phanquyen.Solution\Phanquyen.Main\bin\Release\Lambda.Framework.dll
+E:\____Downloads\20170117_trainingaccount\SourceCode\Phanquyen.Solution\Phanquyen.Main\bin\Release\Lambda.CoreService.dll
+E:\____Downloads\20170117_trainingaccount\SourceCode\Phanquyen.Solution\Phanquyen.Main\bin\Release\Lambda.AutoService.dll
+E:\____Downloads\20170117_trainingaccount\SourceCode\Phanquyen.Solution\Phanquyen.Main\bin\Release\Lambda.DataObject.dll
+E:\____Downloads\20170117_trainingaccount\SourceCode\Phanquyen.Solution\Phanquyen.Main\bin\Release\Phanquyen.Forms.pdb
+E:\____Downloads\20170117_trainingaccount\SourceCode\Phanquyen.Solution\Phanquyen.Main\bin\Release\Phanquyen.View.pdb
+E:\____Downloads\20170117_trainingaccount\SourceCode\Phanquyen.Solution\Phanquyen.Main\bin\Release\DevExpress.Data.v12.2.xml
+E:\____Downloads\20170117_trainingaccount\SourceCode\Phanquyen.Solution\Phanquyen.Main\bin\Release\DevExpress.Printing.v12.2.Core.xml
+E:\____Downloads\20170117_trainingaccount\SourceCode\Phanquyen.Solution\Phanquyen.Main\bin\Release\DevExpress.Utils.v12.2.xml
+E:\____Downloads\20170117_trainingaccount\SourceCode\Phanquyen.Solution\Phanquyen.Main\bin\Release\DevExpress.XtraBars.v12.2.xml
+E:\____Downloads\20170117_trainingaccount\SourceCode\Phanquyen.Solution\Phanquyen.Main\bin\Release\DevExpress.XtraEditors.v12.2.xml
+E:\____Downloads\20170117_trainingaccount\SourceCode\Phanquyen.Solution\Phanquyen.Main\bin\Release\DevExpress.XtraGrid.v12.2.xml
+E:\____Downloads\20170117_trainingaccount\SourceCode\Phanquyen.Solution\Phanquyen.Main\bin\Release\DevExpress.XtraLayout.v12.2.xml
+E:\____Downloads\20170117_trainingaccount\SourceCode\Phanquyen.Solution\Phanquyen.Main\bin\Release\DevExpress.XtraNavBar.v12.2.xml
+E:\____Downloads\20170117_trainingaccount\SourceCode\Phanquyen.Solution\Phanquyen.Main\bin\Release\Phanquyen.Presenter.pdb
+E:\____Downloads\20170117_trainingaccount\SourceCode\Phanquyen.Solution\Phanquyen.Main\bin\Release\Phanquyen.Model.pdb
+E:\____Downloads\20170117_trainingaccount\SourceCode\Phanquyen.Solution\Phanquyen.Main\bin\Release\de\DevExpress.Data.v12.2.resources.dll
+E:\____Downloads\20170117_trainingaccount\SourceCode\Phanquyen.Solution\Phanquyen.Main\bin\Release\es\DevExpress.Data.v12.2.resources.dll
+E:\____Downloads\20170117_trainingaccount\SourceCode\Phanquyen.Solution\Phanquyen.Main\bin\Release\ja\DevExpress.Data.v12.2.resources.dll
+E:\____Downloads\20170117_trainingaccount\SourceCode\Phanquyen.Solution\Phanquyen.Main\bin\Release\ru\DevExpress.Data.v12.2.resources.dll
+E:\____Downloads\20170117_trainingaccount\SourceCode\Phanquyen.Solution\Phanquyen.Main\bin\Release\de\DevExpress.Printing.v12.2.Core.resources.dll
+E:\____Downloads\20170117_trainingaccount\SourceCode\Phanquyen.Solution\Phanquyen.Main\bin\Release\es\DevExpress.Printing.v12.2.Core.resources.dll
+E:\____Downloads\20170117_trainingaccount\SourceCode\Phanquyen.Solution\Phanquyen.Main\bin\Release\ja\DevExpress.Printing.v12.2.Core.resources.dll
+E:\____Downloads\20170117_trainingaccount\SourceCode\Phanquyen.Solution\Phanquyen.Main\bin\Release\ru\DevExpress.Printing.v12.2.Core.resources.dll
+E:\____Downloads\20170117_trainingaccount\SourceCode\Phanquyen.Solution\Phanquyen.Main\bin\Release\de\DevExpress.Utils.v12.2.resources.dll
+E:\____Downloads\20170117_trainingaccount\SourceCode\Phanquyen.Solution\Phanquyen.Main\bin\Release\es\DevExpress.Utils.v12.2.resources.dll
+E:\____Downloads\20170117_trainingaccount\SourceCode\Phanquyen.Solution\Phanquyen.Main\bin\Release\ja\DevExpress.Utils.v12.2.resources.dll
+E:\____Downloads\20170117_trainingaccount\SourceCode\Phanquyen.Solution\Phanquyen.Main\bin\Release\ru\DevExpress.Utils.v12.2.resources.dll
+E:\____Downloads\20170117_trainingaccount\SourceCode\Phanquyen.Solution\Phanquyen.Main\bin\Release\de\DevExpress.XtraBars.v12.2.resources.dll
+E:\____Downloads\20170117_trainingaccount\SourceCode\Phanquyen.Solution\Phanquyen.Main\bin\Release\es\DevExpress.XtraBars.v12.2.resources.dll
+E:\____Downloads\20170117_trainingaccount\SourceCode\Phanquyen.Solution\Phanquyen.Main\bin\Release\ja\DevExpress.XtraBars.v12.2.resources.dll
+E:\____Downloads\20170117_trainingaccount\SourceCode\Phanquyen.Solution\Phanquyen.Main\bin\Release\ru\DevExpress.XtraBars.v12.2.resources.dll
+E:\____Downloads\20170117_trainingaccount\SourceCode\Phanquyen.Solution\Phanquyen.Main\bin\Release\de\DevExpress.XtraEditors.v12.2.resources.dll
+E:\____Downloads\20170117_trainingaccount\SourceCode\Phanquyen.Solution\Phanquyen.Main\bin\Release\es\DevExpress.XtraEditors.v12.2.resources.dll
+E:\____Downloads\20170117_trainingaccount\SourceCode\Phanquyen.Solution\Phanquyen.Main\bin\Release\ja\DevExpress.XtraEditors.v12.2.resources.dll
+E:\____Downloads\20170117_trainingaccount\SourceCode\Phanquyen.Solution\Phanquyen.Main\bin\Release\ru\DevExpress.XtraEditors.v12.2.resources.dll
+E:\____Downloads\20170117_trainingaccount\SourceCode\Phanquyen.Solution\Phanquyen.Main\bin\Release\de\DevExpress.XtraGrid.v12.2.resources.dll
+E:\____Downloads\20170117_trainingaccount\SourceCode\Phanquyen.Solution\Phanquyen.Main\bin\Release\es\DevExpress.XtraGrid.v12.2.resources.dll
+E:\____Downloads\20170117_trainingaccount\SourceCode\Phanquyen.Solution\Phanquyen.Main\bin\Release\ja\DevExpress.XtraGrid.v12.2.resources.dll
+E:\____Downloads\20170117_trainingaccount\SourceCode\Phanquyen.Solution\Phanquyen.Main\bin\Release\ru\DevExpress.XtraGrid.v12.2.resources.dll
+E:\____Downloads\20170117_trainingaccount\SourceCode\Phanquyen.Solution\Phanquyen.Main\bin\Release\de\DevExpress.XtraLayout.v12.2.resources.dll
+E:\____Downloads\20170117_trainingaccount\SourceCode\Phanquyen.Solution\Phanquyen.Main\bin\Release\es\DevExpress.XtraLayout.v12.2.resources.dll
+E:\____Downloads\20170117_trainingaccount\SourceCode\Phanquyen.Solution\Phanquyen.Main\bin\Release\ja\DevExpress.XtraLayout.v12.2.resources.dll
+E:\____Downloads\20170117_trainingaccount\SourceCode\Phanquyen.Solution\Phanquyen.Main\bin\Release\ru\DevExpress.XtraLayout.v12.2.resources.dll
+E:\____Downloads\20170117_trainingaccount\SourceCode\Phanquyen.Solution\Phanquyen.Main\bin\Release\de\DevExpress.XtraNavBar.v12.2.resources.dll
+E:\____Downloads\20170117_trainingaccount\SourceCode\Phanquyen.Solution\Phanquyen.Main\bin\Release\es\DevExpress.XtraNavBar.v12.2.resources.dll
+E:\____Downloads\20170117_trainingaccount\SourceCode\Phanquyen.Solution\Phanquyen.Main\bin\Release\ja\DevExpress.XtraNavBar.v12.2.resources.dll
+E:\____Downloads\20170117_trainingaccount\SourceCode\Phanquyen.Solution\Phanquyen.Main\bin\Release\ru\DevExpress.XtraNavBar.v12.2.resources.dll

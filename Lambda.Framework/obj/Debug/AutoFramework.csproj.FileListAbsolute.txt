@@ -1,0 +1,20 @@
+D:\tuantp@live.com\Dropbox\__Team\_____Banhang\___Project\Service\AutoService\AutoFramework\bin\Debug\AutoFramework.dll
+D:\tuantp@live.com\Dropbox\__Team\_____Banhang\___Project\Service\AutoService\AutoFramework\bin\Debug\AutoFramework.pdb
+D:\tuantp@live.com\Dropbox\__Team\_____Banhang\___Project\Service\AutoService\AutoFramework\bin\Debug\CoreService.dll
+D:\tuantp@live.com\Dropbox\__Team\_____Banhang\___Project\Service\AutoService\AutoFramework\bin\Debug\CoreService.pdb
+D:\tuantp@live.com\Dropbox\__Team\_____Banhang\___Project\Service\AutoService\AutoFramework\obj\Debug\AutoFramework.csprojResolveAssemblyReference.cache
+D:\tuantp@live.com\Dropbox\__Team\_____Banhang\___Project\Service\AutoService\AutoFramework\obj\Debug\AutoFramework.dll
+D:\tuantp@live.com\Dropbox\__Team\_____Banhang\___Project\Service\AutoService\AutoFramework\obj\Debug\AutoFramework.pdb
+D:\Dropbox\Project\_____Banhang\___Project\Service\AutoService\AutoFramework\bin\Debug\AutoFramework.dll
+D:\Dropbox\Project\_____Banhang\___Project\Service\AutoService\AutoFramework\bin\Debug\AutoFramework.pdb
+D:\Dropbox\Project\_____Banhang\___Project\Service\AutoService\AutoFramework\obj\Debug\AutoFramework.dll
+D:\Dropbox\Project\_____Banhang\___Project\Service\AutoService\AutoFramework\obj\Debug\AutoFramework.pdb
+D:\Dropbox\______GenCode\__AutoService\AutoService\AutoFramework\bin\Debug\AutoFramework.dll
+D:\Dropbox\______GenCode\__AutoService\AutoService\AutoFramework\bin\Debug\AutoFramework.pdb
+D:\Dropbox\______GenCode\__AutoService\AutoService\AutoFramework\obj\Debug\AutoFramework.csprojResolveAssemblyReference.cache
+D:\Dropbox\______GenCode\__AutoService\AutoService\AutoFramework\obj\Debug\AutoFramework.dll
+D:\Dropbox\______GenCode\__AutoService\AutoService\AutoFramework\obj\Debug\AutoFramework.pdb
+D:\tuantp@live.com\Dropbox\Cong nghe\BMIFramework\AutoFramework\bin\Debug\AutoFramework.dll
+D:\tuantp@live.com\Dropbox\Cong nghe\BMIFramework\AutoFramework\bin\Debug\AutoFramework.pdb
+D:\tuantp@live.com\Dropbox\Cong nghe\BMIFramework\AutoFramework\obj\Debug\AutoFramework.dll
+D:\tuantp@live.com\Dropbox\Cong nghe\BMIFramework\AutoFramework\obj\Debug\AutoFramework.pdb

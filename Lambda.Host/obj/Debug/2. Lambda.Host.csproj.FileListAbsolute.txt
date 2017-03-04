@@ -1,0 +1,34 @@
+E:\____Downloads\20170117_trainingaccount\SourceCode\Lambda.Solution\Lambda.Host\bin\Debug\Lambda.Host.dll
+E:\____Downloads\20170117_trainingaccount\SourceCode\Lambda.Solution\Lambda.Host\bin\Debug\Lambda.Host.pdb
+E:\____Downloads\20170117_trainingaccount\SourceCode\Lambda.Solution\Lambda.Host\bin\Debug\Lambda.AutoService.dll
+E:\____Downloads\20170117_trainingaccount\SourceCode\Lambda.Solution\Lambda.Host\bin\Debug\Lambda.CoreService.dll
+E:\____Downloads\20170117_trainingaccount\SourceCode\Lambda.Solution\Lambda.Host\bin\Debug\Lambda.DataObject.dll
+E:\____Downloads\20170117_trainingaccount\SourceCode\Lambda.Solution\Lambda.Host\bin\Debug\Lambda.Framework.dll
+E:\____Downloads\20170117_trainingaccount\SourceCode\Lambda.Solution\Lambda.Host\bin\Debug\Lambda.BusinessObject.dll
+E:\____Downloads\20170117_trainingaccount\SourceCode\Lambda.Solution\Lambda.Host\bin\Debug\Lambda.DynamicLoad.dll
+E:\____Downloads\20170117_trainingaccount\SourceCode\Lambda.Solution\Lambda.Host\bin\Debug\Lambda.AutoService.pdb
+E:\____Downloads\20170117_trainingaccount\SourceCode\Lambda.Solution\Lambda.Host\bin\Debug\Lambda.CoreService.pdb
+E:\____Downloads\20170117_trainingaccount\SourceCode\Lambda.Solution\Lambda.Host\bin\Debug\Lambda.DataObject.pdb
+E:\____Downloads\20170117_trainingaccount\SourceCode\Lambda.Solution\Lambda.Host\bin\Debug\Lambda.Framework.pdb
+E:\____Downloads\20170117_trainingaccount\SourceCode\Lambda.Solution\Lambda.Host\bin\Debug\Lambda.BusinessObject.pdb
+E:\____Downloads\20170117_trainingaccount\SourceCode\Lambda.Solution\Lambda.Host\bin\Debug\Lambda.DynamicLoad.pdb
+E:\____Downloads\20170117_trainingaccount\SourceCode\Lambda.Solution\Lambda.Host\obj\Debug\2. Lambda.Host.csprojResolveAssemblyReference.cache
+E:\____Downloads\20170117_trainingaccount\SourceCode\Lambda.Solution\Lambda.Host\obj\Debug\Lambda.Host.dll
+E:\____Downloads\20170117_trainingaccount\SourceCode\Lambda.Solution\Lambda.Host\obj\Debug\Lambda.Host.pdb
+D:\01.DH_SuPham\Lambda.Solution\Lambda.Host\bin\Debug\Lambda.Host.dll
+D:\01.DH_SuPham\Lambda.Solution\Lambda.Host\bin\Debug\Lambda.Host.pdb
+D:\01.DH_SuPham\Lambda.Solution\Lambda.Host\bin\Debug\Lambda.AutoService.dll
+D:\01.DH_SuPham\Lambda.Solution\Lambda.Host\bin\Debug\Lambda.CoreService.dll
+D:\01.DH_SuPham\Lambda.Solution\Lambda.Host\bin\Debug\Lambda.DataObject.dll
+D:\01.DH_SuPham\Lambda.Solution\Lambda.Host\bin\Debug\Lambda.Framework.dll
+D:\01.DH_SuPham\Lambda.Solution\Lambda.Host\bin\Debug\Lambda.BusinessObject.dll
+D:\01.DH_SuPham\Lambda.Solution\Lambda.Host\bin\Debug\Lambda.DynamicLoad.dll
+D:\01.DH_SuPham\Lambda.Solution\Lambda.Host\bin\Debug\Lambda.AutoService.pdb
+D:\01.DH_SuPham\Lambda.Solution\Lambda.Host\bin\Debug\Lambda.CoreService.pdb
+D:\01.DH_SuPham\Lambda.Solution\Lambda.Host\bin\Debug\Lambda.DataObject.pdb
+D:\01.DH_SuPham\Lambda.Solution\Lambda.Host\bin\Debug\Lambda.Framework.pdb
+D:\01.DH_SuPham\Lambda.Solution\Lambda.Host\bin\Debug\Lambda.BusinessObject.pdb
+D:\01.DH_SuPham\Lambda.Solution\Lambda.Host\bin\Debug\Lambda.DynamicLoad.pdb
+D:\01.DH_SuPham\Lambda.Solution\Lambda.Host\obj\Debug\2. Lambda.Host.csprojResolveAssemblyReference.cache
+D:\01.DH_SuPham\Lambda.Solution\Lambda.Host\obj\Debug\Lambda.Host.dll
+D:\01.DH_SuPham\Lambda.Solution\Lambda.Host\obj\Debug\Lambda.Host.pdb
